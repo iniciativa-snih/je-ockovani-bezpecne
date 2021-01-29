@@ -1,0 +1,4 @@
+include jsouvakcinybezpecne/schema.sql
+graft jsouvakcinybezpecne/static
+graft jsouvakcinybezpecne/templates
+global-exclude *.pyc

@@ -1,0 +1,13 @@
+{% extends 'base.jinja2' %}
+
+{% block header %}
+  <h1>{% block title %}Simple Stats{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  {% if stats %}
+    <div class="stats">{{ stats.date_from }}</div>
+    <div class="stats">{{ stats.vaccinated }}</div>
+    <div class="stats">{{ stats.vaccinated }}</div>
+  {% endif %}
+{% endblock %}
