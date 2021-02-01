@@ -3,8 +3,6 @@ from gazpacho import get, Soup
 from datetime import datetime
 from sqlalchemy import desc
 
-import os
-
 from .models import Submit
 from .database import db
 
@@ -23,7 +21,7 @@ def get_submits(timestamp):
     date_for = datetime.strptime(tbodies[0].find('td')[2].text, '%d.%m.%Y')
     submits = int(tbodies[0].find('td')[3].text)
     submit_details_df = pd.DataFrame([parse_effect(tr) for tr in tbodies[1].find('tr')[1:]])
-    
+
     submit_details_df['timestamp'] = timestamp
 
     submit_old = db.query(Submit).order_by(desc(Submit.date_for)).first()

@@ -1,10 +1,8 @@
 import os
 
 from flask import Flask
-from flask_migrate import Migrate
+# from flask_migrate import Migrate
 from flask_babel import Babel
-
-import os
 
 
 def create_app(test_config=None):
@@ -16,9 +14,9 @@ def create_app(test_config=None):
     config_class = os.environ['APP_SETTINGS'] if test_config is None else test_config
     app.config.from_object(config_class)
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
- 
+
     # migrate = Migrate(app, db)
-    
+
     babel = Babel(app)
 
     # ensure the instance folder exists
@@ -31,6 +29,7 @@ def create_app(test_config=None):
         from . import routes
 
         from flask import request
+
         @babel.localeselector
         def get_locale():
             # otherwise try to guess the language from the user accept

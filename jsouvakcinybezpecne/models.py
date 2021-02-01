@@ -1,11 +1,11 @@
-from sqlalchemy import Column, Integer, String, DateTime
+from sqlalchemy import Column, Integer, DateTime
 from datetime import datetime
 
 from .database import Base
 
 
 class Submit(Base):
-    
+
     __tablename__ = 'submits'
 
     timestamp = Column(
@@ -27,19 +27,17 @@ class Submit(Base):
         nullable=False
     )
 
-
     def __init__(self, timestamp: datetime, date_for: datetime, submits: int):
         self.timestamp = timestamp
         self.date_for = date_for
         self.submits = submits
-
 
     def __repr__(self):
         return f'<Submit {self.timestamp} from {self.date_for} with {self.submits} submits>'
 
 
 class Vaccine(Base):
-    
+
     __tablename__ = 'vaccines'
 
     timestamp = Column(
@@ -74,13 +72,13 @@ class Vaccine(Base):
         self.first_vaccines = first_vaccines
         self.second_vaccines = second_vaccines
 
-
     def __repr__(self):
-        return f'<Vaccine {self.timestamp} from {self.date_for} with {self.first_vaccines} and {self.second_vaccines} vaccines'
+        return f'<Vaccine {self.timestamp} from {self.date_for} with {self.first_vaccines} and ' \
+            + f'{self.second_vaccines} vaccines'
 
 
 class Dead(Base):
-    
+
     __tablename__ = 'deads'
 
     timestamp = Column(
@@ -107,13 +105,12 @@ class Dead(Base):
         self.date_for = date_for
         self.deads_cumulative = deads_cumulative
 
-
     def __repr__(self):
         return f'<Dead {self.timestamp} from {self.date_for} with {self.deads_cumulative} deaths'
 
 
 class Case(Base):
-    
+
     __tablename__ = 'cases'
 
     timestamp = Column(
@@ -147,7 +144,6 @@ class Case(Base):
         self.date_for = date_for
         self.cases = cases
         self.cases_cumulative = cases_cumulative
-
 
     def __repr__(self):
         return f'<Case {self.timestamp} from {self.date_for} with {self.cases} cases'

@@ -1,20 +1,20 @@
-import pandas as pd
 import click
-from flask import request, render_template, make_response
-from datetime import datetime, timedelta
+from flask import render_template
+from datetime import timedelta
 from flask import current_app as app
 from flask.cli import with_appcontext
-from functools import reduce
+from contextlib import contextmanager
 
 from .models import Submit, Vaccine, Dead, Case
 
 from .database import db, init_db
+
+
 @app.teardown_appcontext
 def shutdown_session(exception=None):
     db.remove()
 
 
-from contextlib import contextmanager
 @contextmanager
 def transaction():
     try:
