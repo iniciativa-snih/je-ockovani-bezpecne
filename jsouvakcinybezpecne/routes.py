@@ -39,9 +39,10 @@ def init_app(app):
 @app.route('/', methods=['GET'])
 @transaction()
 def index():
-    submit = Submit.query.order_by(Submit.date_for.desc()).first()
-    date_for = submit.date_for
+    submit = Submit.query.order_by(Submit.date_for.desc()).limit(2).all()
+    date_for = submit[0].date_for
     date_from = date_for - timedelta(days=6)
+    submits_no = submit[0].submits - submit[1].submits
 
     vaccines = (Vaccine.query
         .filter(Vaccine.date_for >= date_from)
@@ -60,7 +61,7 @@ def index():
 
     cases = Case.query.order_by(Case.date_for.desc()).first()
 
-    return render_template('stats/stats.jinja2', submit=submit,
+    return render_template('stats/stats.jinja2', submit=submit, submits=submits_no,
                            vaccines=vaccines_no, deads=deads_no,
                            date_from=date_from, date_for=date_for,
                            cases=cases_no, date_covid_update=cases.date_for)
