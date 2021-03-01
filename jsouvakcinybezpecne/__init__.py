@@ -1,6 +1,7 @@
 import os
 
 from flask import Flask
+
 # from flask_migrate import Migrate
 from flask_babel import Babel
 
@@ -11,9 +12,9 @@ def create_app(test_config=None):
 
     app = Flask(__name__, instance_relative_config=False)
 
-    config_class = os.environ['APP_SETTINGS'] if test_config is None else test_config
+    config_class = os.environ["APP_SETTINGS"] if test_config is None else test_config
     app.config.from_object(config_class)
-    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
     # migrate = Migrate(app, db)
 
@@ -35,9 +36,10 @@ def create_app(test_config=None):
             # otherwise try to guess the language from the user accept
             # header the browser transmits.  We support de/fr/en in this
             # example.  The best match wins.
-            return request.accept_languages.best_match(['cs', 'en'])
+            return request.accept_languages.best_match(["cs", "en"])
 
         from .routes import init_app
+
         init_app(app)
 
         return app

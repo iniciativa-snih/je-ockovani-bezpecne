@@ -1,9 +1,10 @@
 import click
 from flask import render_template
-from datetime import timedelta
+from datetime import datetime
 from flask import current_app as app
 from flask.cli import with_appcontext
 from contextlib import contextmanager
+from flask_babel import format_number, format_date
 
 from .models import Submit, Vaccine, Dead, Case
 
@@ -25,31 +26,26 @@ def transaction():
         raise
 
 
-@click.command('init-db')
+@click.command("init-db")
 @with_appcontext
 def init_db_command():
     init_db()
-    click.echo('Initialized the database.')
+    click.echo("Initialized the database.")
 
 
 def init_app(app):
     app.cli.add_command(init_db_command)
 
 
-@app.route('/', methods=['GET'])
+@app.route("/", methods=["GET"])
 @transaction()
 def index():
-    submit = Submit.query.order_by(Submit.date_for.desc()).limit(2).all()
-    date_for = submit[0].date_for
-    date_from = date_for - timedelta(days=6)
-    submits_no = submit[0].submits - submit[1].submits
+    submit = Submit.query.order_by(Submit.date_for.desc()).first()
+    date_for = submit.date_for
+    date_from = datetime(2020, 12, 27)
 
-    vaccines = (Vaccine.query
-        .filter(Vaccine.date_for >= date_from)
-        .filter(Vaccine.date_for <= date_for)
-        .all()
-    )
-    vaccines_no = sum([v.first_vaccines + v.second_vaccines for v in vaccines])
+    vaccines = Vaccine.query.filter(Vaccine.date_for >= date_from).filter(Vaccine.date_for <= date_for).all()
+    vaccinated_no = sum([v.first_vaccines for v in vaccines])
 
     deads_from = Dead.query.filter(Dead.date_for == date_from).first()
     deads_for = Dead.query.filter(Dead.date_for == date_for).first()
@@ -59,14 +55,26 @@ def index():
     cases_for = Case.query.filter(Case.date_for == date_for).first()
     cases_no = cases_for.cases_cumulative - cases_from.cases_cumulative
 
-    cases = Case.query.order_by(Case.date_for.desc()).first()
+    return render_template(
+        "index.jinja2",
+        submit=submit,
+        vaccinated=vaccinated_no,
+        deads=deads_no,
+        date_from=date_from,
+        date_for=date_for,
+        cases=cases_no,
+    )
 
-    return render_template('stats/stats.jinja2', submit=submit, submits=submits_no,
-                           vaccines=vaccines_no, deads=deads_no,
-                           date_from=date_from, date_for=date_for,
-                           cases=cases_no, date_covid_update=cases.date_for)
+
+@app.template_filter()
+def fmt_number(value):
+    return format_number(value)
 
 
-@app.route('/hello', methods=['GET'])
-def hello():
-    return render_template('index.jinja2')
+@app.template_filter()
+def fmt_date(value):
+    return format_date(value)
+
+
+app.jinja_env.filters["fmt_number"] = fmt_number
+app.jinja_env.filters["fmt_date"] = fmt_date

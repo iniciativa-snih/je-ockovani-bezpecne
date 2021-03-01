@@ -1,3 +1,14 @@
+brunette:
+	brunette jsouvakcinybezpecne tests config.py
+
+flake:
+	flake8 jsouvakcinybezpecne tests config.py
+
+test:
+	pytest
+
+check: brunette flake test
+
 install-dev:
 	python -m pip install virtualenv
 	python -m virtualenv venv
