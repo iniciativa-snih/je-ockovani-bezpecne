@@ -1,5 +1,5 @@
 """App entry point."""
-from jsouvakcinybezpecne import create_app
+from jeockovanibezpecne import create_app
 
 application = create_app()
 

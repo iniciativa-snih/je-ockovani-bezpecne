@@ -2,8 +2,8 @@ import os
 import tempfile
 
 import pytest
-from jsouvakcinybezpecne import create_app
-from jsouvakcinybezpecne.db import get_db, init_db
+from jeockovanibezpecne import create_app
+from jeockovanibezpecne.db import get_db, init_db
 
 with open(os.path.join(os.path.dirname(__file__), 'data.sql'), 'rb') as f:
     _data_sql = f.read().decode('utf8')

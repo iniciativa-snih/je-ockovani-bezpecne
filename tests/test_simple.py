@@ -1,5 +1,5 @@
 import pytest
-from jsouvakcinybezpecne.db import get_db
+from jeockovanibezpecne.db import get_db
 
 
 def test_index(client):

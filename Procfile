@@ -1,1 +1,1 @@
-web: gunicorn jsouvakcinybezpecne.wsgi
+web: gunicorn jeockovanibezpecne.wsgi
