@@ -105,6 +105,10 @@ p.answer {
   text-align: center;
 }
 
+.period time {
+  white-space: nowrap;
+}
+
 .faq {
   margin: 3rem 0 0;
   text-align: center;
