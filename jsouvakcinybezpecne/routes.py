@@ -1,5 +1,5 @@
 import click
-from flask import render_template
+from flask import render_template, send_from_directory, request
 from datetime import datetime
 from flask import current_app as app
 from flask.cli import with_appcontext
@@ -78,3 +78,19 @@ def fmt_date(value):
 
 app.jinja_env.filters["fmt_number"] = fmt_number
 app.jinja_env.filters["fmt_date"] = fmt_date
+
+
+@app.route("/robots.txt")
+@app.route("/humans.txt")
+def static_from_root():
+    return send_from_directory(app.static_folder, request.path[1:])
+
+
+@app.route("/favicon.ico")
+def favicon():
+    return send_from_directory(app.static_folder, "favicon.ico", mimetype="image/vnd.microsoft.icon")
+
+
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template("404.jinja2"), 404
