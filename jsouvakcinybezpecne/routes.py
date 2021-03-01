@@ -65,3 +65,8 @@ def index():
                            vaccines=vaccines_no, deads=deads_no,
                            date_from=date_from, date_for=date_for,
                            cases=cases_no, date_covid_update=cases.date_for)
+
+
+@app.route('/hello', methods=['GET'])
+def hello():
+    return render_template('index.jinja2')

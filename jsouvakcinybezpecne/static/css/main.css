@@ -1,0 +1,292 @@
+/* Modular scale: https://www.modularscale.com/?16,20&px&1.5 */
+/* Icon sources: https://www.flaticon.com/packs/coronavirus-155 */
+
+html {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px; /* 1rem; 2/3*baseline */
+  line-height: 1.5rem; /* 24px; 1*baseline */
+  color: #222;
+}
+
+body {
+  margin: 1.5rem 1rem; /* 24px 16px; 1*baseline 2/3*baseline */
+  display: block;
+}
+
+main,
+footer {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+p {
+  margin: 1.5rem 0 0; /* 24px; 1*baseline */
+}
+
+h1.question {
+  font-size: 2.25rem; /* 36px */
+  line-height: 3rem; /* 48px; 2*baseline */
+  margin: 1.5rem 0 0; /* 24px; 1*baseline */
+  font-weight: 700;
+  text-align: center;
+}
+
+p.answer {
+  font-size: 7.594rem; /* 121.5px */
+  line-height: 9rem; /* 144px; 6*baseline */
+  margin: 1.5rem 0 0; /* 24px; 1*baseline */
+  font-weight: 800;
+  text-align: center;
+  text-transform: uppercase;
+  color: #00B0C7;
+}
+
+.comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1rem;
+  align-items: end;
+  max-width: 32rem;
+  margin: 0 auto;
+}
+
+.comparison section { display: contents; }
+.comparison section :nth-child(1) { grid-row-start: 1; }
+.comparison section :nth-child(2) { grid-row-start: 2; }
+.comparison section :nth-child(3) { grid-row-start: 3; }
+.comparison section :nth-child(4) { grid-row-start: 4; }
+.comparison section :nth-child(5) { grid-row-start: 5; }
+
+.comparison h2 {
+  font-size: 1.5rem; /* 24px; 1*baseline */
+  line-height: 1.5rem; /* 24px; 1*baseline */
+  margin: 1.5rem 0 0; /* 24px; 1*baseline */
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.comparison h2 img {
+  width: 5rem; /* 5+1rem; 4*baseline */
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.comparison h2 span {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: none;
+  display: block;
+}
+
+.comparison h3 {
+  font-size: 1.25rem; /* always two lines: 2*20px */
+  line-height: 1.5rem; /* 24px; 1*baseline */
+  margin: 0;
+}
+
+.comparison p.count {
+  font-size: 1.875rem; /* 30px */
+  line-height: 3rem; /* 48px; 2*baseline */
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.comparison .side-effects {
+  color: #00B0C7;
+}
+
+.comparison .covid-deaths {
+  color: #EC5656;
+}
+
+.period {
+  text-align: center;
+}
+
+.faq {
+  margin: 3rem 0 0;
+  text-align: center;
+}
+
+.faq a {
+  display: inline-block;
+  padding: .75rem 3rem;
+  border-radius: 5px;
+  background-color: #00B0C7;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+ul.credits {
+  text-align: center;
+  margin-top: 4.5rem; /* 72px; 3*baseline */
+  font-size: 0.667rem; /* 10.667px */
+  line-height: 1rem; /* 16px; 2/3*baseline */
+  list-style: none;
+}
+
+ul.credits a {
+  color: inherit;
+}
+
+ul.credits li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+ul.credits li:not(:last-of-type)::after {
+  content: ' • ';
+}
+
+
+@media only screen and (min-width: 25em) {
+  .comparison {
+    padding-left: 1rem; /* balance colum left-centering visually */
+  }
+
+  .comparison p.count {
+    font-size: 2.25rem; /* 36px */
+    line-height: 3rem; /* 48px; 2*baseline */
+    margin-top: 1.2rem;
+    margin-bottom: .3rem;
+  }
+}
+
+@media only screen and (min-width: 35em) {
+  body {
+    margin: 3rem 3rem 1.5rem;
+  }
+
+  .comparison {
+    padding-left: 2rem; /* balance colum left-centering visually */
+  }
+
+  .comparison p.count {
+    font-size: 2.813rem; /* 45px */
+    line-height: 3rem; /* 48px; 2*baseline */
+  }
+}
+
+
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * Vendor-prefixed and regular ::selection selectors cannot be combined:
+ * https://stackoverflow.com/a/16982510/7133471
+ *
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+
+
+@media print,
+  (-webkit-min-device-pixel-ratio: 1.25),
+  (min-resolution: 1.25dppx),
+  (min-resolution: 120dpi) {
+  /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   https://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+  *,
+  *::before,
+  *::after {
+    background: #fff !important;
+    color: #000 !important;
+    /* Black prints faster */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]::after {
+    content: " (" attr(title) ")";
+  }
+
+  /*
+   * Don't show links that are fragment identifiers,
+   * or use the `javascript:` pseudo protocol
+   */
+  a[href^="#"]::after,
+  a[href^="javascript:"]::after {
+    content: "";
+  }
+
+  pre {
+    white-space: pre-wrap !important;
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  /*
+   * Printing Tables:
+   * https://web.archive.org/web/20180815150934/http://css-discuss.incutio.com/wiki/Printing_Tables
+   */
+  thead {
+    display: table-header-group;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}
