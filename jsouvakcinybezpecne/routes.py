@@ -4,7 +4,7 @@ from datetime import datetime
 from flask import current_app as app
 from flask.cli import with_appcontext
 from contextlib import contextmanager
-from flask_babel import format_number, format_date
+from flask_babel import format_date
 
 from .models import Submit, Vaccine, Dead, Case
 
@@ -68,12 +68,13 @@ def index():
 
 @app.template_filter()
 def fmt_number(value):
-    return format_number(value)
+    # https://stackoverflow.com/q/36889758/5763764
+    return '{0:,}'.format(value).replace(',', '&thinsp;')
 
 
 @app.template_filter()
 def fmt_date(value):
-    return format_date(value)
+    return format_date(value, locale='cs')
 
 
 app.jinja_env.filters["fmt_number"] = fmt_number
