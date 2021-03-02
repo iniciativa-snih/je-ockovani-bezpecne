@@ -4,7 +4,7 @@ from datetime import datetime
 from sqlalchemy import desc
 
 from .models import Submit
-from .database import db
+from .database import db_session
 
 
 def get_submits(timestamp):
@@ -23,11 +23,11 @@ def get_submits(timestamp):
 
     submit_details_df["timestamp"] = timestamp
 
-    submit_old = db.query(Submit).order_by(desc(Submit.date_for)).first()
+    submit_old = db_session.query(Submit).order_by(desc(Submit.date_for)).first()
 
     if submit_old is None or submit_old.date_for < date_for:
-        db.add(Submit(timestamp, date_for, submits))
-        db.commit()
+        db_session.add(Submit(timestamp, date_for, submits))
+        db_session.commit()
 
 
 def get_vaccinations(timestamp):
@@ -40,8 +40,8 @@ def get_vaccinations(timestamp):
     vaccines.columns = ["date_for", "first_vaccines", "second_vaccines"]
     vaccines["timestamp"] = timestamp
     vaccines = vaccines[["timestamp", "date_for", "first_vaccines", "second_vaccines"]]
-    vaccines.to_sql("vaccines", db.connection(), if_exists="replace", index=False)
-    db.commit()
+    vaccines.to_sql("vaccines", db_session.connection(), if_exists="replace", index=False)
+    db_session.commit()
 
 
 def get_deaths(timestamp):
@@ -54,8 +54,8 @@ def get_deaths(timestamp):
     deaths.columns = ["date_for", "deads_cumulative"]
     deaths["timestamp"] = timestamp
     deaths = deaths[["timestamp", "date_for", "deads_cumulative"]]
-    deaths.to_sql("deads", db.connection(), if_exists="replace", index=False)
-    db.commit()
+    deaths.to_sql("deads", db_session.connection(), if_exists="replace", index=False)
+    db_session.commit()
 
 
 def get_cases(timestamp):
@@ -67,8 +67,8 @@ def get_cases(timestamp):
     cases.columns = ["date_for", "cases", "cases_cumulative"]
     cases["timestamp"] = timestamp
     cases = cases[["timestamp", "date_for", "cases", "cases_cumulative"]]
-    cases.to_sql("cases", db.connection(), if_exists="replace", index=False)
-    db.commit()
+    cases.to_sql("cases", db_session.connection(), if_exists="replace", index=False)
+    db_session.commit()
 
 
 def update():

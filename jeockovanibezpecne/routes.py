@@ -1,44 +1,29 @@
+from datetime import datetime
+
 import click
 from flask import render_template, send_from_directory, request
-from datetime import datetime
 from flask import current_app as app
 from flask.cli import with_appcontext
-from contextlib import contextmanager
-from flask_babel import format_date
 
 from .models import Submit, Vaccine, Dead, Case
 
-from .database import db, init_db
+from .database import init_db_command
+from .update import update
 
 
-@app.teardown_appcontext
-def shutdown_session(exception=None):
-    db.remove()
-
-
-@contextmanager
-def transaction():
-    try:
-        yield
-        db.commit()
-    except Exception:
-        db.rollback()
-        raise
-
-
-@click.command("init-db")
+@click.command("update")
 @with_appcontext
-def init_db_command():
-    init_db()
-    click.echo("Initialized the database.")
+def update_command():
+    update()
+    click.echo("Database updated.")
 
 
 def init_app(app):
     app.cli.add_command(init_db_command)
+    app.cli.add_command(update_command)
 
 
 @app.route("/", methods=["GET"])
-@transaction()
 def index():
     submit = Submit.query.order_by(Submit.date_for.desc()).first()
     date_for = submit.date_for
