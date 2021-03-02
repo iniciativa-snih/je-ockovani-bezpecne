@@ -1,4 +1,4 @@
-from jsouvakcinybezpecne import create_app
+from jeockovanibezpecne import create_app
 
 
 def test_config():
@@ -18,7 +18,7 @@ def test_init_db_command(runner, monkeypatch):
     def fake_init_db():
         Recorder.called = True
 
-    monkeypatch.setattr('jsouvakcinybezpecne.db.init_db', fake_init_db)
+    monkeypatch.setattr('jeockovanibezpecne.db.init_db', fake_init_db)
     result = runner.invoke(args=['init-db'])
     assert 'Initialized' in result.output
     assert Recorder.called

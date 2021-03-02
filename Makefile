@@ -1,8 +1,8 @@
 brunette:
-	brunette jsouvakcinybezpecne tests config.py
+	brunette jeockovanibezpecne tests config.py
 
 flake:
-	flake8 jsouvakcinybezpecne tests config.py
+	flake8 jeockovanibezpecne tests config.py
 
 test:
 	pytest
@@ -15,13 +15,13 @@ install-dev:
 	source venv/bin/activate && python -m pip install -e ".[dev]"
 	source venv/bin/activate && pre-commit install
 	source venv/bin/activate && python -m pip install ipykernel
-	source venv/bin/activate && ipython kernel install --user --name=jsou-vakciny-bezpecne
+	source venv/bin/activate && ipython kernel install --user --name=je-ockovani-bezpecne
 
 clean:
-	rm -rf build __pycache__ jsouvakcinybezpecne/__pycache__ __pycache__ \
-	tests/__pycache__ tests/jsouvakcinybezpecne/__pycache__ .pytest_cache *.egg-info .eggs tests/jsouvakcinybezpecne/__pycache__\
-	tests/jsouvakcinybezpecne/toolkit/__pycache__ tests/jsouvakcinybezpecne/toolkit/testing/__pycache__ \
-	jsouvakcinybezpecne/toolkit/__pycache__ jsouvakcinybezpecne/toolkit/testing/__pycache__ \
-	jsouvakcinybezpecne/toolkit/testing/resources/__pycache__ jsouvakcinybezpecne/toolkit/testing/avast/__pycache__ \
-	tests/jsouvakcinybezpecne/server/__pycache__ tests/jsouvakcinybezpecne/toolkit/__pycache__  tests/jsouvakcinybezpecne/toolkit/avast/__pycache__ \
-	jsouvakcinybezpecne/toolkit/testing/avast/resources/__pycache__
+	rm -rf build __pycache__ jeockovanibezpecne/__pycache__ __pycache__ \
+	tests/__pycache__ tests/jeockovanibezpecne/__pycache__ .pytest_cache *.egg-info .eggs tests/jeockovanibezpecne/__pycache__\
+	tests/jeockovanibezpecne/toolkit/__pycache__ tests/jeockovanibezpecne/toolkit/testing/__pycache__ \
+	jeockovanibezpecne/toolkit/__pycache__ jeockovanibezpecne/toolkit/testing/__pycache__ \
+	jeockovanibezpecne/toolkit/testing/resources/__pycache__ jeockovanibezpecne/toolkit/testing/avast/__pycache__ \
+	tests/jeockovanibezpecne/server/__pycache__ tests/jeockovanibezpecne/toolkit/__pycache__  tests/jeockovanibezpecne/toolkit/avast/__pycache__ \
+	jeockovanibezpecne/toolkit/testing/avast/resources/__pycache__

@@ -105,6 +105,10 @@ p.answer {
   text-align: center;
 }
 
+.period time {
+  white-space: nowrap;
+}
+
 .faq {
   margin: 3rem 0 0;
   text-align: center;
@@ -122,7 +126,8 @@ p.answer {
 
 ul.credits {
   text-align: center;
-  margin-top: 4.5rem; /* 72px; 3*baseline */
+  margin: 4.5rem 0 0; /* 72px; 3*baseline */
+  padding: 0;
   font-size: 0.667rem; /* 10.667px */
   line-height: 1rem; /* 16px; 2/3*baseline */
   list-style: none;
