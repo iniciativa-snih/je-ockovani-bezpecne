@@ -1,0 +1,8 @@
+{
+    "name": "je-ockovani-bezpecne",
+    "version": "0.1.0",
+    "license": "MIT",
+    "scripts": {
+      "postinstall": "cd jeockovanibezpecne/static && npm install"
+    }
+  }

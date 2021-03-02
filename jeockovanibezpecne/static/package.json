@@ -1,0 +1,11 @@
+{
+    "name": "je-ockovani-bezpecne",
+    "version": "0.1.0",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.3.1"
+    }
+}
