@@ -59,7 +59,7 @@ def fmt_number(value):
 
 @app.template_filter()
 def fmt_date(value):
-    return datetime.strftime(value, "%m. %d. %Y").lstrip("0").replace(" 0", " ")
+    return datetime.strftime(value, "%d. %m. %Y").lstrip("0").replace(" 0", " ")
 
 
 app.jinja_env.filters["fmt_number"] = fmt_number
