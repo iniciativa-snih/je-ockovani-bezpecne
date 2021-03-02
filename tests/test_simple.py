@@ -1,7 +1,8 @@
-import pytest
-from jeockovanibezpecne.db import get_db
-
-
 def test_index(client):
-    response = client.get('/')
-    assert b'2021-01-01' in response.data
+    response = client.get("/hello")
+    assert response.data == b"Hello, world"
+
+
+def test_index2(client):
+    response = client.get("/hello")
+    assert response.data == b"Hello, world"

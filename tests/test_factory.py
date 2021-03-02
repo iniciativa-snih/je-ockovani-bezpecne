@@ -2,13 +2,7 @@ from jeockovanibezpecne import create_app
 
 
 def test_config():
-    assert not create_app().testing
-    assert create_app({'TESTING': True}).testing
-
-
-def test_hello(client):
-    response = client.get('/hello')
-    assert response.data == b'Hello, World!'
+    assert create_app("config.TestingConfig").testing
 
 
 def test_init_db_command(runner, monkeypatch):
@@ -18,7 +12,7 @@ def test_init_db_command(runner, monkeypatch):
     def fake_init_db():
         Recorder.called = True
 
-    monkeypatch.setattr('jeockovanibezpecne.db.init_db', fake_init_db)
-    result = runner.invoke(args=['init-db'])
-    assert 'Initialized' in result.output
+    monkeypatch.setattr("jeockovanibezpecne.database.init_db", fake_init_db)
+    result = runner.invoke(args=["init-db"])
+    assert "Initialized" in result.output
     assert Recorder.called

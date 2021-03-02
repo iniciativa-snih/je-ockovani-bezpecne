@@ -16,10 +16,14 @@ def create_app(test_config=None):
     babel = Babel(app)
 
     with app.app_context():
-        from . import routes
+        from . import init
 
-        from .routes import init_app
+        from .init import init_app
 
         init_app(app)
+
+        from . import stats
+
+        app.register_blueprint(stats.bp)
 
         return app
