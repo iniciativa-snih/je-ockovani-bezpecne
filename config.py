@@ -12,7 +12,9 @@ class Config(object):
 
     CSRF_ENABLED = True
     SECRET_KEY = "this-really-needs-to-be-changed"
-    SQLALCHEMY_DATABASE_URI = environ["DATABASE_URL"]
+    SQLALCHEMY_DATABASE_URI = (
+        environ["DATABASE_URL"] if "DATABASE_URL" in environ else "DATABASE_URL env variable is missing"
+    )
 
 
 class ProductionConfig(Config):
@@ -23,6 +25,7 @@ class ProductionConfig(Config):
 
 class DevelopmentConfig(Config):
     TESTING = False
+    SQLALCHEMY_DATABASE_URI = "sqlite:///app.db"
 
 
 class TestingConfig(Config):

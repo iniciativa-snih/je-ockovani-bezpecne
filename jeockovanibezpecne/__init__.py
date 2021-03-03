@@ -7,7 +7,13 @@ from flask_babel import Babel
 def create_app(test_config=None):
     app = Flask(__name__, instance_relative_config=False, static_folder="static")
 
-    config_class = os.environ["APP_SETTINGS"] if test_config is None else test_config
+    if test_config is not None:
+        config_class = test_config
+    elif "APP_SETTINGS" in os.environ:
+        config_class = os.environ["APP_SETTINGS"]
+    else:
+        print("APP_SETTINGS env var is missing config class, provide one")
+        exit(1)
     app.config.from_object(config_class)
     app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
