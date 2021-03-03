@@ -1,8 +1,8 @@
 brunette:
-	brunette jeockovanibezpecne tests config.py
+	brunette jeockovanibezpecne tests config.py setup.py
 
 flake:
-	flake8 jeockovanibezpecne tests config.py
+	flake8 jeockovanibezpecne tests config.py setup.py
 
 test:
 	pytest

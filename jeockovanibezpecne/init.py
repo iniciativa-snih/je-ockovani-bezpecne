@@ -1,11 +1,8 @@
 from datetime import datetime
 
 import click
-from flask import render_template, send_from_directory, request
 from flask import current_app as app
 from flask.cli import with_appcontext
-
-from .models import Submit, Vaccine, Dead, Case
 
 from .database import init_db_command
 from .update import update

@@ -1,5 +1,3 @@
-import os
-
 import click
 from flask import current_app as app
 from flask.cli import with_appcontext
@@ -17,7 +15,7 @@ Base.query = db_session.query_property()
 
 
 def init_db():
-    from .models import Submit, Vaccine, Dead, Case
+    from .models import Submit, Vaccine, Dead, Case  # noqa: F401
 
     Base.metadata.create_all(bind=engine)
 
