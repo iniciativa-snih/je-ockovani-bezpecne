@@ -17,6 +17,9 @@ install-dev:
 	source venv/bin/activate && python -m pip install ipykernel
 	source venv/bin/activate && ipython kernel install --user --name=je-ockovani-bezpecne
 
+install-test:
+	python -m pip install -e ".[test]"
+
 clean:
 	rm -rf build __pycache__ jeockovanibezpecne/__pycache__ __pycache__ instance \
 	tests/__pycache__ tests/jeockovanibezpecne/__pycache__ .pytest_cache *.egg-info .eggs tests/jeockovanibezpecne/__pycache__\
