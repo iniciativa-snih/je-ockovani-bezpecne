@@ -23,11 +23,9 @@ def get_submits(timestamp):
 
     submit_details_df["timestamp"] = timestamp
 
-    submit_old = db_session.query(Submit).order_by(desc(Submit.date_for)).first()
-
-    if submit_old is None or submit_old.date_for < date_for:
-        db_session.add(Submit(timestamp, date_for, submits))
-        db_session.commit()
+    db_session.connection().execute("DELETE FROM submits")
+    db_session.add(Submit(timestamp, date_for, submits))
+    db_session.commit()
 
 
 def get_vaccinations(timestamp):
@@ -40,6 +38,7 @@ def get_vaccinations(timestamp):
     vaccines.columns = ["date_for", "first_vaccines", "second_vaccines"]
     vaccines["timestamp"] = timestamp
     vaccines = vaccines[["timestamp", "date_for", "first_vaccines", "second_vaccines"]]
+    db_session.connection().execute("DELETE FROM vaccines")
     vaccines.to_sql("vaccines", db_session.connection(), if_exists="replace", index=False)
     db_session.commit()
 
@@ -54,6 +53,7 @@ def get_deaths(timestamp):
     deaths.columns = ["date_for", "deads_cumulative"]
     deaths["timestamp"] = timestamp
     deaths = deaths[["timestamp", "date_for", "deads_cumulative"]]
+    db_session.connection().execute("DELETE FROM deads")
     deaths.to_sql("deads", db_session.connection(), if_exists="replace", index=False)
     db_session.commit()
 
@@ -67,6 +67,7 @@ def get_cases(timestamp):
     cases.columns = ["date_for", "cases", "cases_cumulative"]
     cases["timestamp"] = timestamp
     cases = cases[["timestamp", "date_for", "cases", "cases_cumulative"]]
+    db_session.connection().execute("DELETE FROM cases")
     cases.to_sql("cases", db_session.connection(), if_exists="replace", index=False)
     db_session.commit()
 
