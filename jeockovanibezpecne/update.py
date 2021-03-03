@@ -1,7 +1,6 @@
 import pandas as pd
 from gazpacho import get, Soup
 from datetime import datetime
-from sqlalchemy import desc
 
 from .models import Submit
 from .database import db_session
