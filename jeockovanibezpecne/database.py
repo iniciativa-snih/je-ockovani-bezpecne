@@ -1,5 +1,3 @@
-import os
-
 import click
 from flask import current_app as app
 from flask.cli import with_appcontext
@@ -10,14 +8,14 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
 
-engine = create_engine(os.environ["DATABASE_URL"], convert_unicode=True)
+engine = create_engine(app.config["SQLALCHEMY_DATABASE_URI"])
 db_session = scoped_session(sessionmaker(autocommit=False, autoflush=False, bind=engine))
 Base = declarative_base()
 Base.query = db_session.query_property()
 
 
 def init_db():
-    from .models import Submit, Vaccine, Dead, Case
+    from .models import Submit, Vaccine, Dead, Case  # noqa: F401
 
     Base.metadata.create_all(bind=engine)
 

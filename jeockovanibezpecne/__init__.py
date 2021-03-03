@@ -13,13 +13,17 @@ def create_app(test_config=None):
 
     # migrate = Migrate(app, db)
 
-    babel = Babel(app)
+    babel = Babel(app)  # noqa: F841
 
     with app.app_context():
-        from . import routes
+        from . import init  # noqa: F401
 
-        from .routes import init_app
+        from .init import init_app
 
         init_app(app)
+
+        from . import stats
+
+        app.register_blueprint(stats.bp)
 
         return app

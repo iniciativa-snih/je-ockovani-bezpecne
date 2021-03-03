@@ -1,33 +1,29 @@
 import os
-import tempfile
-
 import pytest
-from jeockovanibezpecne import create_app
-from jeockovanibezpecne.db import get_db, init_db
+from datetime import datetime
 
-with open(os.path.join(os.path.dirname(__file__), 'data.sql'), 'rb') as f:
-    _data_sql = f.read().decode('utf8')
+from jeockovanibezpecne import create_app
+
+
+with open(os.path.join(os.path.dirname(__file__), "data.sql"), "rb") as f:
+    _data_sql = f.read().decode("utf8")
 
 
 @pytest.fixture
 def app():
-    db_fd, db_path = tempfile.mkstemp()
-
-    app = create_app(
-        {
-            'TESTING': True,
-            'DATABASE_URI': 'sqlite://:memory:',
-        }
-    )
+    app = create_app("config.TestingConfig")
 
     with app.app_context():
+        from jeockovanibezpecne.database import init_db, db_session
+
         init_db()
-        get_db().executescript(_data_sql)
+
+        from jeockovanibezpecne.models import Submit
+
+        db_session.add(Submit(datetime.now(), datetime.now(), 100))
+        db_session.commit()
 
     yield app
-
-    os.close(db_fd)
-    os.unlink(db_path)
 
 
 @pytest.fixture
