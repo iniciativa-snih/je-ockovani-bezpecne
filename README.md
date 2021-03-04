@@ -1,6 +1,6 @@
 # jeockovanibezpecne.cz
 
-Source code for [jeockovanibezpecne.cz](https://jeockovanibezpecne.cz).
+Source code for [jeockovanibezpecne.cz](https://www.jeockovanibezpecne.cz).
 
 ## Development
 
@@ -31,8 +31,8 @@ heroku config:set APP_SETTINGS=config.ProductionConfig
 heroku config:set FLASK_APP=jeockovanibezpecne
 heroku buildpacks:add --index 1 heroku/nodejs
 heroku buildpacks:add --index 2 heroku/python
-heroku domains:add jeockovanibezpecne.cz
-heroku domains:wait 'jeockovanibezpecne.cz'
+heroku domains:add www.jeockovanibezpecne.cz
+heroku domains:wait 'www.jeockovanibezpecne.cz'
 ```
 
 Deploy the app to Heroku via git.
