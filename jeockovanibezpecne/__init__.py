@@ -2,6 +2,7 @@ import os
 
 from flask import Flask
 from flask_babel import Babel
+from flask_talisman import Talisman
 
 
 def create_app(test_config=None):
@@ -19,7 +20,8 @@ def create_app(test_config=None):
 
     # migrate = Migrate(app, db)
 
-    babel = Babel(app)  # noqa: F841
+    Babel(app)
+    Talisman(app)
 
     with app.app_context():
         from . import init  # noqa: F401

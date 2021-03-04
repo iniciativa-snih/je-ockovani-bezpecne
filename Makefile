@@ -28,3 +28,6 @@ clean:
 	jeockovanibezpecne/toolkit/testing/resources/__pycache__ jeockovanibezpecne/toolkit/testing/avast/__pycache__ \
 	tests/jeockovanibezpecne/server/__pycache__ tests/jeockovanibezpecne/toolkit/__pycache__  tests/jeockovanibezpecne/toolkit/avast/__pycache__ \
 	jeockovanibezpecne/toolkit/testing/avast/resources/__pycache__
+
+locust:
+	locust -f tests/locust.py --headless --host https://jeockovanibezpecne.herokuapp.com -u 100 -r 5
