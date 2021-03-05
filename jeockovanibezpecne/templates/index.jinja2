@@ -7,9 +7,8 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta property="og:title" content="Je očkování bezpečné?">
-  <meta property="og:url" content="https://jeockovanibezpecne.cz">
-  <meta property="og:image" content="">
+  <meta property="og:url" content="https://www.jeockovanibezpecne.cz">
+  <meta property="og:image" content="{{ url_for('static', filename='img/og-image.png', _external=True) }}">
 
   <!-- <link rel="stylesheet" href="//basehold.it/24"> -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -17,7 +16,6 @@
   <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='apple-touch-icon.png') }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='favicon-32x32.png') }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='favicon-16x16.png') }}">
-  <link rel="manifest" href="{{ url_for('static', filename='site.webmanifest') }}">
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
@@ -31,7 +29,7 @@
 <body>
   <main>
     <h1 class="question">Je očkování bezpečné?</h1>
-    <p class="answer">Ano</p>
+    <p class="answer">Ano.</p>
     <div class="comparison">
       <section class="vaccine">
         <h2>
@@ -42,7 +40,7 @@
         <p class="count vaccinated">{{ vaccinated | fmt_number }}</p>
         <h3>očkovaných</h3>
         <p class="count side-effects">{{ submit.submits | fmt_number }}</p>
-        <h3 class="side-effects">hlášení vedlejších<br/>účinků</h3>
+        <h3 class="side-effects">s&nbsp;vedlejšími<br/>účinky</h3>
       </section>
       <section class="virus">
         <h2>
@@ -53,7 +51,7 @@
         <p class="count covid-infected">{{ cases | fmt_number }}</p>
         <h3 class="covid-infected">nakažených</h3>
         <p class="count covid-deaths">{{ deads | fmt_number }}</p>
-        <h3 class="covid-deaths">COVID<br/>úmrtí</h3>
+        <h3 class="covid-deaths">zemřelých</h3>
       </section>
     </div>
     <p class="period">

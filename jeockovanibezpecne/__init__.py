@@ -21,7 +21,13 @@ def create_app(test_config=None):
     # migrate = Migrate(app, db)
 
     Babel(app)
-    Talisman(app)
+    csp = {
+        "default-src": "'self'",
+        "font-src": ["'self'", "fonts.gstatic.com"],
+        "style-src": ["'self'", "fonts.googleapis.com"],
+        "script-src": ["'self'", "plausible.io"],
+    }
+    Talisman(app, content_security_policy=csp)
 
     with app.app_context():
         from . import init  # noqa: F401
