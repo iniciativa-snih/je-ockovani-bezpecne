@@ -26,6 +26,7 @@ def create_app(test_config=None):
         "font-src": ["'self'", "fonts.gstatic.com"],
         "style-src": ["'self'", "fonts.googleapis.com"],
         "script-src": ["'self'", "plausible.io"],
+        "connect-src": ["'self'", "plausible.io"],
     }
     Talisman(app, content_security_policy=csp)
 
