@@ -18,21 +18,18 @@ def hello():
 @bp.route("/", methods=["GET"])
 def index():
     date_from = datetime(2020, 12, 27)
-    cumulative_date_from = datetime(2020, 12, 26)
 
     cases = Case.query.order_by(Case.date_for.desc()).all()
     date_for = cases[0].date_for
 
-    cases_from = Case.query.filter(Case.date_for == cumulative_date_from).first()
     cases_for = Case.query.order_by(Case.date_for.desc()).first()
-    cases_no = cases_for.cases_cumulative - cases_from.cases_cumulative
+    cases_no = cases_for.cases_cumulative
 
     vaccines = Vaccine.query.filter(Vaccine.date_for >= date_from).filter(Vaccine.date_for <= date_for).all()
     vaccinated_no = sum([v.first_vaccines for v in vaccines])
 
-    deads_from = Dead.query.filter(Dead.date_for == cumulative_date_from).first()
     deads_for = Dead.query.order_by(Dead.date_for.desc()).first()
-    deads_no = deads_for.deads_cumulative - deads_from.deads_cumulative
+    deads_no = deads_for.deads_cumulative
 
     return render_template(
         "index.jinja2",
