@@ -71,8 +71,7 @@ def get_cases(timestamp):
     db_session.commit()
 
 
-def update():
-    timestamp = datetime.now()
+def update(timestamp):
     get_submits(timestamp)
     get_vaccinations(timestamp)
     get_deaths(timestamp)
@@ -80,4 +79,5 @@ def update():
 
 
 if __name__ == "__main__":
-    update()
+    t = datetime.now()
+    update(t)

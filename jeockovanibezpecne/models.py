@@ -5,13 +5,10 @@ from .database import Base
 
 
 class Submit(Base):
-
     __tablename__ = "submits"
 
     timestamp = Column(DateTime, index=False, unique=False, nullable=False)
-
     date_for = Column(DateTime, primary_key=True)
-
     submits = Column(Integer, index=False, unique=False, nullable=False)
 
     def __init__(self, timestamp: datetime, date_for: datetime, submits: int):
@@ -24,15 +21,11 @@ class Submit(Base):
 
 
 class Vaccine(Base):
-
     __tablename__ = "vaccines"
 
     timestamp = Column(DateTime, index=False, unique=False, nullable=False)
-
     date_for = Column(DateTime, primary_key=True)
-
     first_vaccines = Column(Integer, index=False, unique=False, nullable=False)
-
     second_vaccines = Column(Integer, index=False, unique=False, nullable=False)
 
     def __init__(self, timestamp: datetime, date_for: datetime, first_vaccines: int, second_vaccines: int):
@@ -49,13 +42,10 @@ class Vaccine(Base):
 
 
 class Dead(Base):
-
     __tablename__ = "deads"
 
     timestamp = Column(DateTime, index=False, unique=False, nullable=False)
-
     date_for = Column(DateTime, primary_key=True)
-
     deads_cumulative = Column(Integer, index=False, unique=False, nullable=False)
 
     def __init__(self, timestamp: datetime, date_for: datetime, deads_cumulative: int):
@@ -68,15 +58,11 @@ class Dead(Base):
 
 
 class Case(Base):
-
     __tablename__ = "cases"
 
     timestamp = Column(DateTime, index=False, unique=False, nullable=False)
-
     date_for = Column(DateTime, primary_key=True)
-
     cases = Column(Integer, index=False, unique=False, nullable=False)
-
     cases_cumulative = Column(Integer, index=False, unique=False, nullable=False)
 
     def __init__(self, timestamp: datetime, date_for: datetime, cases: int, cases_cumulative: int):
