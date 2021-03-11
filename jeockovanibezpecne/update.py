@@ -7,11 +7,23 @@ from .database import db_session
 
 
 def get_submits(timestamp):
+    def is_int(s):
+        try:
+            int(s)
+            return True
+        except ValueError:
+            return False
+
     def parse_effect(tr):
         effect = tr.find("p")[0].text
         info = tr.find("p")[1].text
         span = tr.find("span")
-        count = int(span.text if span is not None else tr.find("td")[1].find("p").text)
+        if isinstance(span, list):
+            for i in range(len(span)):
+                if is_int(span[i].text):
+                    count = int(span[i].text)
+        else:
+            count = int(span.text if span is not None else tr.find("td")[1].find("p").text)
         return {"date_for": date_for, "effect": effect, "info": info, "count": count}
 
     html = get("https://www.sukl.cz/tydenni-zpravy-o-prijatych-hlasenich-podezreni-na-nezadouci")

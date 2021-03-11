@@ -11,7 +11,7 @@ from .update import update
 @click.command("update")
 @with_appcontext
 def update_command():
-    update()
+    update(datetime.now())
     click.echo("Database updated.")
 
 
