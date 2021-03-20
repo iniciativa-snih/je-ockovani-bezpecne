@@ -15,9 +15,10 @@ def app():
         app.jinja_env.filters["fmt_number"] = fmt_number
 
         from jeockovanibezpecne.database import init_db, db_session
-        from jeockovanibezpecne.models import Dead, Vaccine, Submit, Case
 
         init_db()
+
+        from jeockovanibezpecne.models import Dead, Vaccine, Submit, Case
 
         db_session.connection().execute("DELETE FROM submits")
         db_session.add(Submit(datetime.now(), datetime(2021, 3, 10), 100))

@@ -17,13 +17,15 @@ def get_submits(timestamp):
     def parse_effect(tr):
         effect = tr.find("p")[0].text
         info = tr.find("p")[1].text
-        span = tr.find("span")
-        if isinstance(span, list):
-            for i in range(len(span)):
-                if is_int(span[i].text):
-                    count = int(span[i].text)
+        num = tr.find("p")[2]
+        if is_int(num.text):
+            count = int(num.text)
         else:
-            count = int(span.text if span is not None else tr.find("td")[1].find("p").text)
+            span = num.find("span")
+            if span is not None:
+                count = int(span.text)
+            else:
+                count = 0
         return {"date_for": date_for, "effect": effect, "info": info, "count": count}
 
     html = get("https://www.sukl.cz/tydenni-zpravy-o-prijatych-hlasenich-podezreni-na-nezadouci")
