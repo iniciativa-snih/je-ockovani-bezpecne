@@ -19,10 +19,10 @@ jobs:
         python-version: 3.8
     - name: Install Python dependencies
       run: |-
-        pip install -r requirements.txt
-    - name: Scrape
+        pip install -r ./update/requirements.txt
+    - name: Update
       run: |-
-        python update.py
+        python ./update/update.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
