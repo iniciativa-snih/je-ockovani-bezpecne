@@ -1,4 +1,0 @@
-include jeockovanibezpecne/schema.sql
-graft jeockovanibezpecne/static
-graft jeockovanibezpecne/templates
-global-exclude *.pyc

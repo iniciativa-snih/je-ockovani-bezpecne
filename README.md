@@ -1,52 +1,38 @@
-# jeockovanibezpecne.cz
+# create-svelte
 
-Source code for [jeockovanibezpecne.cz](https://www.jeockovanibezpecne.cz).
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
-## Development
+## Creating a project
 
-```bash
-pyenv global 3.9.0          # we need at least python 3.7, get python your way use pyenv or something else
-make install-dev            # setup all dependencies
-source venv/bin/activate    # activate virtual environment
-```
-
-Prepare your own `.evn` file based on [.env_example](./.env_example).
-
-Setup and run the app.
+If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
-flask init-db               # creates sqlite db app.db
-flask update                # downloads data from UZIS and SUKL
-flask run                   # run the app in development mode
+# create a new project in the current directory
+npm init svelte@next
+
+# create a new project in my-app
+npm init svelte@next my-app
 ```
 
-It uses environment variables prepared in `.env` file. The server runs by default at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
+> Note: the `@next` is temporary
 
-## Heroku Setup
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
-heroku git:remote -a jeockovanibezpecne
-heroku addons:create heroku-postgresql:hobby-dev
-heroku config:set APP_SETTINGS=config.ProductionConfig
-heroku config:set FLASK_APP=jeockovanibezpecne
-heroku buildpacks:add --index 1 heroku/nodejs
-heroku buildpacks:add --index 2 heroku/python
-heroku domains:add www.jeockovanibezpecne.cz
-heroku domains:wait 'www.jeockovanibezpecne.cz'
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
 ```
 
-Deploy the app to Heroku via git.
+## Building
 
-Initialize the app by running:
+Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
 
 ```bash
-heroku run flask init-db
-heroku run flask update
+npm run build
 ```
 
-Setup periodical updates:
-
-```bash
-heroku addons:create scheduler:standard
-heroku addons:open scheduler
-```
+> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
