@@ -34,7 +34,7 @@ def get_submits(timestamp):
         "https://www.sukl.cz/tydenni-zpravy-o-prijatych-hlasenich-podezreni-na-nezadouci"
     )
     tbodies = Soup(html).find("tbody")
-    date_for = datetime.strptime(tbodies[0].find("td")[2].text, "%d.%m.%Y")
+    date_for = datetime.strptime(tbodies[0].find("td")[2].text, "%d. %m. %Y")
     submits = int(tbodies[0].find("td")[3].text)
     with open("./data/submits.json", "w+") as f:
         json.dump({"date_for": date_for, "submits": submits}, f, default=myconverter)
