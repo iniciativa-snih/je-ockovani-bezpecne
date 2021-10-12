@@ -289,3452 +289,3458 @@
   },
   {
     "date_for":"2020-03-15T00:00:00.000Z",
-    "cases":299,
+    "cases":300,
     "deaths":0,
     "tests":5212
   },
   {
     "date_for":"2020-03-16T00:00:00.000Z",
-    "cases":384,
+    "cases":385,
     "deaths":0,
     "tests":6531
   },
   {
     "date_for":"2020-03-17T00:00:00.000Z",
-    "cases":451,
+    "cases":452,
     "deaths":0,
     "tests":7825
   },
   {
     "date_for":"2020-03-18T00:00:00.000Z",
-    "cases":561,
+    "cases":562,
     "deaths":0,
     "tests":9581
   },
   {
     "date_for":"2020-03-19T00:00:00.000Z",
-    "cases":767,
+    "cases":768,
     "deaths":0,
     "tests":11840
   },
   {
     "date_for":"2020-03-20T00:00:00.000Z",
-    "cases":891,
+    "cases":892,
     "deaths":0,
     "tests":13961
   },
   {
     "date_for":"2020-03-21T00:00:00.000Z",
-    "cases":1050,
+    "cases":1052,
     "deaths":0,
     "tests":15843
   },
   {
     "date_for":"2020-03-22T00:00:00.000Z",
-    "cases":1165,
+    "cases":1167,
     "deaths":1,
     "tests":17644
   },
   {
     "date_for":"2020-03-23T00:00:00.000Z",
-    "cases":1291,
+    "cases":1294,
     "deaths":1,
     "tests":19935
   },
   {
     "date_for":"2020-03-24T00:00:00.000Z",
-    "cases":1476,
+    "cases":1479,
     "deaths":3,
     "tests":22997
   },
   {
     "date_for":"2020-03-25T00:00:00.000Z",
-    "cases":1768,
+    "cases":1775,
     "deaths":10,
     "tests":27104
   },
   {
     "date_for":"2020-03-26T00:00:00.000Z",
-    "cases":2027,
+    "cases":2035,
     "deaths":10,
     "tests":31737
   },
   {
     "date_for":"2020-03-27T00:00:00.000Z",
-    "cases":2404,
+    "cases":2415,
     "deaths":12,
     "tests":37096
   },
   {
     "date_for":"2020-03-28T00:00:00.000Z",
-    "cases":2667,
+    "cases":2681,
     "deaths":17,
     "tests":41320
   },
   {
     "date_for":"2020-03-29T00:00:00.000Z",
-    "cases":2826,
+    "cases":2841,
     "deaths":23,
     "tests":44168
   },
   {
     "date_for":"2020-03-30T00:00:00.000Z",
-    "cases":3010,
+    "cases":3025,
     "deaths":28,
     "tests":49327
   },
   {
     "date_for":"2020-03-31T00:00:00.000Z",
-    "cases":3314,
+    "cases":3332,
     "deaths":35,
     "tests":55988
   },
   {
     "date_for":"2020-04-01T00:00:00.000Z",
-    "cases":3597,
+    "cases":3615,
     "deaths":43,
     "tests":62090
   },
   {
     "date_for":"2020-04-02T00:00:00.000Z",
-    "cases":3865,
+    "cases":3883,
     "deaths":49,
     "tests":68763
   },
   {
     "date_for":"2020-04-03T00:00:00.000Z",
-    "cases":4198,
+    "cases":4217,
     "deaths":57,
     "tests":76161
   },
   {
     "date_for":"2020-04-04T00:00:00.000Z",
-    "cases":4481,
+    "cases":4501,
     "deaths":66,
     "tests":81998
   },
   {
     "date_for":"2020-04-05T00:00:00.000Z",
-    "cases":4598,
+    "cases":4618,
     "deaths":74,
     "tests":86810
   },
   {
     "date_for":"2020-04-06T00:00:00.000Z",
-    "cases":4834,
+    "cases":4859,
     "deaths":82,
     "tests":93245
   },
   {
     "date_for":"2020-04-07T00:00:00.000Z",
-    "cases":5030,
+    "cases":5056,
     "deaths":92,
     "tests":101418
   },
   {
     "date_for":"2020-04-08T00:00:00.000Z",
-    "cases":5324,
+    "cases":5352,
     "deaths":107,
     "tests":109887
   },
   {
     "date_for":"2020-04-09T00:00:00.000Z",
-    "cases":5581,
+    "cases":5611,
     "deaths":117,
     "tests":118067
   },
   {
     "date_for":"2020-04-10T00:00:00.000Z",
-    "cases":5744,
+    "cases":5775,
     "deaths":128,
     "tests":123769
   },
   {
     "date_for":"2020-04-11T00:00:00.000Z",
-    "cases":5914,
+    "cases":5945,
     "deaths":136,
     "tests":128660
   },
   {
     "date_for":"2020-04-12T00:00:00.000Z",
-    "cases":6003,
+    "cases":6034,
     "deaths":146,
     "tests":131910
   },
   {
     "date_for":"2020-04-13T00:00:00.000Z",
-    "cases":6071,
+    "cases":6102,
     "deaths":157,
     "tests":135125
   },
   {
     "date_for":"2020-04-14T00:00:00.000Z",
-    "cases":6153,
+    "cases":6185,
     "deaths":166,
     "tests":141298
   },
   {
     "date_for":"2020-04-15T00:00:00.000Z",
-    "cases":6313,
+    "cases":6345,
     "deaths":166,
     "tests":149774
   },
   {
     "date_for":"2020-04-16T00:00:00.000Z",
-    "cases":6445,
+    "cases":6477,
     "deaths":168,
     "tests":158155
   },
   {
     "date_for":"2020-04-17T00:00:00.000Z",
-    "cases":6561,
+    "cases":6594,
     "deaths":176,
     "tests":166443
   },
   {
     "date_for":"2020-04-18T00:00:00.000Z",
-    "cases":6666,
+    "cases":6699,
     "deaths":180,
     "tests":172048
   },
   {
     "date_for":"2020-04-19T00:00:00.000Z",
-    "cases":6758,
+    "cases":6791,
     "deaths":189,
     "tests":176075
   },
   {
     "date_for":"2020-04-20T00:00:00.000Z",
-    "cases":6912,
+    "cases":6946,
     "deaths":196,
     "tests":182642
   },
   {
     "date_for":"2020-04-21T00:00:00.000Z",
-    "cases":7045,
+    "cases":7079,
     "deaths":204,
     "tests":190983
   },
   {
     "date_for":"2020-04-22T00:00:00.000Z",
-    "cases":7144,
+    "cases":7178,
     "deaths":206,
     "tests":199801
   },
   {
     "date_for":"2020-04-23T00:00:00.000Z",
-    "cases":7199,
+    "cases":7234,
     "deaths":212,
     "tests":207702
   },
   {
     "date_for":"2020-04-24T00:00:00.000Z",
-    "cases":7285,
+    "cases":7321,
     "deaths":218,
     "tests":214831
   },
   {
     "date_for":"2020-04-25T00:00:00.000Z",
-    "cases":7364,
+    "cases":7400,
     "deaths":222,
     "tests":219277
   },
   {
     "date_for":"2020-04-26T00:00:00.000Z",
-    "cases":7416,
+    "cases":7452,
     "deaths":224,
     "tests":222658
   },
   {
     "date_for":"2020-04-27T00:00:00.000Z",
-    "cases":7457,
+    "cases":7493,
     "deaths":225,
     "tests":230412
   },
   {
     "date_for":"2020-04-28T00:00:00.000Z",
-    "cases":7517,
+    "cases":7554,
     "deaths":229,
     "tests":239153
   },
   {
     "date_for":"2020-04-29T00:00:00.000Z",
-    "cases":7592,
+    "cases":7634,
     "deaths":234,
     "tests":246475
   },
   {
     "date_for":"2020-04-30T00:00:00.000Z",
-    "cases":7696,
+    "cases":7740,
     "deaths":242,
     "tests":253871
   },
   {
     "date_for":"2020-05-01T00:00:00.000Z",
-    "cases":7751,
+    "cases":7795,
     "deaths":250,
     "tests":258368
   },
   {
     "date_for":"2020-05-02T00:00:00.000Z",
-    "cases":7769,
+    "cases":7813,
     "deaths":251,
     "tests":262253
   },
   {
     "date_for":"2020-05-03T00:00:00.000Z",
-    "cases":7795,
+    "cases":7839,
     "deaths":254,
     "tests":266134
   },
   {
     "date_for":"2020-05-04T00:00:00.000Z",
-    "cases":7833,
+    "cases":7877,
     "deaths":259,
     "tests":273890
   },
   {
     "date_for":"2020-05-05T00:00:00.000Z",
-    "cases":7910,
+    "cases":7955,
     "deaths":262,
     "tests":283273
   },
   {
     "date_for":"2020-05-06T00:00:00.000Z",
-    "cases":7989,
+    "cases":8034,
     "deaths":265,
     "tests":291325
   },
   {
     "date_for":"2020-05-07T00:00:00.000Z",
-    "cases":8047,
+    "cases":8092,
     "deaths":269,
     "tests":298924
   },
   {
     "date_for":"2020-05-08T00:00:00.000Z",
-    "cases":8093,
+    "cases":8138,
     "deaths":274,
     "tests":303434
   },
   {
     "date_for":"2020-05-09T00:00:00.000Z",
-    "cases":8111,
+    "cases":8158,
     "deaths":277,
     "tests":307222
   },
   {
     "date_for":"2020-05-10T00:00:00.000Z",
-    "cases":8139,
+    "cases":8186,
     "deaths":280,
     "tests":311274
   },
   {
     "date_for":"2020-05-11T00:00:00.000Z",
-    "cases":8195,
+    "cases":8242,
     "deaths":282,
     "tests":319083
   },
   {
     "date_for":"2020-05-12T00:00:00.000Z",
-    "cases":8240,
+    "cases":8287,
     "deaths":285,
     "tests":327838
   },
   {
     "date_for":"2020-05-13T00:00:00.000Z",
-    "cases":8290,
+    "cases":8337,
     "deaths":289,
     "tests":335525
   },
   {
     "date_for":"2020-05-14T00:00:00.000Z",
-    "cases":8372,
+    "cases":8419,
     "deaths":292,
     "tests":342427
   },
   {
     "date_for":"2020-05-15T00:00:00.000Z",
-    "cases":8427,
+    "cases":8474,
     "deaths":294,
     "tests":349217
   },
   {
     "date_for":"2020-05-16T00:00:00.000Z",
-    "cases":8478,
+    "cases":8525,
     "deaths":295,
     "tests":353414
   },
   {
     "date_for":"2020-05-17T00:00:00.000Z",
-    "cases":8498,
+    "cases":8545,
     "deaths":297,
     "tests":356967
   },
   {
     "date_for":"2020-05-18T00:00:00.000Z",
-    "cases":8611,
+    "cases":8658,
     "deaths":300,
     "tests":364425
   },
   {
     "date_for":"2020-05-19T00:00:00.000Z",
-    "cases":8673,
+    "cases":8720,
     "deaths":302,
     "tests":372761
   },
   {
     "date_for":"2020-05-20T00:00:00.000Z",
-    "cases":8747,
+    "cases":8794,
     "deaths":307,
     "tests":380279
   },
   {
     "date_for":"2020-05-21T00:00:00.000Z",
-    "cases":8782,
+    "cases":8829,
     "deaths":310,
     "tests":387569
   },
   {
     "date_for":"2020-05-22T00:00:00.000Z",
-    "cases":8841,
+    "cases":8888,
     "deaths":312,
     "tests":395317
   },
   {
     "date_for":"2020-05-23T00:00:00.000Z",
-    "cases":8918,
+    "cases":8965,
     "deaths":313,
     "tests":400376
   },
   {
     "date_for":"2020-05-24T00:00:00.000Z",
-    "cases":8983,
+    "cases":9030,
     "deaths":314,
     "tests":404225
   },
   {
     "date_for":"2020-05-25T00:00:00.000Z",
-    "cases":9030,
+    "cases":9077,
     "deaths":315,
     "tests":411733
   },
   {
     "date_for":"2020-05-26T00:00:00.000Z",
-    "cases":9081,
+    "cases":9128,
     "deaths":316,
     "tests":418974
   },
   {
     "date_for":"2020-05-27T00:00:00.000Z",
-    "cases":9118,
+    "cases":9165,
     "deaths":316,
     "tests":425820
   },
   {
     "date_for":"2020-05-28T00:00:00.000Z",
-    "cases":9172,
+    "cases":9219,
     "deaths":318,
     "tests":431833
   },
   {
     "date_for":"2020-05-29T00:00:00.000Z",
-    "cases":9229,
+    "cases":9276,
     "deaths":318,
     "tests":437946
   },
   {
     "date_for":"2020-05-30T00:00:00.000Z",
-    "cases":9263,
+    "cases":9310,
     "deaths":318,
     "tests":441494
   },
   {
     "date_for":"2020-05-31T00:00:00.000Z",
-    "cases":9301,
+    "cases":9348,
     "deaths":318,
     "tests":443635
   },
   {
     "date_for":"2020-06-01T00:00:00.000Z",
-    "cases":9335,
+    "cases":9382,
     "deaths":320,
     "tests":449356
   },
   {
     "date_for":"2020-06-02T00:00:00.000Z",
-    "cases":9398,
+    "cases":9445,
     "deaths":321,
     "tests":455834
   },
   {
     "date_for":"2020-06-03T00:00:00.000Z",
-    "cases":9472,
+    "cases":9519,
     "deaths":322,
     "tests":461147
   },
   {
     "date_for":"2020-06-04T00:00:00.000Z",
-    "cases":9533,
+    "cases":9580,
     "deaths":325,
     "tests":466158
   },
   {
     "date_for":"2020-06-05T00:00:00.000Z",
-    "cases":9568,
+    "cases":9615,
     "deaths":325,
     "tests":470331
   },
   {
     "date_for":"2020-06-06T00:00:00.000Z",
-    "cases":9606,
+    "cases":9653,
     "deaths":325,
     "tests":472481
   },
   {
     "date_for":"2020-06-07T00:00:00.000Z",
-    "cases":9667,
+    "cases":9714,
     "deaths":326,
     "tests":474608
   },
   {
     "date_for":"2020-06-08T00:00:00.000Z",
-    "cases":9736,
+    "cases":9785,
     "deaths":326,
     "tests":479292
   },
   {
     "date_for":"2020-06-09T00:00:00.000Z",
-    "cases":9791,
+    "cases":9840,
     "deaths":327,
     "tests":483844
   },
   {
     "date_for":"2020-06-10T00:00:00.000Z",
-    "cases":9864,
+    "cases":9914,
     "deaths":328,
     "tests":487912
   },
   {
     "date_for":"2020-06-11T00:00:00.000Z",
-    "cases":9928,
+    "cases":9978,
     "deaths":329,
     "tests":491651
   },
   {
     "date_for":"2020-06-12T00:00:00.000Z",
-    "cases":9980,
+    "cases":10030,
     "deaths":330,
     "tests":495377
   },
   {
     "date_for":"2020-06-13T00:00:00.000Z",
-    "cases":10033,
+    "cases":10083,
     "deaths":330,
     "tests":497029
   },
   {
     "date_for":"2020-06-14T00:00:00.000Z",
-    "cases":10066,
+    "cases":10116,
     "deaths":331,
     "tests":498150
   },
   {
     "date_for":"2020-06-15T00:00:00.000Z",
-    "cases":10106,
+    "cases":10156,
     "deaths":332,
     "tests":501823
   },
   {
     "date_for":"2020-06-16T00:00:00.000Z",
-    "cases":10153,
+    "cases":10204,
     "deaths":333,
     "tests":505846
   },
   {
     "date_for":"2020-06-17T00:00:00.000Z",
-    "cases":10204,
+    "cases":10255,
     "deaths":334,
     "tests":509882
   },
   {
     "date_for":"2020-06-18T00:00:00.000Z",
-    "cases":10322,
+    "cases":10374,
     "deaths":336,
     "tests":514285
   },
   {
     "date_for":"2020-06-19T00:00:00.000Z",
-    "cases":10448,
+    "cases":10500,
     "deaths":337,
     "tests":517859
   },
   {
     "date_for":"2020-06-20T00:00:00.000Z",
-    "cases":10491,
+    "cases":10543,
     "deaths":338,
     "tests":519558
   },
   {
     "date_for":"2020-06-21T00:00:00.000Z",
-    "cases":10541,
+    "cases":10593,
     "deaths":339,
     "tests":520871
   },
   {
     "date_for":"2020-06-22T00:00:00.000Z",
-    "cases":10605,
+    "cases":10657,
     "deaths":340,
     "tests":524781
   },
   {
     "date_for":"2020-06-23T00:00:00.000Z",
-    "cases":10694,
+    "cases":10746,
     "deaths":340,
     "tests":529348
   },
   {
     "date_for":"2020-06-24T00:00:00.000Z",
-    "cases":10821,
+    "cases":10873,
     "deaths":344,
     "tests":533635
   },
   {
     "date_for":"2020-06-25T00:00:00.000Z",
-    "cases":10914,
+    "cases":10966,
     "deaths":344,
     "tests":537682
   },
   {
     "date_for":"2020-06-26T00:00:00.000Z",
-    "cases":11082,
+    "cases":11135,
     "deaths":345,
     "tests":542215
   },
   {
     "date_for":"2020-06-27T00:00:00.000Z",
-    "cases":11342,
+    "cases":11395,
     "deaths":346,
     "tests":544769
   },
   {
     "date_for":"2020-06-28T00:00:00.000Z",
-    "cases":11647,
+    "cases":11700,
     "deaths":346,
     "tests":547192
   },
   {
     "date_for":"2020-06-29T00:00:00.000Z",
-    "cases":11848,
+    "cases":11901,
     "deaths":346,
     "tests":551677
   },
   {
     "date_for":"2020-06-30T00:00:00.000Z",
-    "cases":11997,
+    "cases":12050,
     "deaths":347,
     "tests":556089
   },
   {
     "date_for":"2020-07-01T00:00:00.000Z",
-    "cases":12088,
+    "cases":12141,
     "deaths":347,
     "tests":560682
   },
   {
     "date_for":"2020-07-02T00:00:00.000Z",
-    "cases":12220,
+    "cases":12274,
     "deaths":348,
     "tests":565347
   },
   {
     "date_for":"2020-07-03T00:00:00.000Z",
-    "cases":12360,
+    "cases":12415,
     "deaths":348,
     "tests":570456
   },
   {
     "date_for":"2020-07-04T00:00:00.000Z",
-    "cases":12481,
+    "cases":12536,
     "deaths":350,
     "tests":572143
   },
   {
     "date_for":"2020-07-05T00:00:00.000Z",
-    "cases":12556,
+    "cases":12611,
     "deaths":352,
     "tests":573667
   },
   {
     "date_for":"2020-07-06T00:00:00.000Z",
-    "cases":12607,
+    "cases":12662,
     "deaths":353,
     "tests":575381
   },
   {
     "date_for":"2020-07-07T00:00:00.000Z",
-    "cases":12725,
+    "cases":12780,
     "deaths":353,
     "tests":579540
   },
   {
     "date_for":"2020-07-08T00:00:00.000Z",
-    "cases":12854,
+    "cases":12909,
     "deaths":353,
     "tests":584946
   },
   {
     "date_for":"2020-07-09T00:00:00.000Z",
-    "cases":12959,
+    "cases":13014,
     "deaths":354,
     "tests":589628
   },
   {
     "date_for":"2020-07-10T00:00:00.000Z",
-    "cases":13100,
+    "cases":13155,
     "deaths":354,
     "tests":594961
   },
   {
     "date_for":"2020-07-11T00:00:00.000Z",
-    "cases":13153,
+    "cases":13208,
     "deaths":354,
     "tests":597282
   },
   {
     "date_for":"2020-07-12T00:00:00.000Z",
-    "cases":13212,
+    "cases":13267,
     "deaths":355,
     "tests":599069
   },
   {
     "date_for":"2020-07-13T00:00:00.000Z",
-    "cases":13276,
+    "cases":13331,
     "deaths":356,
     "tests":603493
   },
   {
     "date_for":"2020-07-14T00:00:00.000Z",
-    "cases":13380,
+    "cases":13435,
     "deaths":358,
     "tests":608295
   },
   {
     "date_for":"2020-07-15T00:00:00.000Z",
-    "cases":13514,
+    "cases":13570,
     "deaths":358,
     "tests":612989
   },
   {
     "date_for":"2020-07-16T00:00:00.000Z",
-    "cases":13651,
+    "cases":13707,
     "deaths":358,
     "tests":617719
   },
   {
     "date_for":"2020-07-17T00:00:00.000Z",
-    "cases":13779,
+    "cases":13835,
     "deaths":360,
     "tests":622446
   },
   {
     "date_for":"2020-07-18T00:00:00.000Z",
-    "cases":13891,
+    "cases":13948,
     "deaths":360,
     "tests":624780
   },
   {
     "date_for":"2020-07-19T00:00:00.000Z",
-    "cases":13982,
+    "cases":14039,
     "deaths":361,
     "tests":626610
   },
   {
     "date_for":"2020-07-20T00:00:00.000Z",
-    "cases":14150,
+    "cases":14208,
     "deaths":361,
     "tests":632395
   },
   {
     "date_for":"2020-07-21T00:00:00.000Z",
-    "cases":14357,
+    "cases":14415,
     "deaths":363,
     "tests":638484
   },
   {
     "date_for":"2020-07-22T00:00:00.000Z",
-    "cases":14602,
+    "cases":14660,
     "deaths":365,
     "tests":645093
   },
   {
     "date_for":"2020-07-23T00:00:00.000Z",
-    "cases":14833,
+    "cases":14891,
     "deaths":366,
     "tests":650650
   },
   {
     "date_for":"2020-07-24T00:00:00.000Z",
-    "cases":15111,
+    "cases":15169,
     "deaths":369,
     "tests":656888
   },
   {
     "date_for":"2020-07-25T00:00:00.000Z",
-    "cases":15243,
+    "cases":15301,
     "deaths":371,
     "tests":660225
   },
   {
     "date_for":"2020-07-26T00:00:00.000Z",
-    "cases":15357,
+    "cases":15416,
     "deaths":372,
     "tests":662011
   },
   {
     "date_for":"2020-07-27T00:00:00.000Z",
-    "cases":15551,
+    "cases":15610,
     "deaths":374,
     "tests":668565
   },
   {
     "date_for":"2020-07-28T00:00:00.000Z",
-    "cases":15827,
+    "cases":15886,
     "deaths":376,
     "tests":676474
   },
   {
     "date_for":"2020-07-29T00:00:00.000Z",
-    "cases":16101,
+    "cases":16160,
     "deaths":378,
     "tests":683983
   },
   {
     "date_for":"2020-07-30T00:00:00.000Z",
-    "cases":16355,
+    "cases":16415,
     "deaths":380,
     "tests":691606
   },
   {
     "date_for":"2020-07-31T00:00:00.000Z",
-    "cases":16586,
+    "cases":16646,
     "deaths":382,
     "tests":699813
   },
   {
     "date_for":"2020-08-01T00:00:00.000Z",
-    "cases":16710,
+    "cases":16770,
     "deaths":384,
     "tests":704521
   },
   {
     "date_for":"2020-08-02T00:00:00.000Z",
-    "cases":16811,
+    "cases":16872,
     "deaths":386,
     "tests":707168
   },
   {
     "date_for":"2020-08-03T00:00:00.000Z",
-    "cases":17019,
+    "cases":17080,
     "deaths":388,
     "tests":714914
   },
   {
     "date_for":"2020-08-04T00:00:00.000Z",
-    "cases":17306,
+    "cases":17367,
     "deaths":390,
     "tests":723328
   },
   {
     "date_for":"2020-08-05T00:00:00.000Z",
-    "cases":17547,
+    "cases":17609,
     "deaths":391,
     "tests":730273
   },
   {
     "date_for":"2020-08-06T00:00:00.000Z",
-    "cases":17761,
+    "cases":17823,
     "deaths":392,
     "tests":737635
   },
   {
     "date_for":"2020-08-07T00:00:00.000Z",
-    "cases":18083,
+    "cases":18145,
     "deaths":392,
     "tests":746841
   },
   {
     "date_for":"2020-08-08T00:00:00.000Z",
-    "cases":18256,
+    "cases":18318,
     "deaths":392,
     "tests":752352
   },
   {
     "date_for":"2020-08-09T00:00:00.000Z",
-    "cases":18378,
+    "cases":18440,
     "deaths":393,
     "tests":755280
   },
   {
     "date_for":"2020-08-10T00:00:00.000Z",
-    "cases":18519,
+    "cases":18582,
     "deaths":393,
     "tests":761763
   },
   {
     "date_for":"2020-08-11T00:00:00.000Z",
-    "cases":18807,
+    "cases":18871,
     "deaths":395,
     "tests":770456
   },
   {
     "date_for":"2020-08-12T00:00:00.000Z",
-    "cases":19096,
+    "cases":19160,
     "deaths":395,
     "tests":778378
   },
   {
     "date_for":"2020-08-13T00:00:00.000Z",
-    "cases":19426,
+    "cases":19492,
     "deaths":396,
     "tests":785790
   },
   {
     "date_for":"2020-08-14T00:00:00.000Z",
-    "cases":19717,
+    "cases":19785,
     "deaths":398,
     "tests":793789
   },
   {
     "date_for":"2020-08-15T00:00:00.000Z",
-    "cases":19914,
+    "cases":19984,
     "deaths":400,
     "tests":798902
   },
   {
     "date_for":"2020-08-16T00:00:00.000Z",
-    "cases":20035,
+    "cases":20105,
     "deaths":402,
     "tests":801881
   },
   {
     "date_for":"2020-08-17T00:00:00.000Z",
-    "cases":20226,
+    "cases":20297,
     "deaths":406,
     "tests":809133
   },
   {
     "date_for":"2020-08-18T00:00:00.000Z",
-    "cases":20507,
+    "cases":20578,
     "deaths":406,
     "tests":816823
   },
   {
     "date_for":"2020-08-19T00:00:00.000Z",
-    "cases":20820,
+    "cases":20893,
     "deaths":409,
     "tests":824478
   },
   {
     "date_for":"2020-08-20T00:00:00.000Z",
-    "cases":21066,
+    "cases":21139,
     "deaths":412,
     "tests":832716
   },
   {
     "date_for":"2020-08-21T00:00:00.000Z",
-    "cases":21570,
+    "cases":21646,
     "deaths":415,
     "tests":842428
   },
   {
     "date_for":"2020-08-22T00:00:00.000Z",
-    "cases":21804,
+    "cases":21880,
     "deaths":415,
     "tests":847546
   },
   {
     "date_for":"2020-08-23T00:00:00.000Z",
-    "cases":21940,
+    "cases":22016,
     "deaths":418,
     "tests":849950
   },
   {
     "date_for":"2020-08-24T00:00:00.000Z",
-    "cases":22199,
+    "cases":22276,
     "deaths":419,
     "tests":857363
   },
   {
     "date_for":"2020-08-25T00:00:00.000Z",
-    "cases":22563,
+    "cases":22641,
     "deaths":421,
     "tests":866126
   },
   {
     "date_for":"2020-08-26T00:00:00.000Z",
-    "cases":22959,
+    "cases":23038,
     "deaths":422,
     "tests":875011
   },
   {
     "date_for":"2020-08-27T00:00:00.000Z",
-    "cases":23309,
+    "cases":23389,
     "deaths":422,
     "tests":884209
   },
   {
     "date_for":"2020-08-28T00:00:00.000Z",
-    "cases":23794,
+    "cases":23876,
     "deaths":422,
     "tests":895037
   },
   {
     "date_for":"2020-08-29T00:00:00.000Z",
-    "cases":24114,
+    "cases":24196,
     "deaths":425,
     "tests":901610
   },
   {
     "date_for":"2020-08-30T00:00:00.000Z",
-    "cases":24389,
+    "cases":24471,
     "deaths":426,
     "tests":905556
   },
   {
     "date_for":"2020-08-31T00:00:00.000Z",
-    "cases":24645,
+    "cases":24727,
     "deaths":427,
     "tests":914927
   },
   {
     "date_for":"2020-09-01T00:00:00.000Z",
-    "cases":25143,
+    "cases":25228,
     "deaths":428,
     "tests":926064
   },
   {
     "date_for":"2020-09-02T00:00:00.000Z",
-    "cases":25788,
+    "cases":25873,
     "deaths":428,
     "tests":937874
   },
   {
     "date_for":"2020-09-03T00:00:00.000Z",
-    "cases":26463,
+    "cases":26549,
     "deaths":432,
     "tests":949415
   },
   {
     "date_for":"2020-09-04T00:00:00.000Z",
-    "cases":27260,
+    "cases":27346,
     "deaths":435,
     "tests":963069
   },
   {
     "date_for":"2020-09-05T00:00:00.000Z",
-    "cases":27764,
+    "cases":27850,
     "deaths":440,
     "tests":970537
   },
   {
     "date_for":"2020-09-06T00:00:00.000Z",
-    "cases":28174,
+    "cases":28261,
     "deaths":443,
     "tests":975074
   },
   {
     "date_for":"2020-09-07T00:00:00.000Z",
-    "cases":28735,
+    "cases":28825,
     "deaths":445,
     "tests":986678
   },
   {
     "date_for":"2020-09-08T00:00:00.000Z",
-    "cases":29896,
+    "cases":29988,
     "deaths":450,
     "tests":1002793
   },
   {
     "date_for":"2020-09-09T00:00:00.000Z",
-    "cases":31054,
+    "cases":31149,
     "deaths":453,
     "tests":1018300
   },
   {
     "date_for":"2020-09-10T00:00:00.000Z",
-    "cases":32437,
+    "cases":32535,
     "deaths":458,
     "tests":1034813
   },
   {
     "date_for":"2020-09-11T00:00:00.000Z",
-    "cases":33879,
+    "cases":33979,
     "deaths":461,
     "tests":1054030
   },
   {
     "date_for":"2020-09-12T00:00:00.000Z",
-    "cases":35416,
+    "cases":35518,
     "deaths":467,
     "tests":1067347
   },
   {
     "date_for":"2020-09-13T00:00:00.000Z",
-    "cases":36207,
+    "cases":36311,
     "deaths":472,
     "tests":1074437
   },
   {
     "date_for":"2020-09-14T00:00:00.000Z",
-    "cases":37235,
+    "cases":37342,
     "deaths":478,
     "tests":1091956
   },
   {
     "date_for":"2020-09-15T00:00:00.000Z",
-    "cases":38911,
+    "cases":39021,
     "deaths":488,
     "tests":1112417
   },
   {
     "date_for":"2020-09-16T00:00:00.000Z",
-    "cases":41044,
+    "cases":41158,
     "deaths":495,
     "tests":1133004
   },
   {
     "date_for":"2020-09-17T00:00:00.000Z",
-    "cases":44169,
+    "cases":44288,
     "deaths":502,
     "tests":1156597
   },
   {
     "date_for":"2020-09-18T00:00:00.000Z",
-    "cases":46277,
+    "cases":46405,
     "deaths":514,
     "tests":1178177
   },
   {
     "date_for":"2020-09-19T00:00:00.000Z",
-    "cases":48322,
+    "cases":48452,
     "deaths":522,
     "tests":1193408
   },
   {
     "date_for":"2020-09-20T00:00:00.000Z",
-    "cases":49306,
+    "cases":49437,
     "deaths":528,
     "tests":1203969
   },
   {
     "date_for":"2020-09-21T00:00:00.000Z",
-    "cases":50783,
+    "cases":50922,
     "deaths":543,
     "tests":1223379
   },
   {
     "date_for":"2020-09-22T00:00:00.000Z",
-    "cases":53170,
+    "cases":53309,
     "deaths":553,
     "tests":1245779
   },
   {
     "date_for":"2020-09-23T00:00:00.000Z",
-    "cases":55475,
+    "cases":55621,
     "deaths":575,
     "tests":1268224
   },
   {
     "date_for":"2020-09-24T00:00:00.000Z",
-    "cases":58381,
+    "cases":58536,
     "deaths":585,
     "tests":1291387
   },
   {
     "date_for":"2020-09-25T00:00:00.000Z",
-    "cases":61326,
+    "cases":61488,
     "deaths":595,
     "tests":1314519
   },
   {
     "date_for":"2020-09-26T00:00:00.000Z",
-    "cases":63307,
+    "cases":63470,
     "deaths":611,
     "tests":1329907
   },
   {
     "date_for":"2020-09-27T00:00:00.000Z",
-    "cases":64612,
+    "cases":64779,
     "deaths":627,
     "tests":1340375
   },
   {
     "date_for":"2020-09-28T00:00:00.000Z",
-    "cases":65896,
+    "cases":66066,
     "deaths":638,
     "tests":1352593
   },
   {
     "date_for":"2020-09-29T00:00:00.000Z",
-    "cases":67858,
+    "cases":68042,
     "deaths":659,
     "tests":1370915
   },
   {
     "date_for":"2020-09-30T00:00:00.000Z",
-    "cases":70783,
+    "cases":70970,
     "deaths":675,
     "tests":1392007
   },
   {
     "date_for":"2020-10-01T00:00:00.000Z",
-    "cases":74286,
+    "cases":74487,
     "deaths":704,
     "tests":1415928
   },
   {
     "date_for":"2020-10-02T00:00:00.000Z",
-    "cases":78081,
+    "cases":78289,
     "deaths":725,
     "tests":1439567
   },
   {
     "date_for":"2020-10-03T00:00:00.000Z",
-    "cases":80635,
+    "cases":80851,
     "deaths":738,
     "tests":1454768
   },
   {
     "date_for":"2020-10-04T00:00:00.000Z",
-    "cases":82476,
+    "cases":82698,
     "deaths":773,
     "tests":1462544
   },
   {
     "date_for":"2020-10-05T00:00:00.000Z",
-    "cases":85594,
+    "cases":85829,
     "deaths":802,
     "tests":1480312
   },
   {
     "date_for":"2020-10-06T00:00:00.000Z",
-    "cases":90052,
+    "cases":90304,
     "deaths":840,
     "tests":1503365
   },
   {
     "date_for":"2020-10-07T00:00:00.000Z",
-    "cases":95388,
+    "cases":95653,
     "deaths":891,
     "tests":1527416
   },
   {
     "date_for":"2020-10-08T00:00:00.000Z",
-    "cases":100782,
+    "cases":101057,
     "deaths":917,
     "tests":1552489
   },
   {
     "date_for":"2020-10-09T00:00:00.000Z",
-    "cases":109400,
+    "cases":109698,
     "deaths":978,
     "tests":1580232
   },
   {
     "date_for":"2020-10-10T00:00:00.000Z",
-    "cases":114037,
+    "cases":114340,
     "deaths":1031,
     "tests":1598356
   },
   {
     "date_for":"2020-10-11T00:00:00.000Z",
-    "cases":117141,
+    "cases":117448,
     "deaths":1074,
     "tests":1609860
   },
   {
     "date_for":"2020-10-12T00:00:00.000Z",
-    "cases":121448,
+    "cases":121770,
     "deaths":1144,
     "tests":1631908
   },
   {
     "date_for":"2020-10-13T00:00:00.000Z",
-    "cases":129772,
+    "cases":130133,
     "deaths":1197,
     "tests":1663546
   },
   {
     "date_for":"2020-10-14T00:00:00.000Z",
-    "cases":139316,
+    "cases":139699,
     "deaths":1264,
     "tests":1698405
   },
   {
     "date_for":"2020-10-15T00:00:00.000Z",
-    "cases":149040,
+    "cases":149441,
     "deaths":1327,
     "tests":1733210
   },
   {
     "date_for":"2020-10-16T00:00:00.000Z",
-    "cases":160144,
+    "cases":160571,
     "deaths":1407,
     "tests":1771933
   },
   {
     "date_for":"2020-10-17T00:00:00.000Z",
-    "cases":168857,
+    "cases":169304,
     "deaths":1488,
     "tests":1801212
   },
   {
     "date_for":"2020-10-18T00:00:00.000Z",
-    "cases":173916,
+    "cases":174378,
     "deaths":1570,
     "tests":1818452
   },
   {
     "date_for":"2020-10-19T00:00:00.000Z",
-    "cases":181993,
+    "cases":182496,
     "deaths":1680,
     "tests":1849617
   },
   {
     "date_for":"2020-10-20T00:00:00.000Z",
-    "cases":193978,
+    "cases":194506,
     "deaths":1789,
     "tests":1890215
   },
   {
     "date_for":"2020-10-21T00:00:00.000Z",
-    "cases":208949,
+    "cases":209517,
     "deaths":1920,
     "tests":1935460
   },
   {
     "date_for":"2020-10-22T00:00:00.000Z",
-    "cases":223104,
+    "cases":223702,
     "deaths":2047,
     "tests":1981885
   },
   {
     "date_for":"2020-10-23T00:00:00.000Z",
-    "cases":238352,
+    "cases":238983,
     "deaths":2172,
     "tests":2027137
   },
   {
     "date_for":"2020-10-24T00:00:00.000Z",
-    "cases":250825,
+    "cases":251475,
     "deaths":2315,
     "tests":2066329
   },
   {
     "date_for":"2020-10-25T00:00:00.000Z",
-    "cases":258125,
+    "cases":258799,
     "deaths":2469,
     "tests":2087922
   },
   {
     "date_for":"2020-10-26T00:00:00.000Z",
-    "cases":268398,
+    "cases":269122,
     "deaths":2632,
     "tests":2123519
   },
   {
     "date_for":"2020-10-27T00:00:00.000Z",
-    "cases":284064,
+    "cases":284840,
     "deaths":2827,
     "tests":2171017
   },
   {
     "date_for":"2020-10-28T00:00:00.000Z",
-    "cases":297041,
+    "cases":297838,
     "deaths":2995,
     "tests":2211140
   },
   {
     "date_for":"2020-10-29T00:00:00.000Z",
-    "cases":310091,
+    "cases":310922,
     "deaths":3194,
     "tests":2253717
   },
   {
     "date_for":"2020-10-30T00:00:00.000Z",
-    "cases":323694,
+    "cases":324553,
     "deaths":3411,
     "tests":2300539
   },
   {
     "date_for":"2020-10-31T00:00:00.000Z",
-    "cases":335122,
+    "cases":336005,
     "deaths":3604,
     "tests":2336835
   },
   {
     "date_for":"2020-11-01T00:00:00.000Z",
-    "cases":341673,
+    "cases":342567,
     "deaths":3828,
     "tests":2357478
   },
   {
     "date_for":"2020-11-02T00:00:00.000Z",
-    "cases":350913,
+    "cases":351846,
     "deaths":4051,
     "tests":2390206
   },
   {
     "date_for":"2020-11-03T00:00:00.000Z",
-    "cases":363003,
+    "cases":363964,
     "deaths":4312,
     "tests":2433533
   },
   {
     "date_for":"2020-11-04T00:00:00.000Z",
-    "cases":378729,
+    "cases":379722,
     "deaths":4540,
     "tests":2479017
   },
   {
     "date_for":"2020-11-05T00:00:00.000Z",
-    "cases":391964,
+    "cases":392975,
     "deaths":4736,
     "tests":2522250
   },
   {
     "date_for":"2020-11-06T00:00:00.000Z",
-    "cases":403510,
+    "cases":404548,
     "deaths":4953,
     "tests":2562575
   },
   {
     "date_for":"2020-11-07T00:00:00.000Z",
-    "cases":411231,
+    "cases":412287,
     "deaths":5156,
     "tests":2588818
   },
   {
     "date_for":"2020-11-08T00:00:00.000Z",
-    "cases":414841,
+    "cases":415901,
     "deaths":5362,
     "tests":2602545
   },
   {
     "date_for":"2020-11-09T00:00:00.000Z",
-    "cases":420889,
+    "cases":421969,
     "deaths":5548,
     "tests":2633012
   },
   {
     "date_for":"2020-11-10T00:00:00.000Z",
-    "cases":429946,
+    "cases":431054,
     "deaths":5763,
     "tests":2670286
   },
   {
     "date_for":"2020-11-11T00:00:00.000Z",
-    "cases":438865,
+    "cases":439982,
     "deaths":5946,
     "tests":2703224
   },
   {
     "date_for":"2020-11-12T00:00:00.000Z",
-    "cases":446739,
+    "cases":447868,
     "deaths":6119,
     "tests":2734398
   },
   {
     "date_for":"2020-11-13T00:00:00.000Z",
-    "cases":454097,
+    "cases":455240,
     "deaths":6300,
     "tests":2765695
   },
   {
     "date_for":"2020-11-14T00:00:00.000Z",
-    "cases":458293,
+    "cases":459440,
     "deaths":6485,
     "tests":2781888
   },
   {
     "date_for":"2020-11-15T00:00:00.000Z",
-    "cases":460184,
+    "cases":461332,
     "deaths":6637,
     "tests":2790909
   },
   {
     "date_for":"2020-11-16T00:00:00.000Z",
-    "cases":465602,
+    "cases":466767,
     "deaths":6810,
     "tests":2816976
   },
   {
     "date_for":"2020-11-17T00:00:00.000Z",
-    "cases":469847,
+    "cases":471020,
     "deaths":6949,
     "tests":2834566
   },
   {
     "date_for":"2020-11-18T00:00:00.000Z",
-    "cases":475361,
+    "cases":476556,
     "deaths":7104,
     "tests":2859098
   },
   {
     "date_for":"2020-11-19T00:00:00.000Z",
-    "cases":481831,
+    "cases":483039,
     "deaths":7238,
     "tests":2885802
   },
   {
     "date_for":"2020-11-20T00:00:00.000Z",
-    "cases":487639,
+    "cases":488857,
     "deaths":7355,
     "tests":2911656
   },
   {
     "date_for":"2020-11-21T00:00:00.000Z",
-    "cases":490830,
+    "cases":492058,
     "deaths":7487,
     "tests":2926240
   },
   {
     "date_for":"2020-11-22T00:00:00.000Z",
-    "cases":492338,
+    "cases":493574,
     "deaths":7613,
     "tests":2933470
   },
   {
     "date_for":"2020-11-23T00:00:00.000Z",
-    "cases":496717,
+    "cases":497966,
     "deaths":7742,
     "tests":2957130
   },
   {
     "date_for":"2020-11-24T00:00:00.000Z",
-    "cases":502578,
+    "cases":503845,
     "deaths":7878,
     "tests":2981761
   },
   {
     "date_for":"2020-11-25T00:00:00.000Z",
-    "cases":507507,
+    "cases":508783,
     "deaths":8001,
     "tests":3004411
   },
   {
     "date_for":"2020-11-26T00:00:00.000Z",
-    "cases":511556,
+    "cases":512841,
     "deaths":8131,
     "tests":3024965
   },
   {
     "date_for":"2020-11-27T00:00:00.000Z",
-    "cases":516018,
+    "cases":517317,
     "deaths":8269,
     "tests":3048360
   },
   {
     "date_for":"2020-11-28T00:00:00.000Z",
-    "cases":518685,
+    "cases":519988,
     "deaths":8386,
     "tests":3060682
   },
   {
     "date_for":"2020-11-29T00:00:00.000Z",
-    "cases":519759,
+    "cases":521065,
     "deaths":8481,
     "tests":3067132
   },
   {
     "date_for":"2020-11-30T00:00:00.000Z",
-    "cases":523331,
+    "cases":524659,
     "deaths":8607,
     "tests":3089398
   },
   {
     "date_for":"2020-12-01T00:00:00.000Z",
-    "cases":528511,
+    "cases":529853,
     "deaths":8707,
     "tests":3112582
   },
   {
     "date_for":"2020-12-02T00:00:00.000Z",
-    "cases":533072,
+    "cases":534429,
     "deaths":8823,
     "tests":3135253
   },
   {
     "date_for":"2020-12-03T00:00:00.000Z",
-    "cases":537696,
+    "cases":539068,
     "deaths":8925,
     "tests":3155979
   },
   {
     "date_for":"2020-12-04T00:00:00.000Z",
-    "cases":542443,
+    "cases":543834,
     "deaths":9017,
     "tests":3178756
   },
   {
     "date_for":"2020-12-05T00:00:00.000Z",
-    "cases":545755,
+    "cases":547151,
     "deaths":9146,
     "tests":3191740
   },
   {
     "date_for":"2020-12-06T00:00:00.000Z",
-    "cases":546867,
+    "cases":548270,
     "deaths":9237,
     "tests":3198435
   },
   {
     "date_for":"2020-12-07T00:00:00.000Z",
-    "cases":551118,
+    "cases":552536,
     "deaths":9331,
     "tests":3221348
   },
   {
     "date_for":"2020-12-08T00:00:00.000Z",
-    "cases":556973,
+    "cases":558408,
     "deaths":9426,
     "tests":3247543
   },
   {
     "date_for":"2020-12-09T00:00:00.000Z",
-    "cases":563388,
+    "cases":564840,
     "deaths":9508,
     "tests":3272811
   },
   {
     "date_for":"2020-12-10T00:00:00.000Z",
-    "cases":569260,
+    "cases":570731,
     "deaths":9624,
     "tests":3298382
   },
   {
     "date_for":"2020-12-11T00:00:00.000Z",
-    "cases":575469,
+    "cases":576963,
     "deaths":9729,
     "tests":3326847
   },
   {
     "date_for":"2020-12-12T00:00:00.000Z",
-    "cases":579124,
+    "cases":580624,
     "deaths":9826,
     "tests":3342934
   },
   {
     "date_for":"2020-12-13T00:00:00.000Z",
-    "cases":581122,
+    "cases":582625,
     "deaths":9934,
     "tests":3351910
   },
   {
     "date_for":"2020-12-14T00:00:00.000Z",
-    "cases":586299,
+    "cases":587820,
     "deaths":10064,
     "tests":3378288
   },
   {
     "date_for":"2020-12-15T00:00:00.000Z",
-    "cases":594207,
+    "cases":595749,
     "deaths":10169,
     "tests":3410463
   },
   {
     "date_for":"2020-12-16T00:00:00.000Z",
-    "cases":602464,
+    "cases":604020,
     "deaths":10283,
     "tests":3442955
   },
   {
     "date_for":"2020-12-17T00:00:00.000Z",
-    "cases":610078,
+    "cases":611653,
     "deaths":10389,
     "tests":3474258
   },
   {
     "date_for":"2020-12-18T00:00:00.000Z",
-    "cases":618916,
+    "cases":620511,
     "deaths":10489,
     "tests":3508276
   },
   {
     "date_for":"2020-12-19T00:00:00.000Z",
-    "cases":624242,
+    "cases":625844,
     "deaths":10603,
     "tests":3529621
   },
   {
     "date_for":"2020-12-20T00:00:00.000Z",
-    "cases":627646,
+    "cases":629266,
     "deaths":10701,
     "tests":3541223
   },
   {
     "date_for":"2020-12-21T00:00:00.000Z",
-    "cases":635599,
+    "cases":637239,
     "deaths":10805,
     "tests":3570759
   },
   {
     "date_for":"2020-12-22T00:00:00.000Z",
-    "cases":646516,
+    "cases":648173,
     "deaths":10907,
     "tests":3607048
   },
   {
     "date_for":"2020-12-23T00:00:00.000Z",
-    "cases":660656,
+    "cases":662335,
     "deaths":11022,
     "tests":3648916
   },
   {
     "date_for":"2020-12-24T00:00:00.000Z",
-    "cases":665030,
+    "cases":666720,
     "deaths":11133,
     "tests":3659629
   },
   {
     "date_for":"2020-12-25T00:00:00.000Z",
-    "cases":667701,
+    "cases":669401,
     "deaths":11239,
     "tests":3667448
   },
   {
     "date_for":"2020-12-26T00:00:00.000Z",
-    "cases":670733,
+    "cases":672441,
     "deaths":11364,
     "tests":3676163
   },
   {
     "date_for":"2020-12-27T00:00:00.000Z",
-    "cases":674518,
+    "cases":676234,
     "deaths":11472,
     "tests":3686646
   },
   {
     "date_for":"2020-12-28T00:00:00.000Z",
-    "cases":685456,
+    "cases":687194,
     "deaths":11603,
     "tests":3714848
   },
   {
     "date_for":"2020-12-29T00:00:00.000Z",
-    "cases":701932,
+    "cases":703697,
     "deaths":11735,
     "tests":3750923
   },
   {
     "date_for":"2020-12-30T00:00:00.000Z",
-    "cases":718993,
+    "cases":720780,
     "deaths":11885,
     "tests":3786364
   },
   {
     "date_for":"2020-12-31T00:00:00.000Z",
-    "cases":732307,
+    "cases":734114,
     "deaths":12014,
     "tests":3814271
   },
   {
     "date_for":"2021-01-01T00:00:00.000Z",
-    "cases":735753,
+    "cases":737569,
     "deaths":12166,
     "tests":3820856
   },
   {
     "date_for":"2021-01-02T00:00:00.000Z",
-    "cases":740740,
+    "cases":742567,
     "deaths":12318,
     "tests":3834305
   },
   {
     "date_for":"2021-01-03T00:00:00.000Z",
-    "cases":747009,
+    "cases":748853,
     "deaths":12459,
     "tests":3849627
   },
   {
     "date_for":"2021-01-04T00:00:00.000Z",
-    "cases":759973,
+    "cases":761854,
     "deaths":12611,
     "tests":3884807
   },
   {
     "date_for":"2021-01-05T00:00:00.000Z",
-    "cases":777382,
+    "cases":779297,
     "deaths":12792,
     "tests":3928825
   },
   {
     "date_for":"2021-01-06T00:00:00.000Z",
-    "cases":795157,
+    "cases":797084,
     "deaths":12954,
     "tests":3967876
   },
   {
     "date_for":"2021-01-07T00:00:00.000Z",
-    "cases":810043,
+    "cases":811993,
     "deaths":13140,
     "tests":4006850
   },
   {
     "date_for":"2021-01-08T00:00:00.000Z",
-    "cases":823147,
+    "cases":825116,
     "deaths":13337,
     "tests":4045613
   },
   {
     "date_for":"2021-01-09T00:00:00.000Z",
-    "cases":831591,
+    "cases":833572,
     "deaths":13500,
     "tests":4066697
   },
   {
     "date_for":"2021-01-10T00:00:00.000Z",
-    "cases":835905,
+    "cases":837891,
     "deaths":13684,
     "tests":4079016
   },
   {
     "date_for":"2021-01-11T00:00:00.000Z",
-    "cases":845291,
+    "cases":847301,
     "deaths":13847,
     "tests":4113026
   },
   {
     "date_for":"2021-01-12T00:00:00.000Z",
-    "cases":856105,
+    "cases":858132,
     "deaths":14024,
     "tests":4149388
   },
   {
     "date_for":"2021-01-13T00:00:00.000Z",
-    "cases":867032,
+    "cases":869077,
     "deaths":14188,
     "tests":4181763
   },
   {
     "date_for":"2021-01-14T00:00:00.000Z",
-    "cases":875140,
+    "cases":877200,
     "deaths":14369,
     "tests":4212069
   },
   {
     "date_for":"2021-01-15T00:00:00.000Z",
-    "cases":884444,
+    "cases":886526,
     "deaths":14534,
     "tests":4243267
   },
   {
     "date_for":"2021-01-16T00:00:00.000Z",
-    "cases":889687,
+    "cases":891777,
     "deaths":14690,
     "tests":4260658
   },
   {
     "date_for":"2021-01-17T00:00:00.000Z",
-    "cases":892331,
+    "cases":894428,
     "deaths":14847,
     "tests":4269496
   },
   {
     "date_for":"2021-01-18T00:00:00.000Z",
-    "cases":900008,
+    "cases":902120,
     "deaths":15007,
     "tests":4299311
   },
   {
     "date_for":"2021-01-19T00:00:00.000Z",
-    "cases":909625,
+    "cases":911755,
     "deaths":15164,
     "tests":4331111
   },
   {
     "date_for":"2021-01-20T00:00:00.000Z",
-    "cases":917850,
+    "cases":919985,
     "deaths":15312,
     "tests":4359859
   },
   {
     "date_for":"2021-01-21T00:00:00.000Z",
-    "cases":925389,
+    "cases":927536,
     "deaths":15464,
     "tests":4385004
   },
   {
     "date_for":"2021-01-22T00:00:00.000Z",
-    "cases":933861,
+    "cases":936019,
     "deaths":15600,
     "tests":4415404
   },
   {
     "date_for":"2021-01-23T00:00:00.000Z",
-    "cases":938102,
+    "cases":940265,
     "deaths":15743,
     "tests":4429542
   },
   {
     "date_for":"2021-01-24T00:00:00.000Z",
-    "cases":940502,
+    "cases":942667,
     "deaths":15887,
     "tests":4437435
   },
   {
     "date_for":"2021-01-25T00:00:00.000Z",
-    "cases":947480,
+    "cases":949652,
     "deaths":16026,
     "tests":4464706
   },
   {
     "date_for":"2021-01-26T00:00:00.000Z",
-    "cases":956677,
+    "cases":958862,
     "deaths":16169,
     "tests":4494157
   },
   {
     "date_for":"2021-01-27T00:00:00.000Z",
-    "cases":965185,
+    "cases":967380,
     "deaths":16329,
     "tests":4524646
   },
   {
     "date_for":"2021-01-28T00:00:00.000Z",
-    "cases":973197,
+    "cases":975401,
     "deaths":16464,
     "tests":4550466
   },
   {
     "date_for":"2021-01-29T00:00:00.000Z",
-    "cases":981254,
+    "cases":983464,
     "deaths":16616,
     "tests":4581804
   },
   {
     "date_for":"2021-01-30T00:00:00.000Z",
-    "cases":985312,
+    "cases":987527,
     "deaths":16742,
     "tests":4596235
   },
   {
     "date_for":"2021-01-31T00:00:00.000Z",
-    "cases":987888,
+    "cases":990106,
     "deaths":16862,
     "tests":4603874
   },
   {
     "date_for":"2021-02-01T00:00:00.000Z",
-    "cases":995121,
+    "cases":997351,
     "deaths":16995,
     "tests":4631382
   },
   {
     "date_for":"2021-02-02T00:00:00.000Z",
-    "cases":1004276,
+    "cases":1006514,
     "deaths":17130,
     "tests":4661380
   },
   {
     "date_for":"2021-02-03T00:00:00.000Z",
-    "cases":1013944,
+    "cases":1016187,
     "deaths":17267,
     "tests":4693178
   },
   {
     "date_for":"2021-02-04T00:00:00.000Z",
-    "cases":1022057,
+    "cases":1024304,
     "deaths":17395,
     "tests":4720927
   },
   {
     "date_for":"2021-02-05T00:00:00.000Z",
-    "cases":1030689,
+    "cases":1032939,
     "deaths":17522,
     "tests":4752127
   },
   {
     "date_for":"2021-02-06T00:00:00.000Z",
-    "cases":1035512,
+    "cases":1037767,
     "deaths":17650,
     "tests":4767028
   },
   {
     "date_for":"2021-02-07T00:00:00.000Z",
-    "cases":1037964,
+    "cases":1040224,
     "deaths":17781,
     "tests":4774848
   },
   {
     "date_for":"2021-02-08T00:00:00.000Z",
-    "cases":1045745,
+    "cases":1048014,
     "deaths":17919,
     "tests":4800455
   },
   {
     "date_for":"2021-02-09T00:00:00.000Z",
-    "cases":1056031,
+    "cases":1058303,
     "deaths":18052,
     "tests":4831833
   },
   {
     "date_for":"2021-02-10T00:00:00.000Z",
-    "cases":1065581,
+    "cases":1067857,
     "deaths":18185,
     "tests":4861764
   },
   {
     "date_for":"2021-02-11T00:00:00.000Z",
-    "cases":1074604,
+    "cases":1076890,
     "deaths":18314,
     "tests":4890009
   },
   {
     "date_for":"2021-02-12T00:00:00.000Z",
-    "cases":1083436,
+    "cases":1085726,
     "deaths":18458,
     "tests":4921075
   },
   {
     "date_for":"2021-02-13T00:00:00.000Z",
-    "cases":1088580,
+    "cases":1090872,
     "deaths":18575,
     "tests":4937535
   },
   {
     "date_for":"2021-02-14T00:00:00.000Z",
-    "cases":1091461,
+    "cases":1093756,
     "deaths":18724,
     "tests":4945926
   },
   {
     "date_for":"2021-02-15T00:00:00.000Z",
-    "cases":1100369,
+    "cases":1102671,
     "deaths":18854,
     "tests":4975060
   },
   {
     "date_for":"2021-02-16T00:00:00.000Z",
-    "cases":1112982,
+    "cases":1115291,
     "deaths":19003,
     "tests":5009604
   },
   {
     "date_for":"2021-02-17T00:00:00.000Z",
-    "cases":1123930,
+    "cases":1126244,
     "deaths":19135,
     "tests":5042391
   },
   {
     "date_for":"2021-02-18T00:00:00.000Z",
-    "cases":1135639,
+    "cases":1137959,
     "deaths":19308,
     "tests":5076470
   },
   {
     "date_for":"2021-02-19T00:00:00.000Z",
-    "cases":1146931,
+    "cases":1149256,
     "deaths":19489,
     "tests":5113982
   },
   {
     "date_for":"2021-02-20T00:00:00.000Z",
-    "cases":1153708,
+    "cases":1156041,
     "deaths":19665,
     "tests":5132793
   },
   {
     "date_for":"2021-02-21T00:00:00.000Z",
-    "cases":1157779,
+    "cases":1160117,
     "deaths":19813,
     "tests":5142370
   },
   {
     "date_for":"2021-02-22T00:00:00.000Z",
-    "cases":1169204,
+    "cases":1171548,
     "deaths":19979,
     "tests":5176275
   },
   {
     "date_for":"2021-02-23T00:00:00.000Z",
-    "cases":1185057,
+    "cases":1187407,
     "deaths":20127,
     "tests":5217191
   },
   {
     "date_for":"2021-02-24T00:00:00.000Z",
-    "cases":1198866,
+    "cases":1201220,
     "deaths":20270,
     "tests":5257371
   },
   {
     "date_for":"2021-02-25T00:00:00.000Z",
-    "cases":1213464,
+    "cases":1215827,
     "deaths":20452,
     "tests":5297141
   },
   {
     "date_for":"2021-02-26T00:00:00.000Z",
-    "cases":1228261,
+    "cases":1230640,
     "deaths":20644,
     "tests":5339030
   },
   {
     "date_for":"2021-02-27T00:00:00.000Z",
-    "cases":1236125,
+    "cases":1238508,
     "deaths":20837,
     "tests":5362096
   },
   {
     "date_for":"2021-02-28T00:00:00.000Z",
-    "cases":1240719,
+    "cases":1243104,
     "deaths":21020,
     "tests":5373803
   },
   {
     "date_for":"2021-03-01T00:00:00.000Z",
-    "cases":1253063,
+    "cases":1255454,
     "deaths":21224,
     "tests":5408925
   },
   {
     "date_for":"2021-03-02T00:00:00.000Z",
-    "cases":1269870,
+    "cases":1272273,
     "deaths":21416,
     "tests":5453508
   },
   {
     "date_for":"2021-03-03T00:00:00.000Z",
-    "cases":1285121,
+    "cases":1287530,
     "deaths":21617,
     "tests":5494673
   },
   {
     "date_for":"2021-03-04T00:00:00.000Z",
-    "cases":1299776,
+    "cases":1302194,
     "deaths":21834,
     "tests":5534534
   },
   {
     "date_for":"2021-03-05T00:00:00.000Z",
-    "cases":1312949,
+    "cases":1315374,
     "deaths":22018,
     "tests":5577332
   },
   {
     "date_for":"2021-03-06T00:00:00.000Z",
-    "cases":1322081,
+    "cases":1324509,
     "deaths":22226,
     "tests":5599341
   },
   {
     "date_for":"2021-03-07T00:00:00.000Z",
-    "cases":1326065,
+    "cases":1328494,
     "deaths":22429,
     "tests":5610440
   },
   {
     "date_for":"2021-03-08T00:00:00.000Z",
-    "cases":1336729,
+    "cases":1339163,
     "deaths":22665,
     "tests":5643248
   },
   {
     "date_for":"2021-03-09T00:00:00.000Z",
-    "cases":1352094,
-    "deaths":22894,
+    "cases":1354536,
+    "deaths":22895,
     "tests":5683339
   },
   {
     "date_for":"2021-03-10T00:00:00.000Z",
-    "cases":1366641,
-    "deaths":23123,
+    "cases":1369088,
+    "deaths":23124,
     "tests":5724326
   },
   {
     "date_for":"2021-03-11T00:00:00.000Z",
-    "cases":1377890,
-    "deaths":23352,
+    "cases":1380341,
+    "deaths":23353,
     "tests":5759611
   },
   {
     "date_for":"2021-03-12T00:00:00.000Z",
-    "cases":1392868,
-    "deaths":23563,
+    "cases":1395324,
+    "deaths":23564,
     "tests":5799372
   },
   {
     "date_for":"2021-03-13T00:00:00.000Z",
-    "cases":1399900,
-    "deaths":23741,
+    "cases":1402357,
+    "deaths":23742,
     "tests":5817213
   },
   {
     "date_for":"2021-03-14T00:00:00.000Z",
-    "cases":1403235,
-    "deaths":23970,
+    "cases":1405693,
+    "deaths":23971,
     "tests":5825500
   },
   {
     "date_for":"2021-03-15T00:00:00.000Z",
-    "cases":1413870,
-    "deaths":24207,
+    "cases":1416333,
+    "deaths":24208,
     "tests":5858977
   },
   {
     "date_for":"2021-03-16T00:00:00.000Z",
-    "cases":1427902,
-    "deaths":24425,
+    "cases":1430371,
+    "deaths":24426,
     "tests":5896341
   },
   {
     "date_for":"2021-03-17T00:00:00.000Z",
-    "cases":1439936,
-    "deaths":24623,
+    "cases":1442406,
+    "deaths":24624,
     "tests":5930683
   },
   {
     "date_for":"2021-03-18T00:00:00.000Z",
-    "cases":1450606,
-    "deaths":24836,
+    "cases":1453081,
+    "deaths":24837,
     "tests":5961534
   },
   {
     "date_for":"2021-03-19T00:00:00.000Z",
-    "cases":1460325,
-    "deaths":25009,
+    "cases":1462804,
+    "deaths":25010,
     "tests":5993629
   },
   {
     "date_for":"2021-03-20T00:00:00.000Z",
-    "cases":1465814,
-    "deaths":25193,
+    "cases":1468295,
+    "deaths":25194,
     "tests":6010736
   },
   {
     "date_for":"2021-03-21T00:00:00.000Z",
-    "cases":1468205,
-    "deaths":25386,
+    "cases":1470687,
+    "deaths":25387,
     "tests":6018689
   },
   {
     "date_for":"2021-03-22T00:00:00.000Z",
-    "cases":1476452,
-    "deaths":25596,
+    "cases":1478938,
+    "deaths":25597,
     "tests":6048288
   },
   {
     "date_for":"2021-03-23T00:00:00.000Z",
-    "cases":1487428,
-    "deaths":25789,
+    "cases":1489917,
+    "deaths":25790,
     "tests":6081831
   },
   {
     "date_for":"2021-03-24T00:00:00.000Z",
-    "cases":1496282,
-    "deaths":25972,
+    "cases":1498772,
+    "deaths":25973,
     "tests":6110049
   },
   {
     "date_for":"2021-03-25T00:00:00.000Z",
-    "cases":1504216,
-    "deaths":26133,
+    "cases":1506707,
+    "deaths":26134,
     "tests":6137779
   },
   {
     "date_for":"2021-03-26T00:00:00.000Z",
-    "cases":1511934,
-    "deaths":26288,
+    "cases":1514427,
+    "deaths":26289,
     "tests":6164883
   },
   {
     "date_for":"2021-03-27T00:00:00.000Z",
-    "cases":1515907,
-    "deaths":26469,
+    "cases":1518403,
+    "deaths":26470,
     "tests":6177509
   },
   {
     "date_for":"2021-03-28T00:00:00.000Z",
-    "cases":1517651,
-    "deaths":26586,
+    "cases":1520147,
+    "deaths":26587,
     "tests":6183818
   },
   {
     "date_for":"2021-03-29T00:00:00.000Z",
-    "cases":1524591,
-    "deaths":26766,
+    "cases":1527088,
+    "deaths":26767,
     "tests":6210821
   },
   {
     "date_for":"2021-03-30T00:00:00.000Z",
-    "cases":1533231,
-    "deaths":26936,
+    "cases":1535730,
+    "deaths":26937,
     "tests":6239794
   },
   {
     "date_for":"2021-03-31T00:00:00.000Z",
-    "cases":1540501,
-    "deaths":27089,
+    "cases":1543001,
+    "deaths":27090,
     "tests":6265800
   },
   {
     "date_for":"2021-04-01T00:00:00.000Z",
-    "cases":1546750,
-    "deaths":27241,
+    "cases":1549252,
+    "deaths":27242,
     "tests":6290635
   },
   {
     "date_for":"2021-04-02T00:00:00.000Z",
-    "cases":1550587,
-    "deaths":27345,
+    "cases":1553090,
+    "deaths":27346,
     "tests":6305263
   },
   {
     "date_for":"2021-04-03T00:00:00.000Z",
-    "cases":1552747,
-    "deaths":27470,
+    "cases":1555251,
+    "deaths":27471,
     "tests":6313638
   },
   {
     "date_for":"2021-04-04T00:00:00.000Z",
-    "cases":1554676,
-    "deaths":27616,
+    "cases":1557183,
+    "deaths":27617,
     "tests":6320733
   },
   {
     "date_for":"2021-04-05T00:00:00.000Z",
-    "cases":1556095,
-    "deaths":27740,
+    "cases":1558602,
+    "deaths":27741,
     "tests":6328330
   },
   {
     "date_for":"2021-04-06T00:00:00.000Z",
-    "cases":1561686,
-    "deaths":27854,
+    "cases":1564196,
+    "deaths":27855,
     "tests":6354012
   },
   {
     "date_for":"2021-04-07T00:00:00.000Z",
-    "cases":1568741,
-    "deaths":27975,
+    "cases":1571251,
+    "deaths":27976,
     "tests":6381812
   },
   {
     "date_for":"2021-04-08T00:00:00.000Z",
-    "cases":1574026,
-    "deaths":28096,
+    "cases":1576537,
+    "deaths":28097,
     "tests":6404152
   },
   {
     "date_for":"2021-04-09T00:00:00.000Z",
-    "cases":1578850,
-    "deaths":28202,
+    "cases":1581366,
+    "deaths":28203,
     "tests":6426879
   },
   {
     "date_for":"2021-04-10T00:00:00.000Z",
-    "cases":1581062,
-    "deaths":28312,
+    "cases":1583578,
+    "deaths":28313,
     "tests":6438001
   },
   {
     "date_for":"2021-04-11T00:00:00.000Z",
-    "cases":1582048,
-    "deaths":28405,
+    "cases":1584565,
+    "deaths":28406,
     "tests":6443867
   },
   {
     "date_for":"2021-04-12T00:00:00.000Z",
-    "cases":1585915,
-    "deaths":28489,
+    "cases":1588432,
+    "deaths":28490,
     "tests":6465382
   },
   {
     "date_for":"2021-04-13T00:00:00.000Z",
-    "cases":1590984,
-    "deaths":28580,
+    "cases":1593501,
+    "deaths":28581,
     "tests":6489655
   },
   {
     "date_for":"2021-04-14T00:00:00.000Z",
-    "cases":1594703,
-    "deaths":28670,
+    "cases":1597222,
+    "deaths":28671,
     "tests":6510700
   },
   {
     "date_for":"2021-04-15T00:00:00.000Z",
-    "cases":1597969,
-    "deaths":28756,
+    "cases":1600489,
+    "deaths":28757,
     "tests":6528183
   },
   {
     "date_for":"2021-04-16T00:00:00.000Z",
-    "cases":1601187,
-    "deaths":28821,
+    "cases":1603709,
+    "deaths":28822,
     "tests":6547371
   },
   {
     "date_for":"2021-04-17T00:00:00.000Z",
-    "cases":1602728,
-    "deaths":28894,
+    "cases":1605252,
+    "deaths":28895,
     "tests":6557129
   },
   {
     "date_for":"2021-04-18T00:00:00.000Z",
-    "cases":1603562,
-    "deaths":28972,
+    "cases":1606086,
+    "deaths":28973,
     "tests":6563318
   },
   {
     "date_for":"2021-04-19T00:00:00.000Z",
-    "cases":1606904,
-    "deaths":29044,
+    "cases":1609428,
+    "deaths":29045,
     "tests":6584923
   },
   {
     "date_for":"2021-04-20T00:00:00.000Z",
-    "cases":1610721,
-    "deaths":29107,
+    "cases":1613245,
+    "deaths":29108,
     "tests":6607229
   },
   {
     "date_for":"2021-04-21T00:00:00.000Z",
-    "cases":1613672,
-    "deaths":29171,
+    "cases":1616196,
+    "deaths":29172,
     "tests":6626451
   },
   {
     "date_for":"2021-04-22T00:00:00.000Z",
-    "cases":1616301,
-    "deaths":29227,
+    "cases":1618825,
+    "deaths":29228,
     "tests":6644609
   },
   {
     "date_for":"2021-04-23T00:00:00.000Z",
-    "cases":1618903,
-    "deaths":29280,
+    "cases":1621430,
+    "deaths":29281,
     "tests":6662834
   },
   {
     "date_for":"2021-04-24T00:00:00.000Z",
-    "cases":1620212,
-    "deaths":29336,
+    "cases":1622739,
+    "deaths":29337,
     "tests":6672056
   },
   {
     "date_for":"2021-04-25T00:00:00.000Z",
-    "cases":1621038,
-    "deaths":29389,
+    "cases":1623565,
+    "deaths":29390,
     "tests":6677459
   },
   {
     "date_for":"2021-04-26T00:00:00.000Z",
-    "cases":1623621,
-    "deaths":29447,
+    "cases":1626150,
+    "deaths":29448,
     "tests":6698494
   },
   {
     "date_for":"2021-04-27T00:00:00.000Z",
-    "cases":1626862,
-    "deaths":29497,
+    "cases":1629391,
+    "deaths":29498,
     "tests":6718588
   },
   {
     "date_for":"2021-04-28T00:00:00.000Z",
-    "cases":1629350,
-    "deaths":29564,
+    "cases":1631880,
+    "deaths":29565,
     "tests":6738335
   },
   {
     "date_for":"2021-04-29T00:00:00.000Z",
-    "cases":1631580,
-    "deaths":29606,
+    "cases":1634113,
+    "deaths":29607,
     "tests":6757239
   },
   {
     "date_for":"2021-04-30T00:00:00.000Z",
-    "cases":1633747,
-    "deaths":29655,
+    "cases":1636281,
+    "deaths":29656,
     "tests":6776609
   },
   {
     "date_for":"2021-05-01T00:00:00.000Z",
-    "cases":1634918,
-    "deaths":29688,
+    "cases":1637453,
+    "deaths":29689,
     "tests":6786936
   },
   {
     "date_for":"2021-05-02T00:00:00.000Z",
-    "cases":1635427,
-    "deaths":29722,
+    "cases":1637962,
+    "deaths":29723,
     "tests":6792717
   },
   {
     "date_for":"2021-05-03T00:00:00.000Z",
-    "cases":1637647,
-    "deaths":29759,
+    "cases":1640184,
+    "deaths":29760,
     "tests":6812408
   },
   {
     "date_for":"2021-05-04T00:00:00.000Z",
-    "cases":1640063,
-    "deaths":29803,
+    "cases":1642601,
+    "deaths":29804,
     "tests":6832169
   },
   {
     "date_for":"2021-05-05T00:00:00.000Z",
-    "cases":1641936,
-    "deaths":29840,
+    "cases":1644477,
+    "deaths":29841,
     "tests":6848853
   },
   {
     "date_for":"2021-05-06T00:00:00.000Z",
-    "cases":1643510,
-    "deaths":29883,
+    "cases":1646051,
+    "deaths":29884,
     "tests":6864772
   },
   {
     "date_for":"2021-05-07T00:00:00.000Z",
-    "cases":1645148,
-    "deaths":29911,
+    "cases":1647690,
+    "deaths":29912,
     "tests":6882755
   },
   {
     "date_for":"2021-05-08T00:00:00.000Z",
-    "cases":1645876,
-    "deaths":29942,
+    "cases":1648418,
+    "deaths":29943,
     "tests":6894892
   },
   {
     "date_for":"2021-05-09T00:00:00.000Z",
-    "cases":1646260,
-    "deaths":29976,
+    "cases":1648803,
+    "deaths":29977,
     "tests":6900774
   },
   {
     "date_for":"2021-05-10T00:00:00.000Z",
-    "cases":1647805,
-    "deaths":30008,
+    "cases":1650350,
+    "deaths":30009,
     "tests":6922999
   },
   {
     "date_for":"2021-05-11T00:00:00.000Z",
-    "cases":1649496,
-    "deaths":30041,
+    "cases":1652041,
+    "deaths":30042,
     "tests":6940459
   },
   {
     "date_for":"2021-05-12T00:00:00.000Z",
-    "cases":1650760,
-    "deaths":30074,
+    "cases":1653305,
+    "deaths":30075,
     "tests":6955730
   },
   {
     "date_for":"2021-05-13T00:00:00.000Z",
-    "cases":1651983,
-    "deaths":30095,
+    "cases":1654530,
+    "deaths":30096,
     "tests":6970046
   },
   {
     "date_for":"2021-05-14T00:00:00.000Z",
-    "cases":1653035,
-    "deaths":30113,
+    "cases":1655582,
+    "deaths":30114,
     "tests":6987435
   },
   {
     "date_for":"2021-05-15T00:00:00.000Z",
-    "cases":1653632,
-    "deaths":30129,
+    "cases":1656179,
+    "deaths":30130,
     "tests":7002502
   },
   {
     "date_for":"2021-05-16T00:00:00.000Z",
-    "cases":1653889,
-    "deaths":30142,
+    "cases":1656436,
+    "deaths":30143,
     "tests":7009622
   },
   {
     "date_for":"2021-05-17T00:00:00.000Z",
-    "cases":1655019,
-    "deaths":30164,
+    "cases":1657566,
+    "deaths":30165,
     "tests":7046112
   },
   {
     "date_for":"2021-05-18T00:00:00.000Z",
-    "cases":1656219,
-    "deaths":30178,
+    "cases":1658767,
+    "deaths":30179,
     "tests":7070799
   },
   {
     "date_for":"2021-05-19T00:00:00.000Z",
-    "cases":1656998,
-    "deaths":30194,
+    "cases":1659548,
+    "deaths":30195,
     "tests":7096088
   },
   {
     "date_for":"2021-05-20T00:00:00.000Z",
-    "cases":1657675,
-    "deaths":30211,
+    "cases":1660225,
+    "deaths":30212,
     "tests":7115427
   },
   {
     "date_for":"2021-05-21T00:00:00.000Z",
-    "cases":1658347,
-    "deaths":30223,
+    "cases":1660897,
+    "deaths":30224,
     "tests":7143108
   },
   {
     "date_for":"2021-05-22T00:00:00.000Z",
-    "cases":1658683,
-    "deaths":30234,
+    "cases":1661233,
+    "deaths":30235,
     "tests":7153011
   },
   {
     "date_for":"2021-05-23T00:00:00.000Z",
-    "cases":1658880,
-    "deaths":30246,
+    "cases":1661430,
+    "deaths":30247,
     "tests":7157475
   },
   {
     "date_for":"2021-05-24T00:00:00.000Z",
-    "cases":1659577,
-    "deaths":30253,
+    "cases":1662128,
+    "deaths":30254,
     "tests":7187766
   },
   {
     "date_for":"2021-05-25T00:00:00.000Z",
-    "cases":1660238,
-    "deaths":30261,
+    "cases":1662789,
+    "deaths":30262,
     "tests":7209143
   },
   {
     "date_for":"2021-05-26T00:00:00.000Z",
-    "cases":1660776,
-    "deaths":30271,
+    "cases":1663329,
+    "deaths":30272,
     "tests":7230957
   },
   {
     "date_for":"2021-05-27T00:00:00.000Z",
-    "cases":1661283,
-    "deaths":30286,
+    "cases":1663836,
+    "deaths":30287,
     "tests":7248273
   },
   {
     "date_for":"2021-05-28T00:00:00.000Z",
-    "cases":1661737,
-    "deaths":30293,
+    "cases":1664291,
+    "deaths":30294,
     "tests":7270250
   },
   {
     "date_for":"2021-05-29T00:00:00.000Z",
-    "cases":1661959,
-    "deaths":30299,
+    "cases":1664513,
+    "deaths":30300,
     "tests":7279218
   },
   {
     "date_for":"2021-05-30T00:00:00.000Z",
-    "cases":1662071,
-    "deaths":30303,
+    "cases":1664625,
+    "deaths":30304,
     "tests":7283721
   },
   {
     "date_for":"2021-05-31T00:00:00.000Z",
-    "cases":1662585,
-    "deaths":30313,
+    "cases":1665139,
+    "deaths":30314,
     "tests":7312096
   },
   {
     "date_for":"2021-06-01T00:00:00.000Z",
-    "cases":1663064,
-    "deaths":30319,
+    "cases":1665618,
+    "deaths":30320,
     "tests":7337843
   },
   {
     "date_for":"2021-06-02T00:00:00.000Z",
-    "cases":1663417,
-    "deaths":30324,
+    "cases":1665971,
+    "deaths":30325,
     "tests":7364114
   },
   {
     "date_for":"2021-06-03T00:00:00.000Z",
-    "cases":1663844,
-    "deaths":30327,
+    "cases":1666398,
+    "deaths":30328,
     "tests":7390302
   },
   {
     "date_for":"2021-06-04T00:00:00.000Z",
-    "cases":1664165,
-    "deaths":30334,
+    "cases":1666719,
+    "deaths":30335,
     "tests":7416936
   },
   {
     "date_for":"2021-06-05T00:00:00.000Z",
-    "cases":1664318,
-    "deaths":30336,
+    "cases":1666872,
+    "deaths":30337,
     "tests":7428997
   },
   {
     "date_for":"2021-06-06T00:00:00.000Z",
-    "cases":1664416,
-    "deaths":30340,
+    "cases":1666970,
+    "deaths":30341,
     "tests":7434929
   },
   {
     "date_for":"2021-06-07T00:00:00.000Z",
-    "cases":1664712,
-    "deaths":30344,
+    "cases":1667266,
+    "deaths":30345,
     "tests":7466781
   },
   {
     "date_for":"2021-06-08T00:00:00.000Z",
-    "cases":1665096,
-    "deaths":30350,
+    "cases":1667650,
+    "deaths":30351,
     "tests":7490343
   },
   {
     "date_for":"2021-06-09T00:00:00.000Z",
-    "cases":1665346,
-    "deaths":30352,
+    "cases":1667900,
+    "deaths":30353,
     "tests":7520823
   },
   {
     "date_for":"2021-06-10T00:00:00.000Z",
-    "cases":1665536,
-    "deaths":30358,
+    "cases":1668090,
+    "deaths":30359,
     "tests":7541703
   },
   {
     "date_for":"2021-06-11T00:00:00.000Z",
-    "cases":1665716,
-    "deaths":30360,
-    "tests":7569790
+    "cases":1668270,
+    "deaths":30361,
+    "tests":7569792
   },
   {
     "date_for":"2021-06-12T00:00:00.000Z",
-    "cases":1665789,
-    "deaths":30363,
-    "tests":7582124
+    "cases":1668344,
+    "deaths":30364,
+    "tests":7582126
   },
   {
     "date_for":"2021-06-13T00:00:00.000Z",
-    "cases":1665830,
-    "deaths":30366,
-    "tests":7588678
+    "cases":1668385,
+    "deaths":30367,
+    "tests":7588680
   },
   {
     "date_for":"2021-06-14T00:00:00.000Z",
-    "cases":1666005,
-    "deaths":30366,
-    "tests":7622458
+    "cases":1668560,
+    "deaths":30367,
+    "tests":7622460
   },
   {
     "date_for":"2021-06-15T00:00:00.000Z",
-    "cases":1666213,
-    "deaths":30370,
-    "tests":7650204
+    "cases":1668768,
+    "deaths":30371,
+    "tests":7650206
   },
   {
     "date_for":"2021-06-16T00:00:00.000Z",
-    "cases":1666342,
-    "deaths":30371,
-    "tests":7681064
+    "cases":1668897,
+    "deaths":30372,
+    "tests":7681066
   },
   {
     "date_for":"2021-06-17T00:00:00.000Z",
-    "cases":1666499,
-    "deaths":30375,
-    "tests":7710050
+    "cases":1669054,
+    "deaths":30376,
+    "tests":7710052
   },
   {
     "date_for":"2021-06-18T00:00:00.000Z",
-    "cases":1666643,
-    "deaths":30378,
-    "tests":7747368
+    "cases":1669198,
+    "deaths":30379,
+    "tests":7747370
   },
   {
     "date_for":"2021-06-19T00:00:00.000Z",
-    "cases":1666706,
-    "deaths":30378,
-    "tests":7760900
+    "cases":1669261,
+    "deaths":30379,
+    "tests":7760902
   },
   {
     "date_for":"2021-06-20T00:00:00.000Z",
-    "cases":1666763,
-    "deaths":30379,
-    "tests":7767872
+    "cases":1669318,
+    "deaths":30380,
+    "tests":7767874
   },
   {
     "date_for":"2021-06-21T00:00:00.000Z",
-    "cases":1666882,
-    "deaths":30380,
-    "tests":7798850
+    "cases":1669437,
+    "deaths":30381,
+    "tests":7798852
   },
   {
     "date_for":"2021-06-22T00:00:00.000Z",
-    "cases":1666994,
-    "deaths":30382,
-    "tests":7824078
+    "cases":1669549,
+    "deaths":30383,
+    "tests":7824080
   },
   {
     "date_for":"2021-06-23T00:00:00.000Z",
-    "cases":1667099,
-    "deaths":30382,
-    "tests":7848259
+    "cases":1669654,
+    "deaths":30383,
+    "tests":7848261
   },
   {
     "date_for":"2021-06-24T00:00:00.000Z",
-    "cases":1667195,
-    "deaths":30385,
-    "tests":7878021
+    "cases":1669750,
+    "deaths":30386,
+    "tests":7878023
   },
   {
     "date_for":"2021-06-25T00:00:00.000Z",
-    "cases":1667327,
-    "deaths":30386,
-    "tests":7906130
+    "cases":1669882,
+    "deaths":30387,
+    "tests":7906132
   },
   {
     "date_for":"2021-06-26T00:00:00.000Z",
-    "cases":1667395,
-    "deaths":30388,
-    "tests":7930046
+    "cases":1669950,
+    "deaths":30389,
+    "tests":7930048
   },
   {
     "date_for":"2021-06-27T00:00:00.000Z",
-    "cases":1667453,
-    "deaths":30388,
-    "tests":7937716
+    "cases":1670008,
+    "deaths":30389,
+    "tests":7937718
   },
   {
     "date_for":"2021-06-28T00:00:00.000Z",
-    "cases":1667604,
-    "deaths":30388,
-    "tests":7970206
+    "cases":1670160,
+    "deaths":30389,
+    "tests":7970208
   },
   {
     "date_for":"2021-06-29T00:00:00.000Z",
-    "cases":1667760,
-    "deaths":30388,
-    "tests":8014326
+    "cases":1670318,
+    "deaths":30389,
+    "tests":8014328
   },
   {
     "date_for":"2021-06-30T00:00:00.000Z",
-    "cases":1667896,
-    "deaths":30389,
-    "tests":8053506
+    "cases":1670454,
+    "deaths":30390,
+    "tests":8053508
   },
   {
     "date_for":"2021-07-01T00:00:00.000Z",
-    "cases":1668062,
-    "deaths":30390,
-    "tests":8102363
+    "cases":1670620,
+    "deaths":30391,
+    "tests":8102365
   },
   {
     "date_for":"2021-07-02T00:00:00.000Z",
-    "cases":1668226,
-    "deaths":30392,
-    "tests":8152118
+    "cases":1670784,
+    "deaths":30393,
+    "tests":8152120
   },
   {
     "date_for":"2021-07-03T00:00:00.000Z",
-    "cases":1668351,
-    "deaths":30392,
-    "tests":8189979
+    "cases":1670909,
+    "deaths":30393,
+    "tests":8189981
   },
   {
     "date_for":"2021-07-04T00:00:00.000Z",
-    "cases":1668459,
-    "deaths":30394,
-    "tests":8202788
+    "cases":1671017,
+    "deaths":30395,
+    "tests":8202790
   },
   {
     "date_for":"2021-07-05T00:00:00.000Z",
-    "cases":1668589,
-    "deaths":30394,
-    "tests":8215487
+    "cases":1671147,
+    "deaths":30395,
+    "tests":8215489
   },
   {
     "date_for":"2021-07-06T00:00:00.000Z",
-    "cases":1668699,
-    "deaths":30394,
-    "tests":8225161
+    "cases":1671257,
+    "deaths":30395,
+    "tests":8225163
   },
   {
     "date_for":"2021-07-07T00:00:00.000Z",
-    "cases":1668978,
-    "deaths":30395,
-    "tests":8248827
+    "cases":1671536,
+    "deaths":30396,
+    "tests":8248829
   },
   {
     "date_for":"2021-07-08T00:00:00.000Z",
-    "cases":1669227,
-    "deaths":30395,
-    "tests":8280458
+    "cases":1671785,
+    "deaths":30396,
+    "tests":8280460
   },
   {
     "date_for":"2021-07-09T00:00:00.000Z",
-    "cases":1669512,
-    "deaths":30395,
-    "tests":8318140
+    "cases":1672070,
+    "deaths":30396,
+    "tests":8318142
   },
   {
     "date_for":"2021-07-10T00:00:00.000Z",
-    "cases":1669669,
-    "deaths":30395,
-    "tests":8343890
+    "cases":1672227,
+    "deaths":30396,
+    "tests":8343892
   },
   {
     "date_for":"2021-07-11T00:00:00.000Z",
-    "cases":1669816,
-    "deaths":30397,
-    "tests":8358136
+    "cases":1672374,
+    "deaths":30398,
+    "tests":8358138
   },
   {
     "date_for":"2021-07-12T00:00:00.000Z",
-    "cases":1670060,
-    "deaths":30397,
-    "tests":8388494
+    "cases":1672618,
+    "deaths":30398,
+    "tests":8388496
   },
   {
     "date_for":"2021-07-13T00:00:00.000Z",
-    "cases":1670381,
-    "deaths":30397,
-    "tests":8419368
+    "cases":1672940,
+    "deaths":30398,
+    "tests":8419370
   },
   {
     "date_for":"2021-07-14T00:00:00.000Z",
-    "cases":1670642,
-    "deaths":30397,
-    "tests":8448607
+    "cases":1673201,
+    "deaths":30398,
+    "tests":8448609
   },
   {
     "date_for":"2021-07-15T00:00:00.000Z",
-    "cases":1670866,
-    "deaths":30397,
-    "tests":8485906
+    "cases":1673425,
+    "deaths":30398,
+    "tests":8485908
   },
   {
     "date_for":"2021-07-16T00:00:00.000Z",
-    "cases":1671106,
-    "deaths":30399,
-    "tests":8532680
+    "cases":1673665,
+    "deaths":30400,
+    "tests":8532682
   },
   {
     "date_for":"2021-07-17T00:00:00.000Z",
-    "cases":1671303,
-    "deaths":30399,
-    "tests":8565074
+    "cases":1673862,
+    "deaths":30400,
+    "tests":8565076
   },
   {
     "date_for":"2021-07-18T00:00:00.000Z",
-    "cases":1671419,
-    "deaths":30400,
-    "tests":8579106
+    "cases":1673978,
+    "deaths":30401,
+    "tests":8579108
   },
   {
     "date_for":"2021-07-19T00:00:00.000Z",
-    "cases":1671638,
-    "deaths":30402,
-    "tests":8609666
+    "cases":1674197,
+    "deaths":30403,
+    "tests":8609668
   },
   {
     "date_for":"2021-07-20T00:00:00.000Z",
-    "cases":1671938,
-    "deaths":30402,
-    "tests":8640317
+    "cases":1674497,
+    "deaths":30403,
+    "tests":8640319
   },
   {
     "date_for":"2021-07-21T00:00:00.000Z",
-    "cases":1672169,
-    "deaths":30403,
-    "tests":8669763
+    "cases":1674728,
+    "deaths":30404,
+    "tests":8669765
   },
   {
     "date_for":"2021-07-22T00:00:00.000Z",
-    "cases":1672363,
-    "deaths":30403,
-    "tests":8707943
+    "cases":1674923,
+    "deaths":30404,
+    "tests":8707945
   },
   {
     "date_for":"2021-07-23T00:00:00.000Z",
-    "cases":1672552,
-    "deaths":30403,
-    "tests":8755018
+    "cases":1675112,
+    "deaths":30404,
+    "tests":8755020
   },
   {
     "date_for":"2021-07-24T00:00:00.000Z",
-    "cases":1672677,
-    "deaths":30403,
-    "tests":8785927
+    "cases":1675237,
+    "deaths":30404,
+    "tests":8785929
   },
   {
     "date_for":"2021-07-25T00:00:00.000Z",
-    "cases":1672757,
-    "deaths":30403,
-    "tests":8801419
+    "cases":1675317,
+    "deaths":30404,
+    "tests":8801421
   },
   {
     "date_for":"2021-07-26T00:00:00.000Z",
-    "cases":1672955,
-    "deaths":30403,
-    "tests":8833422
+    "cases":1675516,
+    "deaths":30404,
+    "tests":8833424
   },
   {
     "date_for":"2021-07-27T00:00:00.000Z",
-    "cases":1673207,
-    "deaths":30403,
-    "tests":8868806
+    "cases":1675768,
+    "deaths":30404,
+    "tests":8868808
   },
   {
     "date_for":"2021-07-28T00:00:00.000Z",
-    "cases":1673399,
-    "deaths":30403,
-    "tests":8901808
+    "cases":1675960,
+    "deaths":30404,
+    "tests":8901810
   },
   {
     "date_for":"2021-07-29T00:00:00.000Z",
-    "cases":1673603,
-    "deaths":30403,
-    "tests":8941439
+    "cases":1676164,
+    "deaths":30404,
+    "tests":8941441
   },
   {
     "date_for":"2021-07-30T00:00:00.000Z",
-    "cases":1673741,
-    "deaths":30403,
-    "tests":8992903
+    "cases":1676302,
+    "deaths":30404,
+    "tests":8992905
   },
   {
     "date_for":"2021-07-31T00:00:00.000Z",
-    "cases":1673856,
-    "deaths":30405,
-    "tests":9030316
+    "cases":1676417,
+    "deaths":30406,
+    "tests":9030318
   },
   {
     "date_for":"2021-08-01T00:00:00.000Z",
-    "cases":1673933,
-    "deaths":30407,
-    "tests":9045486
+    "cases":1676494,
+    "deaths":30408,
+    "tests":9045488
   },
   {
     "date_for":"2021-08-02T00:00:00.000Z",
-    "cases":1674085,
-    "deaths":30408,
-    "tests":9079719
+    "cases":1676646,
+    "deaths":30409,
+    "tests":9079721
   },
   {
     "date_for":"2021-08-03T00:00:00.000Z",
-    "cases":1674322,
-    "deaths":30408,
-    "tests":9119471
+    "cases":1676883,
+    "deaths":30409,
+    "tests":9119473
   },
   {
     "date_for":"2021-08-04T00:00:00.000Z",
-    "cases":1674530,
-    "deaths":30408,
-    "tests":9150703
+    "cases":1677091,
+    "deaths":30409,
+    "tests":9150705
   },
   {
     "date_for":"2021-08-05T00:00:00.000Z",
-    "cases":1674694,
-    "deaths":30409,
-    "tests":9191214
+    "cases":1677255,
+    "deaths":30410,
+    "tests":9191216
   },
   {
     "date_for":"2021-08-06T00:00:00.000Z",
-    "cases":1674867,
-    "deaths":30411,
-    "tests":9244495
+    "cases":1677428,
+    "deaths":30412,
+    "tests":9244497
   },
   {
     "date_for":"2021-08-07T00:00:00.000Z",
-    "cases":1675021,
-    "deaths":30411,
-    "tests":9283143
+    "cases":1677582,
+    "deaths":30412,
+    "tests":9283145
   },
   {
     "date_for":"2021-08-08T00:00:00.000Z",
-    "cases":1675127,
-    "deaths":30411,
-    "tests":9302674
+    "cases":1677688,
+    "deaths":30412,
+    "tests":9302676
   },
   {
     "date_for":"2021-08-09T00:00:00.000Z",
-    "cases":1675295,
-    "deaths":30412,
-    "tests":9336593
+    "cases":1677856,
+    "deaths":30413,
+    "tests":9336595
   },
   {
     "date_for":"2021-08-10T00:00:00.000Z",
-    "cases":1675555,
-    "deaths":30412,
-    "tests":9374933
+    "cases":1678117,
+    "deaths":30413,
+    "tests":9374935
   },
   {
     "date_for":"2021-08-11T00:00:00.000Z",
-    "cases":1675773,
-    "deaths":30413,
-    "tests":9407731
+    "cases":1678335,
+    "deaths":30414,
+    "tests":9407733
   },
   {
     "date_for":"2021-08-12T00:00:00.000Z",
-    "cases":1675963,
-    "deaths":30413,
-    "tests":9446857
+    "cases":1678526,
+    "deaths":30414,
+    "tests":9446859
   },
   {
     "date_for":"2021-08-13T00:00:00.000Z",
-    "cases":1676179,
-    "deaths":30413,
-    "tests":9500798
+    "cases":1678742,
+    "deaths":30414,
+    "tests":9500800
   },
   {
     "date_for":"2021-08-14T00:00:00.000Z",
-    "cases":1676321,
-    "deaths":30413,
-    "tests":9540848
+    "cases":1678884,
+    "deaths":30414,
+    "tests":9540850
   },
   {
     "date_for":"2021-08-15T00:00:00.000Z",
-    "cases":1676398,
-    "deaths":30416,
-    "tests":9557276
+    "cases":1678961,
+    "deaths":30417,
+    "tests":9557278
   },
   {
     "date_for":"2021-08-16T00:00:00.000Z",
-    "cases":1676613,
-    "deaths":30419,
-    "tests":9592857
+    "cases":1679176,
+    "deaths":30420,
+    "tests":9592860
   },
   {
     "date_for":"2021-08-17T00:00:00.000Z",
-    "cases":1676913,
-    "deaths":30420,
-    "tests":9626790
+    "cases":1679476,
+    "deaths":30421,
+    "tests":9626793
   },
   {
     "date_for":"2021-08-18T00:00:00.000Z",
-    "cases":1677121,
-    "deaths":30422,
-    "tests":9658779
+    "cases":1679685,
+    "deaths":30423,
+    "tests":9658782
   },
   {
     "date_for":"2021-08-19T00:00:00.000Z",
-    "cases":1677286,
-    "deaths":30423,
-    "tests":9695489
+    "cases":1679850,
+    "deaths":30424,
+    "tests":9695492
   },
   {
     "date_for":"2021-08-20T00:00:00.000Z",
-    "cases":1677456,
-    "deaths":30424,
-    "tests":9742832
+    "cases":1680020,
+    "deaths":30425,
+    "tests":9742835
   },
   {
     "date_for":"2021-08-21T00:00:00.000Z",
-    "cases":1677589,
-    "deaths":30424,
-    "tests":9772900
+    "cases":1680153,
+    "deaths":30425,
+    "tests":9772903
   },
   {
     "date_for":"2021-08-22T00:00:00.000Z",
-    "cases":1677696,
-    "deaths":30424,
-    "tests":9789158
+    "cases":1680260,
+    "deaths":30425,
+    "tests":9789161
   },
   {
     "date_for":"2021-08-23T00:00:00.000Z",
-    "cases":1677906,
-    "deaths":30425,
-    "tests":9820931
+    "cases":1680470,
+    "deaths":30426,
+    "tests":9820934
   },
   {
     "date_for":"2021-08-24T00:00:00.000Z",
-    "cases":1678153,
-    "deaths":30426,
-    "tests":9850441
+    "cases":1680717,
+    "deaths":30427,
+    "tests":9850444
   },
   {
     "date_for":"2021-08-25T00:00:00.000Z",
-    "cases":1678398,
-    "deaths":30428,
-    "tests":9876926
+    "cases":1680962,
+    "deaths":30429,
+    "tests":9876929
   },
   {
     "date_for":"2021-08-26T00:00:00.000Z",
-    "cases":1678609,
-    "deaths":30428,
-    "tests":9906410
+    "cases":1681173,
+    "deaths":30429,
+    "tests":9906413
   },
   {
     "date_for":"2021-08-27T00:00:00.000Z",
-    "cases":1678791,
-    "deaths":30429,
-    "tests":9937261
+    "cases":1681355,
+    "deaths":30430,
+    "tests":9937264
   },
   {
     "date_for":"2021-08-28T00:00:00.000Z",
-    "cases":1678924,
-    "deaths":30431,
-    "tests":9955124
+    "cases":1681488,
+    "deaths":30432,
+    "tests":9955127
   },
   {
     "date_for":"2021-08-29T00:00:00.000Z",
-    "cases":1679005,
-    "deaths":30432,
-    "tests":9964965
+    "cases":1681569,
+    "deaths":30433,
+    "tests":9964968
   },
   {
     "date_for":"2021-08-30T00:00:00.000Z",
-    "cases":1679246,
-    "deaths":30432,
-    "tests":9993174
+    "cases":1681810,
+    "deaths":30433,
+    "tests":9993177
   },
   {
     "date_for":"2021-08-31T00:00:00.000Z",
-    "cases":1679533,
-    "deaths":30432,
-    "tests":10032423
+    "cases":1682098,
+    "deaths":30433,
+    "tests":10032426
   },
   {
     "date_for":"2021-09-01T00:00:00.000Z",
-    "cases":1679795,
-    "deaths":30432,
-    "tests":10081298
+    "cases":1682361,
+    "deaths":30433,
+    "tests":10081302
   },
   {
     "date_for":"2021-09-02T00:00:00.000Z",
-    "cases":1680100,
-    "deaths":30434,
-    "tests":10142397
+    "cases":1682666,
+    "deaths":30435,
+    "tests":10142401
   },
   {
     "date_for":"2021-09-03T00:00:00.000Z",
-    "cases":1680407,
-    "deaths":30434,
-    "tests":10166311
+    "cases":1682974,
+    "deaths":30435,
+    "tests":10166315
   },
   {
     "date_for":"2021-09-04T00:00:00.000Z",
-    "cases":1680613,
-    "deaths":30434,
-    "tests":10183407
+    "cases":1683180,
+    "deaths":30435,
+    "tests":10183411
   },
   {
     "date_for":"2021-09-05T00:00:00.000Z",
-    "cases":1680753,
-    "deaths":30434,
-    "tests":10192080
+    "cases":1683320,
+    "deaths":30435,
+    "tests":10192084
   },
   {
     "date_for":"2021-09-06T00:00:00.000Z",
-    "cases":1681144,
-    "deaths":30435,
-    "tests":10239946
+    "cases":1683711,
+    "deaths":30436,
+    "tests":10239950
   },
   {
     "date_for":"2021-09-07T00:00:00.000Z",
-    "cases":1681727,
-    "deaths":30437,
-    "tests":10283509
+    "cases":1684296,
+    "deaths":30438,
+    "tests":10283513
   },
   {
     "date_for":"2021-09-08T00:00:00.000Z",
-    "cases":1682105,
-    "deaths":30438,
-    "tests":10311723
+    "cases":1684675,
+    "deaths":30439,
+    "tests":10311727
   },
   {
     "date_for":"2021-09-09T00:00:00.000Z",
-    "cases":1682524,
-    "deaths":30438,
-    "tests":10339644
+    "cases":1685093,
+    "deaths":30439,
+    "tests":10339648
   },
   {
     "date_for":"2021-09-10T00:00:00.000Z",
-    "cases":1682968,
-    "deaths":30438,
-    "tests":10368961
+    "cases":1685537,
+    "deaths":30439,
+    "tests":10368966
   },
   {
     "date_for":"2021-09-11T00:00:00.000Z",
-    "cases":1683218,
-    "deaths":30438,
-    "tests":10386167
+    "cases":1685787,
+    "deaths":30439,
+    "tests":10386172
   },
   {
     "date_for":"2021-09-12T00:00:00.000Z",
-    "cases":1683354,
-    "deaths":30440,
-    "tests":10394493
+    "cases":1685923,
+    "deaths":30441,
+    "tests":10394498
   },
   {
     "date_for":"2021-09-13T00:00:00.000Z",
-    "cases":1683844,
-    "deaths":30440,
-    "tests":10416558
+    "cases":1686413,
+    "deaths":30441,
+    "tests":10416563
   },
   {
     "date_for":"2021-09-14T00:00:00.000Z",
-    "cases":1684398,
-    "deaths":30443,
-    "tests":10439510
+    "cases":1686967,
+    "deaths":30444,
+    "tests":10439515
   },
   {
     "date_for":"2021-09-15T00:00:00.000Z",
-    "cases":1684918,
-    "deaths":30446,
-    "tests":10463080
+    "cases":1687487,
+    "deaths":30447,
+    "tests":10463085
   },
   {
     "date_for":"2021-09-16T00:00:00.000Z",
-    "cases":1685472,
-    "deaths":30446,
-    "tests":10488400
+    "cases":1688042,
+    "deaths":30447,
+    "tests":10488405
   },
   {
     "date_for":"2021-09-17T00:00:00.000Z",
-    "cases":1685911,
-    "deaths":30448,
-    "tests":10517634
+    "cases":1688481,
+    "deaths":30449,
+    "tests":10517639
   },
   {
     "date_for":"2021-09-18T00:00:00.000Z",
-    "cases":1686212,
-    "deaths":30452,
-    "tests":10534691
+    "cases":1688782,
+    "deaths":30453,
+    "tests":10534696
   },
   {
     "date_for":"2021-09-19T00:00:00.000Z",
-    "cases":1686397,
-    "deaths":30454,
-    "tests":10542717
+    "cases":1688967,
+    "deaths":30455,
+    "tests":10542722
   },
   {
     "date_for":"2021-09-20T00:00:00.000Z",
-    "cases":1686876,
-    "deaths":30458,
-    "tests":10567193
+    "cases":1689446,
+    "deaths":30459,
+    "tests":10567198
   },
   {
     "date_for":"2021-09-21T00:00:00.000Z",
-    "cases":1687472,
-    "deaths":30460,
-    "tests":10591348
+    "cases":1690043,
+    "deaths":30461,
+    "tests":10591353
   },
   {
     "date_for":"2021-09-22T00:00:00.000Z",
-    "cases":1687994,
-    "deaths":30462,
-    "tests":10617460
+    "cases":1690565,
+    "deaths":30463,
+    "tests":10617465
   },
   {
     "date_for":"2021-09-23T00:00:00.000Z",
-    "cases":1688478,
-    "deaths":30465,
-    "tests":10650477
+    "cases":1691049,
+    "deaths":30466,
+    "tests":10650482
   },
   {
     "date_for":"2021-09-24T00:00:00.000Z",
-    "cases":1688976,
-    "deaths":30465,
-    "tests":10686523
+    "cases":1691547,
+    "deaths":30466,
+    "tests":10686528
   },
   {
     "date_for":"2021-09-25T00:00:00.000Z",
-    "cases":1689390,
-    "deaths":30467,
-    "tests":10705433
+    "cases":1691961,
+    "deaths":30468,
+    "tests":10705438
   },
   {
     "date_for":"2021-09-26T00:00:00.000Z",
-    "cases":1689639,
-    "deaths":30467,
-    "tests":10713653
+    "cases":1692210,
+    "deaths":30468,
+    "tests":10713658
   },
   {
     "date_for":"2021-09-27T00:00:00.000Z",
-    "cases":1690309,
-    "deaths":30467,
-    "tests":10737940
+    "cases":1692881,
+    "deaths":30468,
+    "tests":10737946
   },
   {
     "date_for":"2021-09-28T00:00:00.000Z",
-    "cases":1690781,
-    "deaths":30470,
-    "tests":10752551
+    "cases":1693354,
+    "deaths":30471,
+    "tests":10752557
   },
   {
     "date_for":"2021-09-29T00:00:00.000Z",
-    "cases":1691513,
-    "deaths":30475,
-    "tests":10774123
+    "cases":1694089,
+    "deaths":30476,
+    "tests":10774129
   },
   {
     "date_for":"2021-09-30T00:00:00.000Z",
-    "cases":1692429,
-    "deaths":30476,
-    "tests":10803828
+    "cases":1695005,
+    "deaths":30477,
+    "tests":10803834
   },
   {
     "date_for":"2021-10-01T00:00:00.000Z",
-    "cases":1693253,
-    "deaths":30477,
-    "tests":10832761
+    "cases":1695829,
+    "deaths":30478,
+    "tests":10832767
   },
   {
     "date_for":"2021-10-02T00:00:00.000Z",
-    "cases":1693804,
-    "deaths":30478,
-    "tests":10847257
+    "cases":1696383,
+    "deaths":30479,
+    "tests":10847264
   },
   {
     "date_for":"2021-10-03T00:00:00.000Z",
-    "cases":1694119,
-    "deaths":30482,
-    "tests":10855229
+    "cases":1696698,
+    "deaths":30483,
+    "tests":10855240
   },
   {
     "date_for":"2021-10-04T00:00:00.000Z",
-    "cases":1694917,
-    "deaths":30486,
-    "tests":10877073
+    "cases":1697495,
+    "deaths":30487,
+    "tests":10877084
   },
   {
     "date_for":"2021-10-05T00:00:00.000Z",
-    "cases":1696026,
-    "deaths":30489,
-    "tests":10899586
+    "cases":1698603,
+    "deaths":30490,
+    "tests":10899605
   },
   {
     "date_for":"2021-10-06T00:00:00.000Z",
-    "cases":1697071,
-    "deaths":30494,
-    "tests":10922480
+    "cases":1699650,
+    "deaths":30495,
+    "tests":10922511
   },
   {
     "date_for":"2021-10-07T00:00:00.000Z",
-    "cases":1698060,
-    "deaths":30497,
-    "tests":10946950
+    "cases":1700639,
+    "deaths":30498,
+    "tests":10947003
   },
   {
     "date_for":"2021-10-08T00:00:00.000Z",
-    "cases":1699078,
-    "deaths":30500,
-    "tests":10974168
+    "cases":1701656,
+    "deaths":30502,
+    "tests":10974317
   },
   {
     "date_for":"2021-10-09T00:00:00.000Z",
-    "cases":1699744,
-    "deaths":30502,
-    "tests":10988882
+    "cases":1702322,
+    "deaths":30505,
+    "tests":10989601
   },
   {
     "date_for":"2021-10-10T00:00:00.000Z",
-    "cases":1700078,
-    "deaths":30504,
-    "tests":10996399
+    "cases":1702658,
+    "deaths":30509,
+    "tests":10997504
+  },
+  {
+    "date_for":"2021-10-11T00:00:00.000Z",
+    "cases":1704003,
+    "deaths":30512,
+    "tests":11018200
   }
 ]
