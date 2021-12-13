@@ -46,17 +46,17 @@
   },
   {
     "date_for":"2021-01-05T00:00:00.000Z",
-    "first_vaccines":22481,
+    "first_vaccines":22482,
     "second_vaccines":0
   },
   {
     "date_for":"2021-01-06T00:00:00.000Z",
-    "first_vaccines":28324,
+    "first_vaccines":28325,
     "second_vaccines":1
   },
   {
     "date_for":"2021-01-07T00:00:00.000Z",
-    "first_vaccines":36319,
+    "first_vaccines":36320,
     "second_vaccines":1
   },
   {
@@ -86,1667 +86,1672 @@
   },
   {
     "date_for":"2021-01-13T00:00:00.000Z",
-    "first_vaccines":87003,
+    "first_vaccines":87004,
     "second_vaccines":8
   },
   {
     "date_for":"2021-01-14T00:00:00.000Z",
-    "first_vaccines":102245,
+    "first_vaccines":102246,
     "second_vaccines":12
   },
   {
     "date_for":"2021-01-15T00:00:00.000Z",
-    "first_vaccines":116256,
+    "first_vaccines":116257,
     "second_vaccines":13
   },
   {
     "date_for":"2021-01-16T00:00:00.000Z",
-    "first_vaccines":119654,
+    "first_vaccines":119655,
     "second_vaccines":16
   },
   {
     "date_for":"2021-01-17T00:00:00.000Z",
-    "first_vaccines":122272,
+    "first_vaccines":122273,
     "second_vaccines":652
   },
   {
     "date_for":"2021-01-18T00:00:00.000Z",
-    "first_vaccines":134757,
+    "first_vaccines":134758,
     "second_vaccines":2478
   },
   {
     "date_for":"2021-01-19T00:00:00.000Z",
-    "first_vaccines":147361,
+    "first_vaccines":147362,
     "second_vaccines":5203
   },
   {
     "date_for":"2021-01-20T00:00:00.000Z",
-    "first_vaccines":161043,
+    "first_vaccines":161044,
     "second_vaccines":7864
   },
   {
     "date_for":"2021-01-21T00:00:00.000Z",
-    "first_vaccines":176694,
+    "first_vaccines":176695,
     "second_vaccines":9607
   },
   {
     "date_for":"2021-01-22T00:00:00.000Z",
-    "first_vaccines":191573,
+    "first_vaccines":191574,
     "second_vaccines":10652
   },
   {
     "date_for":"2021-01-23T00:00:00.000Z",
-    "first_vaccines":194894,
+    "first_vaccines":194895,
     "second_vaccines":11531
   },
   {
     "date_for":"2021-01-24T00:00:00.000Z",
-    "first_vaccines":197149,
+    "first_vaccines":197150,
     "second_vaccines":12400
   },
   {
     "date_for":"2021-01-25T00:00:00.000Z",
-    "first_vaccines":206788,
+    "first_vaccines":206789,
     "second_vaccines":15372
   },
   {
     "date_for":"2021-01-26T00:00:00.000Z",
-    "first_vaccines":217327,
+    "first_vaccines":217328,
     "second_vaccines":19364
   },
   {
     "date_for":"2021-01-27T00:00:00.000Z",
-    "first_vaccines":226357,
+    "first_vaccines":226358,
     "second_vaccines":23901
   },
   {
     "date_for":"2021-01-28T00:00:00.000Z",
-    "first_vaccines":233457,
+    "first_vaccines":233458,
     "second_vaccines":30031
   },
   {
     "date_for":"2021-01-29T00:00:00.000Z",
-    "first_vaccines":239670,
-    "second_vaccines":37943
+    "first_vaccines":239671,
+    "second_vaccines":37942
   },
   {
     "date_for":"2021-01-30T00:00:00.000Z",
-    "first_vaccines":240408,
-    "second_vaccines":39031
+    "first_vaccines":240409,
+    "second_vaccines":39030
   },
   {
     "date_for":"2021-01-31T00:00:00.000Z",
-    "first_vaccines":241121,
-    "second_vaccines":40212
+    "first_vaccines":241122,
+    "second_vaccines":40211
   },
   {
     "date_for":"2021-02-01T00:00:00.000Z",
-    "first_vaccines":245101,
-    "second_vaccines":48175
+    "first_vaccines":245102,
+    "second_vaccines":48174
   },
   {
     "date_for":"2021-02-02T00:00:00.000Z",
-    "first_vaccines":249246,
+    "first_vaccines":249247,
     "second_vaccines":58406
   },
   {
     "date_for":"2021-02-03T00:00:00.000Z",
-    "first_vaccines":253667,
+    "first_vaccines":253668,
     "second_vaccines":69418
   },
   {
     "date_for":"2021-02-04T00:00:00.000Z",
-    "first_vaccines":258566,
+    "first_vaccines":258567,
     "second_vaccines":82405
   },
   {
     "date_for":"2021-02-05T00:00:00.000Z",
-    "first_vaccines":264032,
+    "first_vaccines":264033,
     "second_vaccines":93078
   },
   {
     "date_for":"2021-02-06T00:00:00.000Z",
-    "first_vaccines":264880,
+    "first_vaccines":264881,
     "second_vaccines":95444
   },
   {
     "date_for":"2021-02-07T00:00:00.000Z",
-    "first_vaccines":265730,
+    "first_vaccines":265731,
     "second_vaccines":97945
   },
   {
     "date_for":"2021-02-08T00:00:00.000Z",
-    "first_vaccines":269812,
+    "first_vaccines":269813,
     "second_vaccines":109376
   },
   {
     "date_for":"2021-02-09T00:00:00.000Z",
-    "first_vaccines":274907,
+    "first_vaccines":274908,
     "second_vaccines":121287
   },
   {
     "date_for":"2021-02-10T00:00:00.000Z",
-    "first_vaccines":280415,
-    "second_vaccines":134541
+    "first_vaccines":280416,
+    "second_vaccines":134542
   },
   {
     "date_for":"2021-02-11T00:00:00.000Z",
-    "first_vaccines":286749,
-    "second_vaccines":150755
+    "first_vaccines":286750,
+    "second_vaccines":150756
   },
   {
     "date_for":"2021-02-12T00:00:00.000Z",
-    "first_vaccines":293567,
-    "second_vaccines":165485
+    "first_vaccines":293568,
+    "second_vaccines":165486
   },
   {
     "date_for":"2021-02-13T00:00:00.000Z",
-    "first_vaccines":295177,
-    "second_vaccines":168474
+    "first_vaccines":295178,
+    "second_vaccines":168475
   },
   {
     "date_for":"2021-02-14T00:00:00.000Z",
-    "first_vaccines":296179,
-    "second_vaccines":169858
+    "first_vaccines":296180,
+    "second_vaccines":169859
   },
   {
     "date_for":"2021-02-15T00:00:00.000Z",
-    "first_vaccines":302577,
-    "second_vaccines":179215
+    "first_vaccines":302578,
+    "second_vaccines":179216
   },
   {
     "date_for":"2021-02-16T00:00:00.000Z",
-    "first_vaccines":311294,
-    "second_vaccines":188295
+    "first_vaccines":311295,
+    "second_vaccines":188296
   },
   {
     "date_for":"2021-02-17T00:00:00.000Z",
-    "first_vaccines":320992,
-    "second_vaccines":196600
+    "first_vaccines":320993,
+    "second_vaccines":196601
   },
   {
     "date_for":"2021-02-18T00:00:00.000Z",
-    "first_vaccines":333309,
-    "second_vaccines":204680
+    "first_vaccines":333310,
+    "second_vaccines":204681
   },
   {
     "date_for":"2021-02-19T00:00:00.000Z",
-    "first_vaccines":345164,
-    "second_vaccines":212041
+    "first_vaccines":345165,
+    "second_vaccines":212042
   },
   {
     "date_for":"2021-02-20T00:00:00.000Z",
-    "first_vaccines":347164,
-    "second_vaccines":213224
+    "first_vaccines":347165,
+    "second_vaccines":213225
   },
   {
     "date_for":"2021-02-21T00:00:00.000Z",
-    "first_vaccines":348295,
-    "second_vaccines":214247
+    "first_vaccines":348296,
+    "second_vaccines":214248
   },
   {
     "date_for":"2021-02-22T00:00:00.000Z",
-    "first_vaccines":358413,
-    "second_vaccines":220276
+    "first_vaccines":358414,
+    "second_vaccines":220277
   },
   {
     "date_for":"2021-02-23T00:00:00.000Z",
-    "first_vaccines":371358,
-    "second_vaccines":227255
+    "first_vaccines":371360,
+    "second_vaccines":227257
   },
   {
     "date_for":"2021-02-24T00:00:00.000Z",
-    "first_vaccines":385228,
-    "second_vaccines":233289
+    "first_vaccines":385230,
+    "second_vaccines":233291
   },
   {
     "date_for":"2021-02-25T00:00:00.000Z",
-    "first_vaccines":403194,
-    "second_vaccines":238838
+    "first_vaccines":403196,
+    "second_vaccines":238840
   },
   {
     "date_for":"2021-02-26T00:00:00.000Z",
-    "first_vaccines":419358,
-    "second_vaccines":244189
+    "first_vaccines":419362,
+    "second_vaccines":244191
   },
   {
     "date_for":"2021-02-27T00:00:00.000Z",
-    "first_vaccines":422366,
-    "second_vaccines":244745
+    "first_vaccines":422370,
+    "second_vaccines":244747
   },
   {
     "date_for":"2021-02-28T00:00:00.000Z",
-    "first_vaccines":424712,
-    "second_vaccines":245295
+    "first_vaccines":424716,
+    "second_vaccines":245297
   },
   {
     "date_for":"2021-03-01T00:00:00.000Z",
-    "first_vaccines":444300,
-    "second_vaccines":248742
+    "first_vaccines":444304,
+    "second_vaccines":248744
   },
   {
     "date_for":"2021-03-02T00:00:00.000Z",
-    "first_vaccines":471518,
-    "second_vaccines":252285
+    "first_vaccines":471522,
+    "second_vaccines":252287
   },
   {
     "date_for":"2021-03-03T00:00:00.000Z",
-    "first_vaccines":502405,
-    "second_vaccines":256790
+    "first_vaccines":502409,
+    "second_vaccines":256792
   },
   {
     "date_for":"2021-03-04T00:00:00.000Z",
-    "first_vaccines":535677,
-    "second_vaccines":261475
+    "first_vaccines":535682,
+    "second_vaccines":261477
   },
   {
     "date_for":"2021-03-05T00:00:00.000Z",
-    "first_vaccines":564495,
-    "second_vaccines":266893
+    "first_vaccines":564500,
+    "second_vaccines":266895
   },
   {
     "date_for":"2021-03-06T00:00:00.000Z",
-    "first_vaccines":576641,
-    "second_vaccines":267749
+    "first_vaccines":576646,
+    "second_vaccines":267751
   },
   {
     "date_for":"2021-03-07T00:00:00.000Z",
-    "first_vaccines":588177,
-    "second_vaccines":268587
+    "first_vaccines":588182,
+    "second_vaccines":268589
   },
   {
     "date_for":"2021-03-08T00:00:00.000Z",
-    "first_vaccines":617915,
-    "second_vaccines":273438
+    "first_vaccines":617920,
+    "second_vaccines":273440
   },
   {
     "date_for":"2021-03-09T00:00:00.000Z",
-    "first_vaccines":654271,
-    "second_vaccines":279816
+    "first_vaccines":654276,
+    "second_vaccines":279818
   },
   {
     "date_for":"2021-03-10T00:00:00.000Z",
-    "first_vaccines":695583,
-    "second_vaccines":286769
+    "first_vaccines":695588,
+    "second_vaccines":286771
   },
   {
     "date_for":"2021-03-11T00:00:00.000Z",
-    "first_vaccines":740405,
-    "second_vaccines":295136
+    "first_vaccines":740410,
+    "second_vaccines":295138
   },
   {
     "date_for":"2021-03-12T00:00:00.000Z",
-    "first_vaccines":779172,
-    "second_vaccines":303627
+    "first_vaccines":779178,
+    "second_vaccines":303629
   },
   {
     "date_for":"2021-03-13T00:00:00.000Z",
-    "first_vaccines":796251,
-    "second_vaccines":304933
+    "first_vaccines":796258,
+    "second_vaccines":304935
   },
   {
     "date_for":"2021-03-14T00:00:00.000Z",
-    "first_vaccines":808363,
-    "second_vaccines":306084
+    "first_vaccines":808370,
+    "second_vaccines":306086
   },
   {
     "date_for":"2021-03-15T00:00:00.000Z",
-    "first_vaccines":836743,
-    "second_vaccines":314857
+    "first_vaccines":836750,
+    "second_vaccines":314859
   },
   {
     "date_for":"2021-03-16T00:00:00.000Z",
-    "first_vaccines":875630,
-    "second_vaccines":325389
+    "first_vaccines":875637,
+    "second_vaccines":325391
   },
   {
     "date_for":"2021-03-17T00:00:00.000Z",
-    "first_vaccines":913092,
-    "second_vaccines":335893
+    "first_vaccines":913099,
+    "second_vaccines":335895
   },
   {
     "date_for":"2021-03-18T00:00:00.000Z",
-    "first_vaccines":951072,
-    "second_vaccines":348299
+    "first_vaccines":951080,
+    "second_vaccines":348301
   },
   {
     "date_for":"2021-03-19T00:00:00.000Z",
-    "first_vaccines":985558,
-    "second_vaccines":361905
+    "first_vaccines":985566,
+    "second_vaccines":361907
   },
   {
     "date_for":"2021-03-20T00:00:00.000Z",
-    "first_vaccines":1000696,
-    "second_vaccines":363928
+    "first_vaccines":1000704,
+    "second_vaccines":363930
   },
   {
     "date_for":"2021-03-21T00:00:00.000Z",
-    "first_vaccines":1008116,
-    "second_vaccines":365483
+    "first_vaccines":1008124,
+    "second_vaccines":365485
   },
   {
     "date_for":"2021-03-22T00:00:00.000Z",
-    "first_vaccines":1032677,
-    "second_vaccines":377979
+    "first_vaccines":1032685,
+    "second_vaccines":377981
   },
   {
     "date_for":"2021-03-23T00:00:00.000Z",
-    "first_vaccines":1059322,
-    "second_vaccines":391324
+    "first_vaccines":1059330,
+    "second_vaccines":391326
   },
   {
     "date_for":"2021-03-24T00:00:00.000Z",
-    "first_vaccines":1086176,
-    "second_vaccines":407056
+    "first_vaccines":1086184,
+    "second_vaccines":407058
   },
   {
     "date_for":"2021-03-25T00:00:00.000Z",
-    "first_vaccines":1112507,
-    "second_vaccines":424904
+    "first_vaccines":1112516,
+    "second_vaccines":424907
   },
   {
     "date_for":"2021-03-26T00:00:00.000Z",
-    "first_vaccines":1137315,
-    "second_vaccines":442402
+    "first_vaccines":1137323,
+    "second_vaccines":442405
   },
   {
     "date_for":"2021-03-27T00:00:00.000Z",
-    "first_vaccines":1145746,
-    "second_vaccines":447248
+    "first_vaccines":1145754,
+    "second_vaccines":447251
   },
   {
     "date_for":"2021-03-28T00:00:00.000Z",
-    "first_vaccines":1151284,
-    "second_vaccines":451388
+    "first_vaccines":1151292,
+    "second_vaccines":451391
   },
   {
     "date_for":"2021-03-29T00:00:00.000Z",
-    "first_vaccines":1170405,
-    "second_vaccines":472119
+    "first_vaccines":1170413,
+    "second_vaccines":472122
   },
   {
     "date_for":"2021-03-30T00:00:00.000Z",
-    "first_vaccines":1195096,
-    "second_vaccines":494290
+    "first_vaccines":1195105,
+    "second_vaccines":494293
   },
   {
     "date_for":"2021-03-31T00:00:00.000Z",
-    "first_vaccines":1218208,
-    "second_vaccines":521338
+    "first_vaccines":1218217,
+    "second_vaccines":521341
   },
   {
     "date_for":"2021-04-01T00:00:00.000Z",
-    "first_vaccines":1243841,
-    "second_vaccines":553372
+    "first_vaccines":1243852,
+    "second_vaccines":553375
   },
   {
     "date_for":"2021-04-02T00:00:00.000Z",
-    "first_vaccines":1250764,
-    "second_vaccines":566146
+    "first_vaccines":1250775,
+    "second_vaccines":566149
   },
   {
     "date_for":"2021-04-03T00:00:00.000Z",
-    "first_vaccines":1254385,
-    "second_vaccines":577064
+    "first_vaccines":1254396,
+    "second_vaccines":577068
   },
   {
     "date_for":"2021-04-04T00:00:00.000Z",
-    "first_vaccines":1256895,
-    "second_vaccines":585980
+    "first_vaccines":1256906,
+    "second_vaccines":585984
   },
   {
     "date_for":"2021-04-05T00:00:00.000Z",
-    "first_vaccines":1259299,
-    "second_vaccines":593155
+    "first_vaccines":1259310,
+    "second_vaccines":593159
   },
   {
     "date_for":"2021-04-06T00:00:00.000Z",
-    "first_vaccines":1275439,
-    "second_vaccines":622398
+    "first_vaccines":1275450,
+    "second_vaccines":622402
   },
   {
     "date_for":"2021-04-07T00:00:00.000Z",
-    "first_vaccines":1298861,
-    "second_vaccines":644616
+    "first_vaccines":1298872,
+    "second_vaccines":644620
   },
   {
     "date_for":"2021-04-08T00:00:00.000Z",
-    "first_vaccines":1337584,
-    "second_vaccines":675619
+    "first_vaccines":1337597,
+    "second_vaccines":675623
   },
   {
     "date_for":"2021-04-09T00:00:00.000Z",
-    "first_vaccines":1377122,
-    "second_vaccines":705786
+    "first_vaccines":1377136,
+    "second_vaccines":705790
   },
   {
     "date_for":"2021-04-10T00:00:00.000Z",
-    "first_vaccines":1392620,
-    "second_vaccines":721057
+    "first_vaccines":1392635,
+    "second_vaccines":721061
   },
   {
     "date_for":"2021-04-11T00:00:00.000Z",
-    "first_vaccines":1402397,
-    "second_vaccines":731090
+    "first_vaccines":1402414,
+    "second_vaccines":731094
   },
   {
     "date_for":"2021-04-12T00:00:00.000Z",
-    "first_vaccines":1440662,
-    "second_vaccines":756214
+    "first_vaccines":1440682,
+    "second_vaccines":756218
   },
   {
     "date_for":"2021-04-13T00:00:00.000Z",
-    "first_vaccines":1476914,
-    "second_vaccines":782245
+    "first_vaccines":1476934,
+    "second_vaccines":782249
   },
   {
     "date_for":"2021-04-14T00:00:00.000Z",
-    "first_vaccines":1515736,
-    "second_vaccines":809601
+    "first_vaccines":1515758,
+    "second_vaccines":809605
   },
   {
     "date_for":"2021-04-15T00:00:00.000Z",
-    "first_vaccines":1563524,
-    "second_vaccines":835349
+    "first_vaccines":1563548,
+    "second_vaccines":835353
   },
   {
     "date_for":"2021-04-16T00:00:00.000Z",
-    "first_vaccines":1608183,
-    "second_vaccines":860990
+    "first_vaccines":1608207,
+    "second_vaccines":860994
   },
   {
     "date_for":"2021-04-17T00:00:00.000Z",
-    "first_vaccines":1624873,
-    "second_vaccines":870014
+    "first_vaccines":1624897,
+    "second_vaccines":870018
   },
   {
     "date_for":"2021-04-18T00:00:00.000Z",
-    "first_vaccines":1637865,
-    "second_vaccines":874995
+    "first_vaccines":1637889,
+    "second_vaccines":874999
   },
   {
     "date_for":"2021-04-19T00:00:00.000Z",
-    "first_vaccines":1681840,
-    "second_vaccines":890417
+    "first_vaccines":1681866,
+    "second_vaccines":890421
   },
   {
     "date_for":"2021-04-20T00:00:00.000Z",
-    "first_vaccines":1724394,
-    "second_vaccines":906271
+    "first_vaccines":1724421,
+    "second_vaccines":906275
   },
   {
     "date_for":"2021-04-21T00:00:00.000Z",
-    "first_vaccines":1772122,
-    "second_vaccines":920618
+    "first_vaccines":1772149,
+    "second_vaccines":920622
   },
   {
     "date_for":"2021-04-22T00:00:00.000Z",
-    "first_vaccines":1826614,
-    "second_vaccines":937963
+    "first_vaccines":1826641,
+    "second_vaccines":937967
   },
   {
     "date_for":"2021-04-23T00:00:00.000Z",
-    "first_vaccines":1876579,
-    "second_vaccines":949790
+    "first_vaccines":1876606,
+    "second_vaccines":949794
   },
   {
     "date_for":"2021-04-24T00:00:00.000Z",
-    "first_vaccines":1894412,
-    "second_vaccines":955020
+    "first_vaccines":1894439,
+    "second_vaccines":955024
   },
   {
     "date_for":"2021-04-25T00:00:00.000Z",
-    "first_vaccines":1909103,
-    "second_vaccines":959001
+    "first_vaccines":1909131,
+    "second_vaccines":959005
   },
   {
     "date_for":"2021-04-26T00:00:00.000Z",
-    "first_vaccines":1958680,
-    "second_vaccines":966016
+    "first_vaccines":1958708,
+    "second_vaccines":966020
   },
   {
     "date_for":"2021-04-27T00:00:00.000Z",
-    "first_vaccines":2007641,
-    "second_vaccines":977307
+    "first_vaccines":2007669,
+    "second_vaccines":977312
   },
   {
     "date_for":"2021-04-28T00:00:00.000Z",
-    "first_vaccines":2066391,
-    "second_vaccines":989852
+    "first_vaccines":2066419,
+    "second_vaccines":989857
   },
   {
     "date_for":"2021-04-29T00:00:00.000Z",
-    "first_vaccines":2131937,
-    "second_vaccines":1004137
+    "first_vaccines":2131966,
+    "second_vaccines":1004142
   },
   {
     "date_for":"2021-04-30T00:00:00.000Z",
-    "first_vaccines":2194177,
-    "second_vaccines":1012640
+    "first_vaccines":2194206,
+    "second_vaccines":1012647
   },
   {
     "date_for":"2021-05-01T00:00:00.000Z",
-    "first_vaccines":2213508,
-    "second_vaccines":1015981
+    "first_vaccines":2213538,
+    "second_vaccines":1015989
   },
   {
     "date_for":"2021-05-02T00:00:00.000Z",
-    "first_vaccines":2232424,
-    "second_vaccines":1018216
+    "first_vaccines":2232453,
+    "second_vaccines":1018224
   },
   {
     "date_for":"2021-05-03T00:00:00.000Z",
-    "first_vaccines":2299666,
-    "second_vaccines":1022147
+    "first_vaccines":2299695,
+    "second_vaccines":1022155
   },
   {
     "date_for":"2021-05-04T00:00:00.000Z",
-    "first_vaccines":2366166,
-    "second_vaccines":1028921
+    "first_vaccines":2366197,
+    "second_vaccines":1028929
   },
   {
     "date_for":"2021-05-05T00:00:00.000Z",
-    "first_vaccines":2439327,
-    "second_vaccines":1036348
+    "first_vaccines":2439357,
+    "second_vaccines":1036357
   },
   {
     "date_for":"2021-05-06T00:00:00.000Z",
-    "first_vaccines":2519707,
-    "second_vaccines":1045094
+    "first_vaccines":2519737,
+    "second_vaccines":1045104
   },
   {
     "date_for":"2021-05-07T00:00:00.000Z",
-    "first_vaccines":2596946,
-    "second_vaccines":1053264
+    "first_vaccines":2596976,
+    "second_vaccines":1053274
   },
   {
     "date_for":"2021-05-08T00:00:00.000Z",
-    "first_vaccines":2626382,
-    "second_vaccines":1054877
+    "first_vaccines":2626413,
+    "second_vaccines":1054887
   },
   {
     "date_for":"2021-05-09T00:00:00.000Z",
-    "first_vaccines":2650574,
-    "second_vaccines":1056073
+    "first_vaccines":2650606,
+    "second_vaccines":1056083
   },
   {
     "date_for":"2021-05-10T00:00:00.000Z",
-    "first_vaccines":2723330,
-    "second_vaccines":1061599
+    "first_vaccines":2723366,
+    "second_vaccines":1061609
   },
   {
     "date_for":"2021-05-11T00:00:00.000Z",
-    "first_vaccines":2799423,
-    "second_vaccines":1068574
+    "first_vaccines":2799459,
+    "second_vaccines":1068584
   },
   {
     "date_for":"2021-05-12T00:00:00.000Z",
-    "first_vaccines":2879274,
-    "second_vaccines":1076080
+    "first_vaccines":2879310,
+    "second_vaccines":1076090
   },
   {
     "date_for":"2021-05-13T00:00:00.000Z",
-    "first_vaccines":2963282,
-    "second_vaccines":1083724
+    "first_vaccines":2963318,
+    "second_vaccines":1083735
   },
   {
     "date_for":"2021-05-14T00:00:00.000Z",
-    "first_vaccines":3042711,
-    "second_vaccines":1090395
+    "first_vaccines":3042749,
+    "second_vaccines":1090406
   },
   {
     "date_for":"2021-05-15T00:00:00.000Z",
-    "first_vaccines":3074590,
-    "second_vaccines":1092569
+    "first_vaccines":3074630,
+    "second_vaccines":1092581
   },
   {
     "date_for":"2021-05-16T00:00:00.000Z",
-    "first_vaccines":3100347,
-    "second_vaccines":1093819
+    "first_vaccines":3100387,
+    "second_vaccines":1093831
   },
   {
     "date_for":"2021-05-17T00:00:00.000Z",
-    "first_vaccines":3172843,
-    "second_vaccines":1099658
+    "first_vaccines":3172883,
+    "second_vaccines":1099670
   },
   {
     "date_for":"2021-05-18T00:00:00.000Z",
-    "first_vaccines":3244761,
-    "second_vaccines":1111717
+    "first_vaccines":3244802,
+    "second_vaccines":1111729
   },
   {
     "date_for":"2021-05-19T00:00:00.000Z",
-    "first_vaccines":3322205,
-    "second_vaccines":1125613
+    "first_vaccines":3322246,
+    "second_vaccines":1125626
   },
   {
     "date_for":"2021-05-20T00:00:00.000Z",
-    "first_vaccines":3397619,
-    "second_vaccines":1151006
+    "first_vaccines":3397661,
+    "second_vaccines":1151020
   },
   {
     "date_for":"2021-05-21T00:00:00.000Z",
-    "first_vaccines":3466363,
-    "second_vaccines":1177333
+    "first_vaccines":3466405,
+    "second_vaccines":1177347
   },
   {
     "date_for":"2021-05-22T00:00:00.000Z",
-    "first_vaccines":3498727,
-    "second_vaccines":1188327
+    "first_vaccines":3498770,
+    "second_vaccines":1188341
   },
   {
     "date_for":"2021-05-23T00:00:00.000Z",
-    "first_vaccines":3521074,
-    "second_vaccines":1197346
+    "first_vaccines":3521118,
+    "second_vaccines":1197361
   },
   {
     "date_for":"2021-05-24T00:00:00.000Z",
-    "first_vaccines":3568193,
-    "second_vaccines":1229715
+    "first_vaccines":3568236,
+    "second_vaccines":1229732
   },
   {
     "date_for":"2021-05-25T00:00:00.000Z",
-    "first_vaccines":3620024,
-    "second_vaccines":1263725
+    "first_vaccines":3620067,
+    "second_vaccines":1263742
   },
   {
     "date_for":"2021-05-26T00:00:00.000Z",
-    "first_vaccines":3687765,
-    "second_vaccines":1299328
+    "first_vaccines":3687809,
+    "second_vaccines":1299345
   },
   {
     "date_for":"2021-05-27T00:00:00.000Z",
-    "first_vaccines":3749136,
-    "second_vaccines":1344532
+    "first_vaccines":3749180,
+    "second_vaccines":1344549
   },
   {
     "date_for":"2021-05-28T00:00:00.000Z",
-    "first_vaccines":3810816,
-    "second_vaccines":1388979
+    "first_vaccines":3810860,
+    "second_vaccines":1388997
   },
   {
     "date_for":"2021-05-29T00:00:00.000Z",
-    "first_vaccines":3839983,
-    "second_vaccines":1405931
+    "first_vaccines":3840027,
+    "second_vaccines":1405949
   },
   {
     "date_for":"2021-05-30T00:00:00.000Z",
-    "first_vaccines":3862336,
-    "second_vaccines":1420349
+    "first_vaccines":3862380,
+    "second_vaccines":1420368
   },
   {
     "date_for":"2021-05-31T00:00:00.000Z",
-    "first_vaccines":3918059,
-    "second_vaccines":1466025
+    "first_vaccines":3918102,
+    "second_vaccines":1466046
   },
   {
     "date_for":"2021-06-01T00:00:00.000Z",
-    "first_vaccines":3977062,
-    "second_vaccines":1512572
+    "first_vaccines":3977105,
+    "second_vaccines":1512594
   },
   {
     "date_for":"2021-06-02T00:00:00.000Z",
-    "first_vaccines":4039933,
-    "second_vaccines":1564072
+    "first_vaccines":4039972,
+    "second_vaccines":1564094
   },
   {
     "date_for":"2021-06-03T00:00:00.000Z",
-    "first_vaccines":4098136,
-    "second_vaccines":1621457
+    "first_vaccines":4098176,
+    "second_vaccines":1621479
   },
   {
     "date_for":"2021-06-04T00:00:00.000Z",
-    "first_vaccines":4161203,
-    "second_vaccines":1675598
+    "first_vaccines":4161243,
+    "second_vaccines":1675620
   },
   {
     "date_for":"2021-06-05T00:00:00.000Z",
-    "first_vaccines":4195331,
-    "second_vaccines":1694295
+    "first_vaccines":4195371,
+    "second_vaccines":1694317
   },
   {
     "date_for":"2021-06-06T00:00:00.000Z",
-    "first_vaccines":4222236,
-    "second_vaccines":1709348
+    "first_vaccines":4222276,
+    "second_vaccines":1709370
   },
   {
     "date_for":"2021-06-07T00:00:00.000Z",
-    "first_vaccines":4285908,
-    "second_vaccines":1761823
+    "first_vaccines":4285948,
+    "second_vaccines":1761848
   },
   {
     "date_for":"2021-06-08T00:00:00.000Z",
-    "first_vaccines":4349870,
-    "second_vaccines":1813735
+    "first_vaccines":4349909,
+    "second_vaccines":1813759
   },
   {
     "date_for":"2021-06-09T00:00:00.000Z",
-    "first_vaccines":4409020,
-    "second_vaccines":1874630
+    "first_vaccines":4409059,
+    "second_vaccines":1874654
   },
   {
     "date_for":"2021-06-10T00:00:00.000Z",
-    "first_vaccines":4462878,
-    "second_vaccines":1942672
+    "first_vaccines":4462915,
+    "second_vaccines":1942696
   },
   {
     "date_for":"2021-06-11T00:00:00.000Z",
-    "first_vaccines":4514962,
-    "second_vaccines":2009268
+    "first_vaccines":4515001,
+    "second_vaccines":2009298
   },
   {
     "date_for":"2021-06-12T00:00:00.000Z",
-    "first_vaccines":4546959,
-    "second_vaccines":2029935
+    "first_vaccines":4546997,
+    "second_vaccines":2029969
   },
   {
     "date_for":"2021-06-13T00:00:00.000Z",
-    "first_vaccines":4570966,
-    "second_vaccines":2048261
+    "first_vaccines":4571004,
+    "second_vaccines":2048295
   },
   {
     "date_for":"2021-06-14T00:00:00.000Z",
-    "first_vaccines":4614028,
-    "second_vaccines":2120210
+    "first_vaccines":4614066,
+    "second_vaccines":2120246
   },
   {
     "date_for":"2021-06-15T00:00:00.000Z",
-    "first_vaccines":4658660,
-    "second_vaccines":2190339
+    "first_vaccines":4658698,
+    "second_vaccines":2190375
   },
   {
     "date_for":"2021-06-16T00:00:00.000Z",
-    "first_vaccines":4701384,
-    "second_vaccines":2265986
+    "first_vaccines":4701422,
+    "second_vaccines":2266021
   },
   {
     "date_for":"2021-06-17T00:00:00.000Z",
-    "first_vaccines":4740750,
-    "second_vaccines":2346820
+    "first_vaccines":4740788,
+    "second_vaccines":2346856
   },
   {
     "date_for":"2021-06-18T00:00:00.000Z",
-    "first_vaccines":4783134,
-    "second_vaccines":2425227
+    "first_vaccines":4783171,
+    "second_vaccines":2425265
   },
   {
     "date_for":"2021-06-19T00:00:00.000Z",
-    "first_vaccines":4804882,
-    "second_vaccines":2454447
+    "first_vaccines":4804921,
+    "second_vaccines":2454485
   },
   {
     "date_for":"2021-06-20T00:00:00.000Z",
-    "first_vaccines":4822245,
-    "second_vaccines":2478205
+    "first_vaccines":4822283,
+    "second_vaccines":2478243
   },
   {
     "date_for":"2021-06-21T00:00:00.000Z",
-    "first_vaccines":4854741,
-    "second_vaccines":2555287
+    "first_vaccines":4854779,
+    "second_vaccines":2555326
   },
   {
     "date_for":"2021-06-22T00:00:00.000Z",
-    "first_vaccines":4887689,
-    "second_vaccines":2635880
+    "first_vaccines":4887727,
+    "second_vaccines":2635920
   },
   {
     "date_for":"2021-06-23T00:00:00.000Z",
-    "first_vaccines":4919328,
-    "second_vaccines":2719236
+    "first_vaccines":4919365,
+    "second_vaccines":2719276
   },
   {
     "date_for":"2021-06-24T00:00:00.000Z",
-    "first_vaccines":4949156,
-    "second_vaccines":2807367
+    "first_vaccines":4949193,
+    "second_vaccines":2807408
   },
   {
     "date_for":"2021-06-25T00:00:00.000Z",
-    "first_vaccines":4980204,
-    "second_vaccines":2891725
+    "first_vaccines":4980241,
+    "second_vaccines":2891766
   },
   {
     "date_for":"2021-06-26T00:00:00.000Z",
-    "first_vaccines":4996062,
-    "second_vaccines":2926463
+    "first_vaccines":4996099,
+    "second_vaccines":2926504
   },
   {
     "date_for":"2021-06-27T00:00:00.000Z",
-    "first_vaccines":5010000,
-    "second_vaccines":2953065
+    "first_vaccines":5010037,
+    "second_vaccines":2953106
   },
   {
     "date_for":"2021-06-28T00:00:00.000Z",
-    "first_vaccines":5038398,
-    "second_vaccines":3036938
+    "first_vaccines":5038435,
+    "second_vaccines":3036981
   },
   {
     "date_for":"2021-06-29T00:00:00.000Z",
-    "first_vaccines":5067659,
-    "second_vaccines":3121895
+    "first_vaccines":5067696,
+    "second_vaccines":3121938
   },
   {
     "date_for":"2021-06-30T00:00:00.000Z",
-    "first_vaccines":5095136,
-    "second_vaccines":3211460
+    "first_vaccines":5095173,
+    "second_vaccines":3211504
   },
   {
     "date_for":"2021-07-01T00:00:00.000Z",
-    "first_vaccines":5119104,
-    "second_vaccines":3299676
+    "first_vaccines":5119141,
+    "second_vaccines":3299721
   },
   {
     "date_for":"2021-07-02T00:00:00.000Z",
-    "first_vaccines":5145808,
-    "second_vaccines":3383748
+    "first_vaccines":5145845,
+    "second_vaccines":3383793
   },
   {
     "date_for":"2021-07-03T00:00:00.000Z",
-    "first_vaccines":5152880,
-    "second_vaccines":3415213
+    "first_vaccines":5152917,
+    "second_vaccines":3415259
   },
   {
     "date_for":"2021-07-04T00:00:00.000Z",
-    "first_vaccines":5160429,
-    "second_vaccines":3436977
+    "first_vaccines":5160466,
+    "second_vaccines":3437023
   },
   {
     "date_for":"2021-07-05T00:00:00.000Z",
-    "first_vaccines":5167790,
-    "second_vaccines":3462307
+    "first_vaccines":5167827,
+    "second_vaccines":3462353
   },
   {
     "date_for":"2021-07-06T00:00:00.000Z",
-    "first_vaccines":5173194,
-    "second_vaccines":3489896
+    "first_vaccines":5173231,
+    "second_vaccines":3489942
   },
   {
     "date_for":"2021-07-07T00:00:00.000Z",
-    "first_vaccines":5198972,
-    "second_vaccines":3567830
+    "first_vaccines":5199009,
+    "second_vaccines":3567876
   },
   {
     "date_for":"2021-07-08T00:00:00.000Z",
-    "first_vaccines":5225556,
-    "second_vaccines":3636778
+    "first_vaccines":5225593,
+    "second_vaccines":3636824
   },
   {
     "date_for":"2021-07-09T00:00:00.000Z",
-    "first_vaccines":5253466,
-    "second_vaccines":3704563
+    "first_vaccines":5253503,
+    "second_vaccines":3704609
   },
   {
     "date_for":"2021-07-10T00:00:00.000Z",
-    "first_vaccines":5262807,
-    "second_vaccines":3733133
+    "first_vaccines":5262844,
+    "second_vaccines":3733180
   },
   {
     "date_for":"2021-07-11T00:00:00.000Z",
-    "first_vaccines":5271327,
-    "second_vaccines":3755958
+    "first_vaccines":5271364,
+    "second_vaccines":3756005
   },
   {
     "date_for":"2021-07-12T00:00:00.000Z",
-    "first_vaccines":5298843,
-    "second_vaccines":3823678
+    "first_vaccines":5298880,
+    "second_vaccines":3823726
   },
   {
     "date_for":"2021-07-13T00:00:00.000Z",
-    "first_vaccines":5325012,
-    "second_vaccines":3891640
+    "first_vaccines":5325049,
+    "second_vaccines":3891688
   },
   {
     "date_for":"2021-07-14T00:00:00.000Z",
-    "first_vaccines":5350811,
-    "second_vaccines":3961562
+    "first_vaccines":5350848,
+    "second_vaccines":3961610
   },
   {
     "date_for":"2021-07-15T00:00:00.000Z",
-    "first_vaccines":5379975,
-    "second_vaccines":4025156
+    "first_vaccines":5380012,
+    "second_vaccines":4025204
   },
   {
     "date_for":"2021-07-16T00:00:00.000Z",
-    "first_vaccines":5407881,
-    "second_vaccines":4095327
+    "first_vaccines":5407918,
+    "second_vaccines":4095375
   },
   {
     "date_for":"2021-07-17T00:00:00.000Z",
-    "first_vaccines":5416644,
-    "second_vaccines":4126226
+    "first_vaccines":5416681,
+    "second_vaccines":4126274
   },
   {
     "date_for":"2021-07-18T00:00:00.000Z",
-    "first_vaccines":5425081,
-    "second_vaccines":4151649
+    "first_vaccines":5425118,
+    "second_vaccines":4151697
   },
   {
     "date_for":"2021-07-19T00:00:00.000Z",
-    "first_vaccines":5448420,
-    "second_vaccines":4217146
+    "first_vaccines":5448457,
+    "second_vaccines":4217194
   },
   {
     "date_for":"2021-07-20T00:00:00.000Z",
-    "first_vaccines":5469792,
-    "second_vaccines":4282213
+    "first_vaccines":5469828,
+    "second_vaccines":4282261
   },
   {
     "date_for":"2021-07-21T00:00:00.000Z",
-    "first_vaccines":5493235,
-    "second_vaccines":4342776
+    "first_vaccines":5493270,
+    "second_vaccines":4342825
   },
   {
     "date_for":"2021-07-22T00:00:00.000Z",
-    "first_vaccines":5515586,
-    "second_vaccines":4398290
+    "first_vaccines":5515621,
+    "second_vaccines":4398339
   },
   {
     "date_for":"2021-07-23T00:00:00.000Z",
-    "first_vaccines":5538770,
-    "second_vaccines":4449866
+    "first_vaccines":5538806,
+    "second_vaccines":4449915
   },
   {
     "date_for":"2021-07-24T00:00:00.000Z",
-    "first_vaccines":5546077,
-    "second_vaccines":4476305
+    "first_vaccines":5546113,
+    "second_vaccines":4476354
   },
   {
     "date_for":"2021-07-25T00:00:00.000Z",
-    "first_vaccines":5552686,
-    "second_vaccines":4497249
+    "first_vaccines":5552723,
+    "second_vaccines":4497298
   },
   {
     "date_for":"2021-07-26T00:00:00.000Z",
-    "first_vaccines":5576214,
-    "second_vaccines":4543209
+    "first_vaccines":5576251,
+    "second_vaccines":4543258
   },
   {
     "date_for":"2021-07-27T00:00:00.000Z",
-    "first_vaccines":5598932,
-    "second_vaccines":4586474
+    "first_vaccines":5598970,
+    "second_vaccines":4586524
   },
   {
     "date_for":"2021-07-28T00:00:00.000Z",
-    "first_vaccines":5620173,
-    "second_vaccines":4628638
+    "first_vaccines":5620211,
+    "second_vaccines":4628688
   },
   {
     "date_for":"2021-07-29T00:00:00.000Z",
-    "first_vaccines":5641482,
-    "second_vaccines":4667206
+    "first_vaccines":5641520,
+    "second_vaccines":4667256
   },
   {
     "date_for":"2021-07-30T00:00:00.000Z",
-    "first_vaccines":5664746,
-    "second_vaccines":4706374
+    "first_vaccines":5664784,
+    "second_vaccines":4706424
   },
   {
     "date_for":"2021-07-31T00:00:00.000Z",
-    "first_vaccines":5673663,
-    "second_vaccines":4724317
+    "first_vaccines":5673701,
+    "second_vaccines":4724367
   },
   {
     "date_for":"2021-08-01T00:00:00.000Z",
-    "first_vaccines":5680375,
-    "second_vaccines":4739135
+    "first_vaccines":5680414,
+    "second_vaccines":4739184
   },
   {
     "date_for":"2021-08-02T00:00:00.000Z",
-    "first_vaccines":5698992,
-    "second_vaccines":4774184
+    "first_vaccines":5699031,
+    "second_vaccines":4774233
   },
   {
     "date_for":"2021-08-03T00:00:00.000Z",
-    "first_vaccines":5716615,
-    "second_vaccines":4809008
+    "first_vaccines":5716653,
+    "second_vaccines":4809057
   },
   {
     "date_for":"2021-08-04T00:00:00.000Z",
-    "first_vaccines":5732699,
-    "second_vaccines":4842708
+    "first_vaccines":5732737,
+    "second_vaccines":4842757
   },
   {
     "date_for":"2021-08-05T00:00:00.000Z",
-    "first_vaccines":5748719,
-    "second_vaccines":4880081
+    "first_vaccines":5748757,
+    "second_vaccines":4880130
   },
   {
     "date_for":"2021-08-06T00:00:00.000Z",
-    "first_vaccines":5765493,
-    "second_vaccines":4920223
+    "first_vaccines":5765532,
+    "second_vaccines":4920272
   },
   {
     "date_for":"2021-08-07T00:00:00.000Z",
-    "first_vaccines":5771081,
-    "second_vaccines":4936948
+    "first_vaccines":5771120,
+    "second_vaccines":4936997
   },
   {
     "date_for":"2021-08-08T00:00:00.000Z",
-    "first_vaccines":5775432,
-    "second_vaccines":4951593
+    "first_vaccines":5775471,
+    "second_vaccines":4951642
   },
   {
     "date_for":"2021-08-09T00:00:00.000Z",
-    "first_vaccines":5788066,
-    "second_vaccines":4994378
+    "first_vaccines":5788105,
+    "second_vaccines":4994427
   },
   {
     "date_for":"2021-08-10T00:00:00.000Z",
-    "first_vaccines":5799891,
-    "second_vaccines":5031700
+    "first_vaccines":5799930,
+    "second_vaccines":5031748
   },
   {
     "date_for":"2021-08-11T00:00:00.000Z",
-    "first_vaccines":5811244,
-    "second_vaccines":5072555
+    "first_vaccines":5811283,
+    "second_vaccines":5072603
   },
   {
     "date_for":"2021-08-12T00:00:00.000Z",
-    "first_vaccines":5822658,
-    "second_vaccines":5107142
+    "first_vaccines":5822697,
+    "second_vaccines":5107190
   },
   {
     "date_for":"2021-08-13T00:00:00.000Z",
-    "first_vaccines":5833373,
-    "second_vaccines":5145232
+    "first_vaccines":5833413,
+    "second_vaccines":5145280
   },
   {
     "date_for":"2021-08-14T00:00:00.000Z",
-    "first_vaccines":5836708,
-    "second_vaccines":5154852
+    "first_vaccines":5836748,
+    "second_vaccines":5154900
   },
   {
     "date_for":"2021-08-15T00:00:00.000Z",
-    "first_vaccines":5839291,
-    "second_vaccines":5164583
+    "first_vaccines":5839331,
+    "second_vaccines":5164631
   },
   {
     "date_for":"2021-08-16T00:00:00.000Z",
-    "first_vaccines":5849072,
-    "second_vaccines":5196716
+    "first_vaccines":5849112,
+    "second_vaccines":5196765
   },
   {
     "date_for":"2021-08-17T00:00:00.000Z",
-    "first_vaccines":5858661,
-    "second_vaccines":5221808
+    "first_vaccines":5858700,
+    "second_vaccines":5221857
   },
   {
     "date_for":"2021-08-18T00:00:00.000Z",
-    "first_vaccines":5868025,
-    "second_vaccines":5258520
+    "first_vaccines":5868064,
+    "second_vaccines":5258569
   },
   {
     "date_for":"2021-08-19T00:00:00.000Z",
-    "first_vaccines":5877685,
-    "second_vaccines":5294375
+    "first_vaccines":5877724,
+    "second_vaccines":5294424
   },
   {
     "date_for":"2021-08-20T00:00:00.000Z",
-    "first_vaccines":5889061,
-    "second_vaccines":5331913
+    "first_vaccines":5889100,
+    "second_vaccines":5331962
   },
   {
     "date_for":"2021-08-21T00:00:00.000Z",
-    "first_vaccines":5891775,
-    "second_vaccines":5343740
+    "first_vaccines":5891814,
+    "second_vaccines":5343789
   },
   {
     "date_for":"2021-08-22T00:00:00.000Z",
-    "first_vaccines":5894114,
-    "second_vaccines":5354899
+    "first_vaccines":5894153,
+    "second_vaccines":5354949
   },
   {
     "date_for":"2021-08-23T00:00:00.000Z",
-    "first_vaccines":5904641,
-    "second_vaccines":5391618
+    "first_vaccines":5904680,
+    "second_vaccines":5391669
   },
   {
     "date_for":"2021-08-24T00:00:00.000Z",
-    "first_vaccines":5914505,
-    "second_vaccines":5422589
+    "first_vaccines":5914544,
+    "second_vaccines":5422640
   },
   {
     "date_for":"2021-08-25T00:00:00.000Z",
-    "first_vaccines":5923366,
-    "second_vaccines":5448760
+    "first_vaccines":5923405,
+    "second_vaccines":5448812
   },
   {
     "date_for":"2021-08-26T00:00:00.000Z",
-    "first_vaccines":5931806,
-    "second_vaccines":5473063
+    "first_vaccines":5931845,
+    "second_vaccines":5473115
   },
   {
     "date_for":"2021-08-27T00:00:00.000Z",
-    "first_vaccines":5942117,
-    "second_vaccines":5496774
+    "first_vaccines":5942156,
+    "second_vaccines":5496825
   },
   {
     "date_for":"2021-08-28T00:00:00.000Z",
-    "first_vaccines":5944838,
-    "second_vaccines":5503085
+    "first_vaccines":5944877,
+    "second_vaccines":5503136
   },
   {
     "date_for":"2021-08-29T00:00:00.000Z",
-    "first_vaccines":5947240,
-    "second_vaccines":5508972
+    "first_vaccines":5947279,
+    "second_vaccines":5509023
   },
   {
     "date_for":"2021-08-30T00:00:00.000Z",
-    "first_vaccines":5955757,
-    "second_vaccines":5529130
+    "first_vaccines":5955796,
+    "second_vaccines":5529181
   },
   {
     "date_for":"2021-08-31T00:00:00.000Z",
-    "first_vaccines":5963421,
-    "second_vaccines":5545425
+    "first_vaccines":5963460,
+    "second_vaccines":5545476
   },
   {
     "date_for":"2021-09-01T00:00:00.000Z",
-    "first_vaccines":5969302,
-    "second_vaccines":5558073
+    "first_vaccines":5969340,
+    "second_vaccines":5558124
   },
   {
     "date_for":"2021-09-02T00:00:00.000Z",
-    "first_vaccines":5976127,
-    "second_vaccines":5570583
+    "first_vaccines":5976165,
+    "second_vaccines":5570634
   },
   {
     "date_for":"2021-09-03T00:00:00.000Z",
-    "first_vaccines":5985678,
-    "second_vaccines":5584301
+    "first_vaccines":5985716,
+    "second_vaccines":5584352
   },
   {
     "date_for":"2021-09-04T00:00:00.000Z",
-    "first_vaccines":5987741,
-    "second_vaccines":5587224
+    "first_vaccines":5987779,
+    "second_vaccines":5587275
   },
   {
     "date_for":"2021-09-05T00:00:00.000Z",
-    "first_vaccines":5989773,
-    "second_vaccines":5589535
+    "first_vaccines":5989812,
+    "second_vaccines":5589586
   },
   {
     "date_for":"2021-09-06T00:00:00.000Z",
-    "first_vaccines":5996002,
-    "second_vaccines":5600630
+    "first_vaccines":5996041,
+    "second_vaccines":5600681
   },
   {
     "date_for":"2021-09-07T00:00:00.000Z",
-    "first_vaccines":6000378,
-    "second_vaccines":5610218
+    "first_vaccines":6000417,
+    "second_vaccines":5610270
   },
   {
     "date_for":"2021-09-08T00:00:00.000Z",
-    "first_vaccines":6006035,
-    "second_vaccines":5618791
+    "first_vaccines":6006074,
+    "second_vaccines":5618843
   },
   {
     "date_for":"2021-09-09T00:00:00.000Z",
-    "first_vaccines":6012710,
-    "second_vaccines":5627267
+    "first_vaccines":6012749,
+    "second_vaccines":5627319
   },
   {
     "date_for":"2021-09-10T00:00:00.000Z",
-    "first_vaccines":6020390,
-    "second_vaccines":5637885
+    "first_vaccines":6020428,
+    "second_vaccines":5637937
   },
   {
     "date_for":"2021-09-11T00:00:00.000Z",
-    "first_vaccines":6022251,
-    "second_vaccines":5639738
+    "first_vaccines":6022289,
+    "second_vaccines":5639791
   },
   {
     "date_for":"2021-09-12T00:00:00.000Z",
-    "first_vaccines":6023365,
-    "second_vaccines":5640914
+    "first_vaccines":6023403,
+    "second_vaccines":5640968
   },
   {
     "date_for":"2021-09-13T00:00:00.000Z",
-    "first_vaccines":6028787,
-    "second_vaccines":5649719
+    "first_vaccines":6028825,
+    "second_vaccines":5649773
   },
   {
     "date_for":"2021-09-14T00:00:00.000Z",
-    "first_vaccines":6034169,
-    "second_vaccines":5657292
+    "first_vaccines":6034207,
+    "second_vaccines":5657346
   },
   {
     "date_for":"2021-09-15T00:00:00.000Z",
-    "first_vaccines":6039356,
-    "second_vaccines":5664486
+    "first_vaccines":6039393,
+    "second_vaccines":5664540
   },
   {
     "date_for":"2021-09-16T00:00:00.000Z",
-    "first_vaccines":6044698,
-    "second_vaccines":5671188
+    "first_vaccines":6044735,
+    "second_vaccines":5671242
   },
   {
     "date_for":"2021-09-17T00:00:00.000Z",
-    "first_vaccines":6051263,
-    "second_vaccines":5679624
+    "first_vaccines":6051300,
+    "second_vaccines":5679680
   },
   {
     "date_for":"2021-09-18T00:00:00.000Z",
-    "first_vaccines":6052987,
-    "second_vaccines":5681418
+    "first_vaccines":6053024,
+    "second_vaccines":5681474
   },
   {
     "date_for":"2021-09-19T00:00:00.000Z",
-    "first_vaccines":6053928,
-    "second_vaccines":5682584
+    "first_vaccines":6053965,
+    "second_vaccines":5682640
   },
   {
     "date_for":"2021-09-20T00:00:00.000Z",
-    "first_vaccines":6057934,
-    "second_vaccines":5689685
+    "first_vaccines":6057971,
+    "second_vaccines":5689741
   },
   {
     "date_for":"2021-09-21T00:00:00.000Z",
-    "first_vaccines":6062161,
-    "second_vaccines":5696077
+    "first_vaccines":6062198,
+    "second_vaccines":5696133
   },
   {
     "date_for":"2021-09-22T00:00:00.000Z",
-    "first_vaccines":6066334,
-    "second_vaccines":5700479
+    "first_vaccines":6066371,
+    "second_vaccines":5700535
   },
   {
     "date_for":"2021-09-23T00:00:00.000Z",
-    "first_vaccines":6071309,
-    "second_vaccines":5705502
+    "first_vaccines":6071346,
+    "second_vaccines":5705558
   },
   {
     "date_for":"2021-09-24T00:00:00.000Z",
-    "first_vaccines":6077061,
-    "second_vaccines":5713516
+    "first_vaccines":6077098,
+    "second_vaccines":5713572
   },
   {
     "date_for":"2021-09-25T00:00:00.000Z",
-    "first_vaccines":6078551,
-    "second_vaccines":5714969
+    "first_vaccines":6078588,
+    "second_vaccines":5715025
   },
   {
     "date_for":"2021-09-26T00:00:00.000Z",
-    "first_vaccines":6079291,
-    "second_vaccines":5716300
+    "first_vaccines":6079328,
+    "second_vaccines":5716356
   },
   {
     "date_for":"2021-09-27T00:00:00.000Z",
-    "first_vaccines":6083165,
-    "second_vaccines":5721723
+    "first_vaccines":6083203,
+    "second_vaccines":5721779
   },
   {
     "date_for":"2021-09-28T00:00:00.000Z",
-    "first_vaccines":6083522,
-    "second_vaccines":5722144
+    "first_vaccines":6083560,
+    "second_vaccines":5722200
   },
   {
     "date_for":"2021-09-29T00:00:00.000Z",
-    "first_vaccines":6087292,
-    "second_vaccines":5728533
+    "first_vaccines":6087330,
+    "second_vaccines":5728589
   },
   {
     "date_for":"2021-09-30T00:00:00.000Z",
-    "first_vaccines":6091787,
-    "second_vaccines":5735075
+    "first_vaccines":6091825,
+    "second_vaccines":5735131
   },
   {
     "date_for":"2021-10-01T00:00:00.000Z",
-    "first_vaccines":6096072,
-    "second_vaccines":5741927
+    "first_vaccines":6096110,
+    "second_vaccines":5741983
   },
   {
     "date_for":"2021-10-02T00:00:00.000Z",
-    "first_vaccines":6097131,
-    "second_vaccines":5743125
+    "first_vaccines":6097169,
+    "second_vaccines":5743181
   },
   {
     "date_for":"2021-10-03T00:00:00.000Z",
-    "first_vaccines":6097846,
-    "second_vaccines":5743688
+    "first_vaccines":6097884,
+    "second_vaccines":5743744
   },
   {
     "date_for":"2021-10-04T00:00:00.000Z",
-    "first_vaccines":6100913,
-    "second_vaccines":5748423
+    "first_vaccines":6100951,
+    "second_vaccines":5748479
   },
   {
     "date_for":"2021-10-05T00:00:00.000Z",
-    "first_vaccines":6104066,
-    "second_vaccines":5752510
+    "first_vaccines":6104104,
+    "second_vaccines":5752566
   },
   {
     "date_for":"2021-10-06T00:00:00.000Z",
-    "first_vaccines":6107576,
-    "second_vaccines":5756722
+    "first_vaccines":6107614,
+    "second_vaccines":5756778
   },
   {
     "date_for":"2021-10-07T00:00:00.000Z",
-    "first_vaccines":6110846,
-    "second_vaccines":5761016
+    "first_vaccines":6110884,
+    "second_vaccines":5761072
   },
   {
     "date_for":"2021-10-08T00:00:00.000Z",
-    "first_vaccines":6115627,
-    "second_vaccines":5766384
+    "first_vaccines":6115665,
+    "second_vaccines":5766440
   },
   {
     "date_for":"2021-10-09T00:00:00.000Z",
-    "first_vaccines":6116865,
-    "second_vaccines":5767655
+    "first_vaccines":6116904,
+    "second_vaccines":5767711
   },
   {
     "date_for":"2021-10-10T00:00:00.000Z",
-    "first_vaccines":6117805,
-    "second_vaccines":5768229
+    "first_vaccines":6117844,
+    "second_vaccines":5768285
   },
   {
     "date_for":"2021-10-11T00:00:00.000Z",
-    "first_vaccines":6120731,
-    "second_vaccines":5771921
+    "first_vaccines":6120770,
+    "second_vaccines":5771976
   },
   {
     "date_for":"2021-10-12T00:00:00.000Z",
-    "first_vaccines":6123649,
-    "second_vaccines":5775200
+    "first_vaccines":6123688,
+    "second_vaccines":5775255
   },
   {
     "date_for":"2021-10-13T00:00:00.000Z",
-    "first_vaccines":6127182,
-    "second_vaccines":5778471
+    "first_vaccines":6127221,
+    "second_vaccines":5778526
   },
   {
     "date_for":"2021-10-14T00:00:00.000Z",
-    "first_vaccines":6130857,
-    "second_vaccines":5782277
+    "first_vaccines":6130896,
+    "second_vaccines":5782332
   },
   {
     "date_for":"2021-10-15T00:00:00.000Z",
-    "first_vaccines":6136082,
-    "second_vaccines":5787042
+    "first_vaccines":6136121,
+    "second_vaccines":5787097
   },
   {
     "date_for":"2021-10-16T00:00:00.000Z",
-    "first_vaccines":6137478,
-    "second_vaccines":5788077
+    "first_vaccines":6137517,
+    "second_vaccines":5788132
   },
   {
     "date_for":"2021-10-17T00:00:00.000Z",
-    "first_vaccines":6138797,
-    "second_vaccines":5788581
+    "first_vaccines":6138836,
+    "second_vaccines":5788636
   },
   {
     "date_for":"2021-10-18T00:00:00.000Z",
-    "first_vaccines":6142906,
-    "second_vaccines":5791576
+    "first_vaccines":6142945,
+    "second_vaccines":5791631
   },
   {
     "date_for":"2021-10-19T00:00:00.000Z",
-    "first_vaccines":6146475,
-    "second_vaccines":5792652
+    "first_vaccines":6146514,
+    "second_vaccines":5792707
   },
   {
     "date_for":"2021-10-20T00:00:00.000Z",
-    "first_vaccines":6151337,
-    "second_vaccines":5795684
+    "first_vaccines":6151376,
+    "second_vaccines":5795739
   },
   {
     "date_for":"2021-10-21T00:00:00.000Z",
-    "first_vaccines":6159088,
-    "second_vaccines":5799022
+    "first_vaccines":6159126,
+    "second_vaccines":5799077
   },
   {
     "date_for":"2021-10-22T00:00:00.000Z",
-    "first_vaccines":6169527,
-    "second_vaccines":5802702
+    "first_vaccines":6169565,
+    "second_vaccines":5802757
   },
   {
     "date_for":"2021-10-23T00:00:00.000Z",
-    "first_vaccines":6173197,
-    "second_vaccines":5803553
+    "first_vaccines":6173235,
+    "second_vaccines":5803608
   },
   {
     "date_for":"2021-10-24T00:00:00.000Z",
-    "first_vaccines":6175880,
-    "second_vaccines":5804072
+    "first_vaccines":6175918,
+    "second_vaccines":5804127
   },
   {
     "date_for":"2021-10-25T00:00:00.000Z",
-    "first_vaccines":6186355,
-    "second_vaccines":5806728
+    "first_vaccines":6186393,
+    "second_vaccines":5806783
   },
   {
     "date_for":"2021-10-26T00:00:00.000Z",
-    "first_vaccines":6198274,
-    "second_vaccines":5809155
+    "first_vaccines":6198312,
+    "second_vaccines":5809210
   },
   {
     "date_for":"2021-10-27T00:00:00.000Z",
-    "first_vaccines":6212868,
-    "second_vaccines":5812310
+    "first_vaccines":6212906,
+    "second_vaccines":5812365
   },
   {
     "date_for":"2021-10-28T00:00:00.000Z",
-    "first_vaccines":6216272,
-    "second_vaccines":5812772
+    "first_vaccines":6216310,
+    "second_vaccines":5812827
   },
   {
     "date_for":"2021-10-29T00:00:00.000Z",
-    "first_vaccines":6230689,
-    "second_vaccines":5816601
+    "first_vaccines":6230727,
+    "second_vaccines":5816656
   },
   {
     "date_for":"2021-10-30T00:00:00.000Z",
-    "first_vaccines":6235217,
-    "second_vaccines":5817505
+    "first_vaccines":6235255,
+    "second_vaccines":5817560
   },
   {
     "date_for":"2021-10-31T00:00:00.000Z",
-    "first_vaccines":6238977,
-    "second_vaccines":5818316
+    "first_vaccines":6239015,
+    "second_vaccines":5818371
   },
   {
     "date_for":"2021-11-01T00:00:00.000Z",
-    "first_vaccines":6254162,
-    "second_vaccines":5821335
+    "first_vaccines":6254200,
+    "second_vaccines":5821390
   },
   {
     "date_for":"2021-11-02T00:00:00.000Z",
-    "first_vaccines":6269568,
-    "second_vaccines":5824077
+    "first_vaccines":6269632,
+    "second_vaccines":5824132
   },
   {
     "date_for":"2021-11-03T00:00:00.000Z",
-    "first_vaccines":6286720,
-    "second_vaccines":5827195
+    "first_vaccines":6286783,
+    "second_vaccines":5827250
   },
   {
     "date_for":"2021-11-04T00:00:00.000Z",
-    "first_vaccines":6305018,
-    "second_vaccines":5830305
+    "first_vaccines":6305092,
+    "second_vaccines":5830360
   },
   {
     "date_for":"2021-11-05T00:00:00.000Z",
-    "first_vaccines":6327786,
-    "second_vaccines":5834788
+    "first_vaccines":6327861,
+    "second_vaccines":5834843
   },
   {
     "date_for":"2021-11-06T00:00:00.000Z",
-    "first_vaccines":6334286,
-    "second_vaccines":5835789
+    "first_vaccines":6334361,
+    "second_vaccines":5835844
   },
   {
     "date_for":"2021-11-07T00:00:00.000Z",
-    "first_vaccines":6338302,
-    "second_vaccines":5836586
+    "first_vaccines":6338377,
+    "second_vaccines":5836641
   },
   {
     "date_for":"2021-11-08T00:00:00.000Z",
-    "first_vaccines":6354527,
-    "second_vaccines":5839716
+    "first_vaccines":6354621,
+    "second_vaccines":5839771
   },
   {
     "date_for":"2021-11-09T00:00:00.000Z",
-    "first_vaccines":6369278,
-    "second_vaccines":5842323
+    "first_vaccines":6369372,
+    "second_vaccines":5842378
   },
   {
     "date_for":"2021-11-10T00:00:00.000Z",
-    "first_vaccines":6384971,
-    "second_vaccines":5845737
+    "first_vaccines":6385065,
+    "second_vaccines":5845792
   },
   {
     "date_for":"2021-11-11T00:00:00.000Z",
-    "first_vaccines":6400351,
-    "second_vaccines":5850505
+    "first_vaccines":6400448,
+    "second_vaccines":5850560
   },
   {
     "date_for":"2021-11-12T00:00:00.000Z",
-    "first_vaccines":6420087,
-    "second_vaccines":5857594
+    "first_vaccines":6420186,
+    "second_vaccines":5857649
   },
   {
     "date_for":"2021-11-13T00:00:00.000Z",
-    "first_vaccines":6425466,
-    "second_vaccines":5859585
+    "first_vaccines":6425565,
+    "second_vaccines":5859640
   },
   {
     "date_for":"2021-11-14T00:00:00.000Z",
-    "first_vaccines":6429345,
-    "second_vaccines":5860980
+    "first_vaccines":6429444,
+    "second_vaccines":5861035
   },
   {
     "date_for":"2021-11-15T00:00:00.000Z",
-    "first_vaccines":6444333,
-    "second_vaccines":5867356
+    "first_vaccines":6444431,
+    "second_vaccines":5867411
   },
   {
     "date_for":"2021-11-16T00:00:00.000Z",
-    "first_vaccines":6461746,
-    "second_vaccines":5874723
+    "first_vaccines":6461844,
+    "second_vaccines":5874778
   },
   {
     "date_for":"2021-11-17T00:00:00.000Z",
-    "first_vaccines":6465952,
-    "second_vaccines":5877005
+    "first_vaccines":6466050,
+    "second_vaccines":5877061
   },
   {
     "date_for":"2021-11-18T00:00:00.000Z",
-    "first_vaccines":6485262,
-    "second_vaccines":5883686
+    "first_vaccines":6485362,
+    "second_vaccines":5883742
   },
   {
     "date_for":"2021-11-19T00:00:00.000Z",
-    "first_vaccines":6509713,
-    "second_vaccines":5894580
+    "first_vaccines":6509814,
+    "second_vaccines":5894636
   },
   {
     "date_for":"2021-11-20T00:00:00.000Z",
-    "first_vaccines":6518243,
-    "second_vaccines":5897205
+    "first_vaccines":6518345,
+    "second_vaccines":5897261
   },
   {
     "date_for":"2021-11-21T00:00:00.000Z",
-    "first_vaccines":6524982,
-    "second_vaccines":5899194
+    "first_vaccines":6525087,
+    "second_vaccines":5899249
   },
   {
     "date_for":"2021-11-22T00:00:00.000Z",
-    "first_vaccines":6543296,
-    "second_vaccines":5908996
+    "first_vaccines":6543401,
+    "second_vaccines":5909052
   },
   {
     "date_for":"2021-11-23T00:00:00.000Z",
-    "first_vaccines":6562227,
-    "second_vaccines":5918507
+    "first_vaccines":6562335,
+    "second_vaccines":5918581
   },
   {
     "date_for":"2021-11-24T00:00:00.000Z",
-    "first_vaccines":6581097,
-    "second_vaccines":5930664
+    "first_vaccines":6581209,
+    "second_vaccines":5930738
   },
   {
     "date_for":"2021-11-25T00:00:00.000Z",
-    "first_vaccines":6600124,
-    "second_vaccines":5942157
+    "first_vaccines":6600238,
+    "second_vaccines":5942250
   },
   {
     "date_for":"2021-11-26T00:00:00.000Z",
-    "first_vaccines":6621621,
-    "second_vaccines":5957093
+    "first_vaccines":6621734,
+    "second_vaccines":5957189
   },
   {
     "date_for":"2021-11-27T00:00:00.000Z",
-    "first_vaccines":6629022,
-    "second_vaccines":5961083
+    "first_vaccines":6629135,
+    "second_vaccines":5961179
   },
   {
     "date_for":"2021-11-28T00:00:00.000Z",
-    "first_vaccines":6632331,
-    "second_vaccines":5963344
+    "first_vaccines":6632445,
+    "second_vaccines":5963440
   },
   {
     "date_for":"2021-11-29T00:00:00.000Z",
-    "first_vaccines":6647460,
-    "second_vaccines":5974638
+    "first_vaccines":6647574,
+    "second_vaccines":5974735
   },
   {
     "date_for":"2021-11-30T00:00:00.000Z",
-    "first_vaccines":6660572,
-    "second_vaccines":5983851
+    "first_vaccines":6660687,
+    "second_vaccines":5983948
   },
   {
     "date_for":"2021-12-01T00:00:00.000Z",
-    "first_vaccines":6674462,
-    "second_vaccines":5994442
+    "first_vaccines":6674578,
+    "second_vaccines":5994540
   },
   {
     "date_for":"2021-12-02T00:00:00.000Z",
-    "first_vaccines":6685008,
-    "second_vaccines":6005107
+    "first_vaccines":6685125,
+    "second_vaccines":6005206
   },
   {
     "date_for":"2021-12-03T00:00:00.000Z",
-    "first_vaccines":6694427,
-    "second_vaccines":6018572
+    "first_vaccines":6694548,
+    "second_vaccines":6018672
   },
   {
     "date_for":"2021-12-04T00:00:00.000Z",
-    "first_vaccines":6696943,
-    "second_vaccines":6021859
+    "first_vaccines":6697066,
+    "second_vaccines":6021959
   },
   {
     "date_for":"2021-12-05T00:00:00.000Z",
-    "first_vaccines":6698279,
-    "second_vaccines":6023844
+    "first_vaccines":6698403,
+    "second_vaccines":6023944
   },
   {
     "date_for":"2021-12-06T00:00:00.000Z",
-    "first_vaccines":6706328,
-    "second_vaccines":6034226
+    "first_vaccines":6706454,
+    "second_vaccines":6034344
   },
   {
     "date_for":"2021-12-07T00:00:00.000Z",
-    "first_vaccines":6714054,
-    "second_vaccines":6045203
+    "first_vaccines":6714184,
+    "second_vaccines":6045322
   },
   {
     "date_for":"2021-12-08T00:00:00.000Z",
-    "first_vaccines":6722202,
-    "second_vaccines":6050205
+    "first_vaccines":6722340,
+    "second_vaccines":6050325
   },
   {
     "date_for":"2021-12-09T00:00:00.000Z",
-    "first_vaccines":6729152,
-    "second_vaccines":6062224
+    "first_vaccines":6729298,
+    "second_vaccines":6062359
   },
   {
     "date_for":"2021-12-10T00:00:00.000Z",
-    "first_vaccines":6735688,
-    "second_vaccines":6078846
+    "first_vaccines":6735916,
+    "second_vaccines":6078993
   },
   {
     "date_for":"2021-12-11T00:00:00.000Z",
-    "first_vaccines":6737218,
-    "second_vaccines":6083657
+    "first_vaccines":6737529,
+    "second_vaccines":6083955
+  },
+  {
+    "date_for":"2021-12-12T00:00:00.000Z",
+    "first_vaccines":6738699,
+    "second_vaccines":6088134
   }
 ]
