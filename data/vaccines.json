@@ -2676,22 +2676,27 @@
   },
   {
     "date_for":"2022-06-15T00:00:00.000Z",
-    "first_vaccines":6964349,
+    "first_vaccines":6964350,
     "second_vaccines":6467172
   },
   {
     "date_for":"2022-06-16T00:00:00.000Z",
-    "first_vaccines":6964417,
-    "second_vaccines":6467343
+    "first_vaccines":6964418,
+    "second_vaccines":6467345
   },
   {
     "date_for":"2022-06-17T00:00:00.000Z",
-    "first_vaccines":6964562,
-    "second_vaccines":6467601
+    "first_vaccines":6964564,
+    "second_vaccines":6467603
   },
   {
     "date_for":"2022-06-18T00:00:00.000Z",
-    "first_vaccines":6964575,
-    "second_vaccines":6467640
+    "first_vaccines":6964577,
+    "second_vaccines":6467642
+  },
+  {
+    "date_for":"2022-06-19T00:00:00.000Z",
+    "first_vaccines":6964580,
+    "second_vaccines":6467650
   }
 ]
